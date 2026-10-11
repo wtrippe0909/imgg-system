@@ -1,0 +1,15 @@
+{
+  "name": "imgg-system",
+  "private": true,
+  "type": "module",
+  "description": "Hub site, press kits, audit and release tracking for IMGG, raquielonara988 and gfed0909.",
+  "scripts": {
+    "fetch": "node scripts/fetch-bandcamp.mjs",
+    "audit": "node scripts/audit.mjs",
+    "notify": "node scripts/notify.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/build.mjs && cd dist && python3 -m http.server 8080",
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
