@@ -1,53 +1,1930 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-10-11T02:30:12.236Z",
   "projects": [
     {
       "id": "imgg",
       "name": "IMGG",
       "bandcampUrl": "https://imgg.bandcamp.com/",
-      "placeholder": true,
-      "tagline": "PLACEHOLDER – one-line description of IMGG",
-      "bio": "PLACEHOLDER – short bio. Run `npm run fetch` with bandcamp.com allowed, or paste the real bio here.",
-      "location": "",
+      "placeholder": false,
+      "tagline": "",
+      "bio": "IMGG is an independent music collective pushing sonic boundaries. Home to the visionary, raw lyricism of Raquiel Onara 988\n                        and the genre-bending production of William Trippe, the label champions bold voices and unfiltered storytelling shaping the next wave of modern sound.\n                         more",
+      "location": "Tampa, Florida",
       "genres": [],
-      "tags": [],
-      "image": "",
+      "tags": [
+        "Rock",
+        "alternative rock",
+        "atmospheric rock",
+        "cinematic rock",
+        "dark alternative",
+        "dream pop",
+        "emotional",
+        "ethereal rock",
+        "female vocals",
+        "melancholic",
+        "shoegaze",
+        "Tampa",
+        "blues rock",
+        "gospel blues",
+        "narrative",
+        "outlaw blues",
+        "redemption",
+        "rock",
+        "soul",
+        "southern rock",
+        "spoken word",
+        "chamber folk",
+        "contemporary classical",
+        "dark folk",
+        "experimental",
+        "neoclassical",
+        "sprechgesang",
+        "Darkwave",
+        "Esoteric Metal",
+        "Industrial Metal",
+        "Progressive Metal",
+        "Symphonic Black Metal",
+        "Cinematic Trap",
+        "Dark Ambient",
+        "Esoteric Hip-Hop",
+        "Industrial Rock",
+        "Neoclassical Darkwave",
+        "Space Rock",
+        "Cinematic",
+        "Cyberpunk",
+        "Electronic Rock",
+        "Industrial",
+        "Spoken Word",
+        "dark trap",
+        "industrial metal",
+        "trap metal",
+        "80s Synthwave",
+        "Dreamwave",
+        "Retrowave",
+        "Alternative Metal",
+        "Post-Grunge",
+        "Alt Rock",
+        "Gothic Metal",
+        "Symphonic Metal"
+      ],
+      "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
-        { "label": "Bandcamp", "url": "https://imgg.bandcamp.com/" }
+        {
+          "label": "Bandcamp",
+          "url": "https://imgg.bandcamp.com/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/share/1EwmijL8FC/"
+        }
       ],
       "contact": "",
-      "releases": []
+      "releases": [
+        {
+          "title": "Drawn to the Broken",
+          "type": "track",
+          "url": "https://raquielonara988.bandcamp.com/track/drawn-to-the-broken",
+          "date": "2026-08-08",
+          "image": "https://f4.bcbits.com/img/a2068346706_10.jpg",
+          "price": 0,
+          "currency": null,
+          "nameYourPrice": true,
+          "tags": [
+            "Rock",
+            "alternative rock",
+            "atmospheric rock",
+            "cinematic rock",
+            "dark alternative",
+            "dream pop",
+            "emotional",
+            "ethereal rock",
+            "female vocals",
+            "melancholic",
+            "shoegaze",
+            "Tampa"
+          ],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Drawn to the Broken",
+              "seconds": 239,
+              "url": "https://raquielonara988.bandcamp.com/track/drawn-to-the-broken"
+            }
+          ]
+        },
+        {
+          "title": "The Trail of the White Wolf",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/the-trail-of-the-white-wolf",
+          "date": "2025-11-23",
+          "image": "https://f4.bcbits.com/img/a0958368810_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Rock",
+            "blues rock",
+            "gospel blues",
+            "narrative",
+            "outlaw blues",
+            "redemption",
+            "rock",
+            "soul",
+            "southern rock",
+            "spoken word",
+            "Tampa"
+          ],
+          "about": "This album chronicles the true story of Rick Prince, translating his journey from a talented pool hustler in Augusta, Georgia, to a convicted felon, and finally, to a man reborn by faith and dedicated to a new life in the Colorado wilderness. Every track adheres to the raw, soulful sound of Southern Rock & Blues.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Augusta Born",
+              "seconds": 245,
+              "url": "https://raquielonara988.bandcamp.com/track/augusta-born"
+            },
+            {
+              "position": 2,
+              "title": "The Hustler's Mark",
+              "seconds": 226,
+              "url": "https://raquielonara988.bandcamp.com/track/the-hustlers-mark"
+            },
+            {
+              "position": 3,
+              "title": "Three Hundred a Day",
+              "seconds": 230,
+              "url": "https://raquielonara988.bandcamp.com/track/three-hundred-a-day"
+            },
+            {
+              "position": 4,
+              "title": "Lone Wolf Howling",
+              "seconds": 229,
+              "url": "https://raquielonara988.bandcamp.com/track/lone-wolf-howling"
+            },
+            {
+              "position": 5,
+              "title": "The Arm of the Lord",
+              "seconds": 239,
+              "url": "https://raquielonara988.bandcamp.com/track/the-arm-of-the-lord"
+            },
+            {
+              "position": 6,
+              "title": "​18 Racks to Freedom",
+              "seconds": 230,
+              "url": "https://raquielonara988.bandcamp.com/track/18-racks-to-freedom"
+            },
+            {
+              "position": 7,
+              "title": "​The Trail is Complete",
+              "seconds": 205,
+              "url": "https://raquielonara988.bandcamp.com/track/the-trail-is-complete"
+            }
+          ]
+        },
+        {
+          "title": "The Quiet Accounting",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/the-quiet-accounting",
+          "date": "2025-11-22",
+          "image": "https://f4.bcbits.com/img/a3215192878_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Rock",
+            "chamber folk",
+            "contemporary classical",
+            "dark folk",
+            "experimental",
+            "neoclassical",
+            "spoken word",
+            "sprechgesang",
+            "Tampa"
+          ],
+          "about": "The Quiet Accounting is a sonic triptych that reframes grief as a bureaucratic process—a quiet foreclosure on the self. Drawing from the framework of Learned Helplessness, the project renders loss as a clinical amputation, where silence acts as administrator and memory functions as an uncompromising debt collector. The trilogy defines the aesthetic of the Brutalist Lullaby, merging the intimate softness of acoustic folk with the cold precision of neoclassical structures, creating a soundscape that is at once devastating, meticulous, and hauntingly beautiful.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Quiet Accounting",
+              "seconds": 291,
+              "url": "https://raquielonara988.bandcamp.com/track/the-quiet-accounting"
+            },
+            {
+              "position": 2,
+              "title": "The Black Inventory",
+              "seconds": 318,
+              "url": "https://raquielonara988.bandcamp.com/track/the-black-inventory"
+            },
+            {
+              "position": 3,
+              "title": "The Final Architecture",
+              "seconds": 278,
+              "url": "https://raquielonara988.bandcamp.com/track/the-final-architecture"
+            }
+          ]
+        },
+        {
+          "title": "Plastic Sky Collapse",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/plastic-sky-collapse",
+          "date": "2025-09-11",
+          "image": "https://f4.bcbits.com/img/a1305805640_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Darkwave",
+            "Esoteric Metal",
+            "Industrial Metal",
+            "Progressive Metal",
+            "Rock",
+            "Symphonic Black Metal",
+            "Tampa"
+          ],
+          "about": "Plastic Sky Collapse is a Gnostic concept album tracing a soul’s violent journey from digital enslavement to divine selfhood. Its sound shifts from hazy lo-fi prisons to industrial noir grit and erupts into symphonic black metal, carrying a multi-vocal trinity: the guttural Decree of forbidden lore, the soaring Lament of resilience, and the epic Choir witnessing the cosmic drama. The narrative follows the shattering of a “plastic sky,” revealing that true liberation lies not in manufactured utopias, but in the brutal alchemy of forging authentic identity from illusion and ash. It is a sonic ritual of disillusionment, awakening, and sovereign reclamation.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Builders’ Prophecy",
+              "seconds": 345,
+              "url": "https://raquielonara988.bandcamp.com/track/the-builders-prophecy"
+            },
+            {
+              "position": 2,
+              "title": "Echoes of the Prime Mover",
+              "seconds": 234,
+              "url": "https://raquielonara988.bandcamp.com/track/echoes-of-the-prime-mover"
+            },
+            {
+              "position": 3,
+              "title": "Ghost in the Machine",
+              "seconds": 263,
+              "url": "https://raquielonara988.bandcamp.com/track/ghost-in-the-machine"
+            },
+            {
+              "position": 4,
+              "title": "Echoes of the Watchers",
+              "seconds": 332,
+              "url": "https://raquielonara988.bandcamp.com/track/echoes-of-the-watchers"
+            },
+            {
+              "position": 5,
+              "title": "Pixelated Gnosis",
+              "seconds": 322,
+              "url": "https://raquielonara988.bandcamp.com/track/pixelated-gnosis"
+            },
+            {
+              "position": 6,
+              "title": "Thoth’s Fire",
+              "seconds": 424,
+              "url": "https://raquielonara988.bandcamp.com/track/thoth-s-fire"
+            },
+            {
+              "position": 7,
+              "title": "Plastic Sky Collapse",
+              "seconds": 359,
+              "url": "https://raquielonara988.bandcamp.com/track/plastic-sky-collapse"
+            },
+            {
+              "position": 8,
+              "title": "The Phil Schneider Mystery",
+              "seconds": 460,
+              "url": "https://raquielonara988.bandcamp.com/track/the-phil-schneider-mystery"
+            },
+            {
+              "position": 9,
+              "title": "The Liberator",
+              "seconds": 411,
+              "url": "https://raquielonara988.bandcamp.com/track/the-liberator"
+            },
+            {
+              "position": 10,
+              "title": "Nigredo Ascendant",
+              "seconds": 285,
+              "url": "https://raquielonara988.bandcamp.com/track/nigredo-ascendant"
+            },
+            {
+              "position": 11,
+              "title": "Chronos Break",
+              "seconds": 436,
+              "url": "https://raquielonara988.bandcamp.com/track/chronos-break"
+            },
+            {
+              "position": 12,
+              "title": "Catalyst Current",
+              "seconds": 398,
+              "url": "https://raquielonara988.bandcamp.com/track/catalyst-current"
+            },
+            {
+              "position": 13,
+              "title": "Neon Crown Ascension",
+              "seconds": 299,
+              "url": "https://raquielonara988.bandcamp.com/track/neon-crown-ascension"
+            },
+            {
+              "position": 14,
+              "title": "Gnosis Ascendant",
+              "seconds": 364,
+              "url": "https://raquielonara988.bandcamp.com/track/gnosis-ascendant"
+            }
+          ]
+        },
+        {
+          "title": "The Sunken Frequency",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/the-sunken-frequency",
+          "date": "2025-09-11",
+          "image": "https://f4.bcbits.com/img/a1557987379_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Cinematic Trap",
+            "Dark Ambient",
+            "Esoteric Hip-Hop",
+            "Industrial Rock",
+            "Neoclassical Darkwave",
+            "Rock",
+            "Space Rock",
+            "Tampa"
+          ],
+          "about": "The Sunken Frequency is a two-part mythic narrative tracing the quest for a lost signal of truth buried beneath layers of systemic control and simulated reality. Act one follows a modern-day war for the soul, moving from ambient whispers of a forgotten past into the industrial-rock defiance of rebellion. Act two chronicles the aftermath, as the rediscovered Codex becomes an absolute monarch, unleashing apocalyptic judgment that escalates into a cosmic war, reframing the struggle as an eternal esoteric battle. Sonically, the album evolves from cinematic trap and esoteric hip-hop into neoclassical darkwave and expansive space rock, completing a full cycle of descent, apotheosis, and the realization that freedom is a fight waged within the heart and across the stars.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Atlantis Echoes",
+              "seconds": 167,
+              "url": "https://raquielonara988.bandcamp.com/track/atlantis-echoes"
+            },
+            {
+              "position": 2,
+              "title": "The Great Deception",
+              "seconds": 271,
+              "url": "https://raquielonara988.bandcamp.com/track/the-great-deception"
+            },
+            {
+              "position": 3,
+              "title": "The Shadow Syndicate",
+              "seconds": 229,
+              "url": "https://raquielonara988.bandcamp.com/track/the-shadow-syndicate"
+            },
+            {
+              "position": 4,
+              "title": "The Final Veil",
+              "seconds": 250,
+              "url": "https://raquielonara988.bandcamp.com/track/the-final-veil"
+            },
+            {
+              "position": 5,
+              "title": "The Invocation",
+              "seconds": 237,
+              "url": "https://raquielonara988.bandcamp.com/track/the-invocation"
+            },
+            {
+              "position": 6,
+              "title": "The Human Front",
+              "seconds": 209,
+              "url": "https://raquielonara988.bandcamp.com/track/the-human-front"
+            },
+            {
+              "position": 7,
+              "title": "The Storyteller's Flame",
+              "seconds": 240,
+              "url": "https://raquielonara988.bandcamp.com/track/the-storytellers-flame"
+            },
+            {
+              "position": 8,
+              "title": "Empire of Echoes",
+              "seconds": 271,
+              "url": "https://raquielonara988.bandcamp.com/track/empire-of-echoes"
+            },
+            {
+              "position": 9,
+              "title": "Storm of Dominion",
+              "seconds": 239,
+              "url": "https://raquielonara988.bandcamp.com/track/storm-of-dominion"
+            },
+            {
+              "position": 10,
+              "title": "Thrones of Ash",
+              "seconds": 232,
+              "url": "https://raquielonara988.bandcamp.com/track/thrones-of-ash"
+            },
+            {
+              "position": 11,
+              "title": "Serpent Crown",
+              "seconds": 222,
+              "url": "https://raquielonara988.bandcamp.com/track/serpent-crown"
+            },
+            {
+              "position": 12,
+              "title": "Crown the Codex",
+              "seconds": 270,
+              "url": "https://raquielonara988.bandcamp.com/track/crown-the-codex"
+            },
+            {
+              "position": 13,
+              "title": "Seven Seals",
+              "seconds": 261,
+              "url": "https://raquielonara988.bandcamp.com/track/seven-seals"
+            },
+            {
+              "position": 14,
+              "title": "The Cosmic Game",
+              "seconds": 246,
+              "url": "https://raquielonara988.bandcamp.com/track/the-cosmic-game"
+            }
+          ]
+        },
+        {
+          "title": "The True Name of the Codex",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/the-true-name-of-the-codex",
+          "date": "2025-09-11",
+          "image": "https://f4.bcbits.com/img/a2161733272_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Cinematic",
+            "Cyberpunk",
+            "Darkwave",
+            "Electronic Rock",
+            "Industrial",
+            "Rock",
+            "Spoken Word",
+            "Tampa"
+          ],
+          "about": "The True Name of the Codex is a 14-track Gnostic Cyber-Punk opera, blending cold industrial machinery, cinematic synths, and glitching, rebellious anthems. It traces a soul’s harrowing evolution from discovery of a hidden prison to personal reckoning, multi-front rebellion, and ultimate apotheosis, delivering a sovereign gospel forged from the ashes of illusion. Across conspiratorial whispers, digital strongholds, and spiritual battlegrounds, the album becomes a Grimoire, a weaponized document of awakening: the sound of a soul hijacking the system, breaking the script, and manifesting a hacked divinity through the Glitching Serpent Sigil.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Brotherhood",
+              "seconds": 269,
+              "url": "https://raquielonara988.bandcamp.com/track/the-brotherhood"
+            },
+            {
+              "position": 2,
+              "title": "Gospel of the Architects",
+              "seconds": 336,
+              "url": "https://raquielonara988.bandcamp.com/track/gospel-of-the-architects"
+            },
+            {
+              "position": 3,
+              "title": "The Gilded Cage of Light",
+              "seconds": 277,
+              "url": "https://raquielonara988.bandcamp.com/track/the-gilded-cage-of-light"
+            },
+            {
+              "position": 4,
+              "title": "Script of the Fallen Star",
+              "seconds": 308,
+              "url": "https://raquielonara988.bandcamp.com/track/script-of-the-fallen-star"
+            },
+            {
+              "position": 5,
+              "title": "Signal from the Ministry",
+              "seconds": 298,
+              "url": "https://raquielonara988.bandcamp.com/track/signal-from-the-ministry"
+            },
+            {
+              "position": 6,
+              "title": "Underground Mirrorcode",
+              "seconds": 308,
+              "url": "https://raquielonara988.bandcamp.com/track/underground-mirrorcode"
+            },
+            {
+              "position": 7,
+              "title": "Sanctum of the Final Smile",
+              "seconds": 269,
+              "url": "https://raquielonara988.bandcamp.com/track/sanctum-of-the-final-smile"
+            },
+            {
+              "position": 8,
+              "title": "The Pyramid of the False Light",
+              "seconds": 312,
+              "url": "https://raquielonara988.bandcamp.com/track/the-pyramid-of-the-false-light"
+            },
+            {
+              "position": 9,
+              "title": "Pixelated Gnosis",
+              "seconds": 424,
+              "url": "https://raquielonara988.bandcamp.com/track/pixelated-gnosis-3"
+            },
+            {
+              "position": 10,
+              "title": "Sacred Code, Sovereign Storm",
+              "seconds": 249,
+              "url": "https://raquielonara988.bandcamp.com/track/sacred-code-sovereign-storm"
+            },
+            {
+              "position": 11,
+              "title": "Chamber of Mirrors",
+              "seconds": 291,
+              "url": "https://raquielonara988.bandcamp.com/track/chamber-of-mirrors"
+            },
+            {
+              "position": 12,
+              "title": "Ashes of the Neon Reverie",
+              "seconds": 210,
+              "url": "https://raquielonara988.bandcamp.com/track/ashes-of-the-neon-reverie"
+            },
+            {
+              "position": 13,
+              "title": "The Sigil's Dream",
+              "seconds": 390,
+              "url": "https://raquielonara988.bandcamp.com/track/the-sigils-dream"
+            },
+            {
+              "position": 14,
+              "title": "The Sovereign's Gospel",
+              "seconds": 292,
+              "url": "https://raquielonara988.bandcamp.com/track/the-sovereigns-gospel"
+            }
+          ]
+        },
+        {
+          "title": "Resonance of the Architects",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/resonance-of-the-architects",
+          "date": "2025-09-05",
+          "image": "https://f4.bcbits.com/img/a2323777131_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Rock",
+            "dark trap",
+            "industrial metal",
+            "trap metal",
+            "Tampa"
+          ],
+          "about": "Welcome to a world where the soil hums with forgotten energy and the air vibrates with broken code. This album lives between ancient and futuristic, a sonic ritual set in a desolate realm of glowing green fire and spectral ruins. Each track becomes an abstract passage into hidden power and quiet apocalypse—an awakening shaped by cosmic forces and the last embers of a dying world. It is the echo of a forest burning with mystical light, the cry of a skeletal figure rising from digital debris, and the reminder that even when everything else fades, the inner flame remains.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Sever the Wires",
+              "seconds": 202,
+              "url": "https://raquielonara988.bandcamp.com/track/sever-the-wires"
+            },
+            {
+              "position": 2,
+              "title": "Unchain the Soul",
+              "seconds": 290,
+              "url": "https://raquielonara988.bandcamp.com/track/unchain-the-soul"
+            },
+            {
+              "position": 3,
+              "title": "Break the Chains",
+              "seconds": 234,
+              "url": "https://raquielonara988.bandcamp.com/track/break-the-chains"
+            },
+            {
+              "position": 4,
+              "title": "The Wires That Bind Us",
+              "seconds": 219,
+              "url": "https://raquielonara988.bandcamp.com/track/the-wires-that-bind-us"
+            },
+            {
+              "position": 5,
+              "title": "Emerald Flame",
+              "seconds": 215,
+              "url": "https://raquielonara988.bandcamp.com/track/emerald-flame"
+            },
+            {
+              "position": 6,
+              "title": "Unseen Acre",
+              "seconds": 255,
+              "url": "https://raquielonara988.bandcamp.com/track/unseen-acre"
+            },
+            {
+              "position": 7,
+              "title": "Flesh Remains",
+              "seconds": 249,
+              "url": "https://raquielonara988.bandcamp.com/track/flesh-remains"
+            },
+            {
+              "position": 8,
+              "title": "Endless Night",
+              "seconds": 262,
+              "url": "https://raquielonara988.bandcamp.com/track/endless-night"
+            },
+            {
+              "position": 9,
+              "title": "Reclaim the Signal",
+              "seconds": 228,
+              "url": "https://raquielonara988.bandcamp.com/track/reclaim-the-signal"
+            },
+            {
+              "position": 10,
+              "title": "Veilfire",
+              "seconds": 204,
+              "url": "https://raquielonara988.bandcamp.com/track/veilfire"
+            },
+            {
+              "position": 11,
+              "title": "Solar Ascent",
+              "seconds": 223,
+              "url": "https://raquielonara988.bandcamp.com/track/solar-ascent"
+            },
+            {
+              "position": 12,
+              "title": "Echoes of the Demiurge",
+              "seconds": 242,
+              "url": "https://raquielonara988.bandcamp.com/track/echoes-of-the-demiurge-2"
+            },
+            {
+              "position": 13,
+              "title": "Fractal Hearts",
+              "seconds": 231,
+              "url": "https://raquielonara988.bandcamp.com/track/fractal-hearts"
+            },
+            {
+              "position": 14,
+              "title": "Neural Spire Collapse",
+              "seconds": 861,
+              "url": "https://raquielonara988.bandcamp.com/track/neural-spire-collapse"
+            }
+          ]
+        },
+        {
+          "title": "Unveiling the Sovereign Flame",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/unveiling-the-sovereign-flame",
+          "date": "2025-08-30",
+          "image": "https://f4.bcbits.com/img/a2283614267_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "80s Synthwave",
+            "Dreamwave",
+            "Retrowave",
+            "Rock",
+            "Tampa"
+          ],
+          "about": "Unveiling the Sovereign Flame blends 80s Synthwave, Retrowave, and Dreamwave into a retro-futuristic sound of neon arpeggios, analog basslines, VHS-soaked pads, and ethereal female vocals. It follows the rise of the inner flame—awakening from shadow, illusion, and static—becoming a story of resilience, revelation, and spiritual alchemy. Each track moves through surreal neon vistas and fractured dreamscapes toward clarity and ascension. More than a record, it is an initiation into sovereignty: an invitation to claim the fire that cannot be extinguished.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Falling Slowly",
+              "seconds": 456,
+              "url": "https://raquielonara988.bandcamp.com/track/falling-slowly-2"
+            },
+            {
+              "position": 2,
+              "title": "Neon Veins",
+              "seconds": 320,
+              "url": "https://raquielonara988.bandcamp.com/track/neon-veins"
+            },
+            {
+              "position": 3,
+              "title": "Electric Heart",
+              "seconds": 307,
+              "url": "https://raquielonara988.bandcamp.com/track/electric-heart"
+            },
+            {
+              "position": 4,
+              "title": "Lucid Horizon",
+              "seconds": 347,
+              "url": "https://raquielonara988.bandcamp.com/track/lucid-horizon"
+            },
+            {
+              "position": 5,
+              "title": "Glass Skies",
+              "seconds": 233,
+              "url": "https://raquielonara988.bandcamp.com/track/glass-skies"
+            },
+            {
+              "position": 6,
+              "title": "Midnight Signals",
+              "seconds": 290,
+              "url": "https://raquielonara988.bandcamp.com/track/midnight-signals"
+            },
+            {
+              "position": 7,
+              "title": "Eternal Static",
+              "seconds": 251,
+              "url": "https://raquielonara988.bandcamp.com/track/eternal-static"
+            },
+            {
+              "position": 8,
+              "title": "Sovereign Flame",
+              "seconds": 284,
+              "url": "https://raquielonara988.bandcamp.com/track/sovereign-flame"
+            },
+            {
+              "position": 9,
+              "title": "Shadow Alchemy",
+              "seconds": 239,
+              "url": "https://raquielonara988.bandcamp.com/track/shadow-alchemy"
+            },
+            {
+              "position": 10,
+              "title": "Blood in the Hills",
+              "seconds": 364,
+              "url": "https://raquielonara988.bandcamp.com/track/blood-in-the-hills"
+            },
+            {
+              "position": 11,
+              "title": "True Will",
+              "seconds": 323,
+              "url": "https://raquielonara988.bandcamp.com/track/true-will"
+            },
+            {
+              "position": 12,
+              "title": "Spiral Path",
+              "seconds": 262,
+              "url": "https://raquielonara988.bandcamp.com/track/spiral-path"
+            },
+            {
+              "position": 13,
+              "title": "Threefold War",
+              "seconds": 338,
+              "url": "https://raquielonara988.bandcamp.com/track/threefold-war"
+            },
+            {
+              "position": 14,
+              "title": "The Jewel Unveiled",
+              "seconds": 273,
+              "url": "https://raquielonara988.bandcamp.com/track/the-jewel-unveiled"
+            }
+          ]
+        },
+        {
+          "title": "Ashes of Silence",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/ashes-of-silence",
+          "date": "2025-08-23",
+          "image": "https://f4.bcbits.com/img/a1361464725_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Alternative Metal",
+            "Post-Grunge",
+            "Rock",
+            "Tampa"
+          ],
+          "about": "Ashes of Silence is a narrative journey through the quiet rooms of a broken heart, tracing the collapse and transformation of a single psyche. It begins in the ruins of a life and the discovery of a truth that burns the past, then follows a shadow hero waging a cold war against his own pain, forging walls so high they blot out the sun. In fleeting moments of grace, he learns to carry his broken parts, yet the underlying agony endures, culminating in a final, devastating surrender. The album is the sound of quiet despair, introspective defiance, and the haunting peace of feeling nothing at all—a sunbeam on the floor of a tomb.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Ashes in the Margin",
+              "seconds": 254,
+              "url": "https://raquielonara988.bandcamp.com/track/ashes-in-the-margin"
+            },
+            {
+              "position": 2,
+              "title": " The Vow",
+              "seconds": 267,
+              "url": "https://raquielonara988.bandcamp.com/track/the-vow"
+            },
+            {
+              "position": 3,
+              "title": "The Cold Victory",
+              "seconds": 267,
+              "url": "https://raquielonara988.bandcamp.com/track/the-cold-victory"
+            },
+            {
+              "position": 4,
+              "title": " The Stranger in the Glass",
+              "seconds": 242,
+              "url": "https://raquielonara988.bandcamp.com/track/the-stranger-in-the-glass"
+            },
+            {
+              "position": 5,
+              "title": "The Shadow’s Mission",
+              "seconds": 280,
+              "url": "https://raquielonara988.bandcamp.com/track/the-shadow-s-mission"
+            },
+            {
+              "position": 6,
+              "title": " The Angel Within",
+              "seconds": 244,
+              "url": "https://raquielonara988.bandcamp.com/track/the-angel-within"
+            },
+            {
+              "position": 7,
+              "title": "The Perfect End",
+              "seconds": 284,
+              "url": "https://raquielonara988.bandcamp.com/track/the-perfect-end"
+            }
+          ]
+        },
+        {
+          "title": "Fractured Crown",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/fractured-crown",
+          "date": "2025-08-21",
+          "image": "https://f4.bcbits.com/img/a3441930776_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Alt Rock",
+            "Gothic Metal",
+            "Rock",
+            "Symphonic Metal",
+            "Tampa"
+          ],
+          "about": "Fractured Crown fuses Gothic and Symphonic Metal with industrial grit and lo-fi ambience, building a cinematic wall of distorted guitars, ritual percussion, and ethereal–to–feral vocals. It follows a consciousness breaking through illusion and remembering its origin—a story of inner rebellion, metamorphosis, and the reclamation of power. Layered with symbolic and mystical themes, the album moves through fragmentation into integration and transcendence. More than a record, it’s a rite of transformation—an invitation to rise from the ruins and rebuild the throne within.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Architects Below",
+              "seconds": 319,
+              "url": "https://raquielonara988.bandcamp.com/track/the-architects-below"
+            },
+            {
+              "position": 2,
+              "title": "The Cloned Elite",
+              "seconds": 309,
+              "url": "https://raquielonara988.bandcamp.com/track/the-cloned-elite"
+            },
+            {
+              "position": 3,
+              "title": "Lies Undone",
+              "seconds": 273,
+              "url": "https://raquielonara988.bandcamp.com/track/lies-undone"
+            },
+            {
+              "position": 4,
+              "title": "Cinder & Chains",
+              "seconds": 283,
+              "url": "https://raquielonara988.bandcamp.com/track/cinder-chains"
+            },
+            {
+              "position": 5,
+              "title": "The Grey Whisper",
+              "seconds": 312,
+              "url": "https://raquielonara988.bandcamp.com/track/the-grey-whisper"
+            },
+            {
+              "position": 6,
+              "title": "Shattered Alters",
+              "seconds": 212,
+              "url": "https://raquielonara988.bandcamp.com/track/shattered-alters"
+            },
+            {
+              "position": 7,
+              "title": "Persephone’s Call",
+              "seconds": 239,
+              "url": "https://raquielonara988.bandcamp.com/track/persephone-s-call"
+            },
+            {
+              "position": 8,
+              "title": "The Cold Chain",
+              "seconds": 233,
+              "url": "https://raquielonara988.bandcamp.com/track/the-cold-chain"
+            },
+            {
+              "position": 9,
+              "title": "The Stones Still Hum",
+              "seconds": 231,
+              "url": "https://raquielonara988.bandcamp.com/track/the-stones-still-hum-2"
+            },
+            {
+              "position": 10,
+              "title": "The Stars Veiled in Chrome",
+              "seconds": 320,
+              "url": "https://raquielonara988.bandcamp.com/track/the-stars-veiled-in-chrome"
+            },
+            {
+              "position": 11,
+              "title": "The Veil’s Echo",
+              "seconds": 387,
+              "url": "https://raquielonara988.bandcamp.com/track/the-veil-s-echo"
+            },
+            {
+              "position": 12,
+              "title": "Fractured Aeon",
+              "seconds": 291,
+              "url": "https://raquielonara988.bandcamp.com/track/fractured-aeon"
+            },
+            {
+              "position": 13,
+              "title": "The Lesson of the Crown",
+              "seconds": 389,
+              "url": "https://raquielonara988.bandcamp.com/track/the-lesson-of-the-crown"
+            },
+            {
+              "position": 14,
+              "title": "Cosmic Pain",
+              "seconds": 298,
+              "url": "https://raquielonara988.bandcamp.com/track/cosmic-pain"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "raquielonara988",
-      "name": "raquielonara988",
+      "name": "Raquiel Onara 988",
       "bandcampUrl": "https://raquielonara988.bandcamp.com/",
-      "placeholder": true,
-      "tagline": "PLACEHOLDER – one-line description of raquielonara988",
-      "bio": "PLACEHOLDER – short bio. Run `npm run fetch` with bandcamp.com allowed, or paste the real bio here.",
-      "location": "",
+      "placeholder": false,
+      "tagline": "",
+      "bio": "Raquiel Onara 988 | Watcher of the Veiled Flame | Dark music, signal-driven visuals, occult systems, ritual atmosphere, cinematic rites, hidden transmissions.",
+      "location": "Tampa, Florida",
       "genres": [],
-      "tags": [],
-      "image": "",
+      "tags": [
+        "Rock",
+        "alternative rock",
+        "atmospheric rock",
+        "cinematic rock",
+        "dark alternative",
+        "dream pop",
+        "emotional",
+        "ethereal rock",
+        "female vocals",
+        "melancholic",
+        "shoegaze",
+        "Tampa",
+        "blues rock",
+        "gospel blues",
+        "narrative",
+        "outlaw blues",
+        "redemption",
+        "rock",
+        "soul",
+        "southern rock",
+        "spoken word",
+        "chamber folk",
+        "contemporary classical",
+        "dark folk",
+        "experimental",
+        "neoclassical",
+        "sprechgesang",
+        "Darkwave",
+        "Esoteric Metal",
+        "Industrial Metal",
+        "Progressive Metal",
+        "Symphonic Black Metal",
+        "Cinematic Trap",
+        "Dark Ambient",
+        "Esoteric Hip-Hop",
+        "Industrial Rock",
+        "Neoclassical Darkwave",
+        "Space Rock",
+        "Cinematic",
+        "Cyberpunk",
+        "Electronic Rock",
+        "Industrial",
+        "Spoken Word",
+        "dark trap",
+        "industrial metal",
+        "trap metal",
+        "80s Synthwave",
+        "Dreamwave",
+        "Retrowave",
+        "Alternative Metal",
+        "Post-Grunge",
+        "Alt Rock",
+        "Gothic Metal",
+        "Symphonic Metal"
+      ],
+      "image": "https://f4.bcbits.com/img/0047899247_21.jpg",
       "links": [
-        { "label": "Bandcamp", "url": "https://raquielonara988.bandcamp.com/" }
+        {
+          "label": "Bandcamp",
+          "url": "https://raquielonara988.bandcamp.com/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/share/1EwmijL8FC/"
+        }
       ],
       "contact": "",
-      "releases": []
+      "releases": [
+        {
+          "title": "Drawn to the Broken",
+          "type": "track",
+          "url": "https://raquielonara988.bandcamp.com/track/drawn-to-the-broken",
+          "date": "2026-08-08",
+          "image": "https://f4.bcbits.com/img/a2068346706_10.jpg",
+          "price": 0,
+          "currency": null,
+          "nameYourPrice": true,
+          "tags": [
+            "Rock",
+            "alternative rock",
+            "atmospheric rock",
+            "cinematic rock",
+            "dark alternative",
+            "dream pop",
+            "emotional",
+            "ethereal rock",
+            "female vocals",
+            "melancholic",
+            "shoegaze",
+            "Tampa"
+          ],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Drawn to the Broken",
+              "seconds": 239,
+              "url": "https://raquielonara988.bandcamp.com/track/drawn-to-the-broken"
+            }
+          ]
+        },
+        {
+          "title": "The Trail of the White Wolf",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/the-trail-of-the-white-wolf",
+          "date": "2025-11-23",
+          "image": "https://f4.bcbits.com/img/a0958368810_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Rock",
+            "blues rock",
+            "gospel blues",
+            "narrative",
+            "outlaw blues",
+            "redemption",
+            "rock",
+            "soul",
+            "southern rock",
+            "spoken word",
+            "Tampa"
+          ],
+          "about": "This album chronicles the true story of Rick Prince, translating his journey from a talented pool hustler in Augusta, Georgia, to a convicted felon, and finally, to a man reborn by faith and dedicated to a new life in the Colorado wilderness. Every track adheres to the raw, soulful sound of Southern Rock & Blues.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Augusta Born",
+              "seconds": 245,
+              "url": "https://raquielonara988.bandcamp.com/track/augusta-born"
+            },
+            {
+              "position": 2,
+              "title": "The Hustler's Mark",
+              "seconds": 226,
+              "url": "https://raquielonara988.bandcamp.com/track/the-hustlers-mark"
+            },
+            {
+              "position": 3,
+              "title": "Three Hundred a Day",
+              "seconds": 230,
+              "url": "https://raquielonara988.bandcamp.com/track/three-hundred-a-day"
+            },
+            {
+              "position": 4,
+              "title": "Lone Wolf Howling",
+              "seconds": 229,
+              "url": "https://raquielonara988.bandcamp.com/track/lone-wolf-howling"
+            },
+            {
+              "position": 5,
+              "title": "The Arm of the Lord",
+              "seconds": 239,
+              "url": "https://raquielonara988.bandcamp.com/track/the-arm-of-the-lord"
+            },
+            {
+              "position": 6,
+              "title": "​18 Racks to Freedom",
+              "seconds": 230,
+              "url": "https://raquielonara988.bandcamp.com/track/18-racks-to-freedom"
+            },
+            {
+              "position": 7,
+              "title": "​The Trail is Complete",
+              "seconds": 205,
+              "url": "https://raquielonara988.bandcamp.com/track/the-trail-is-complete"
+            }
+          ]
+        },
+        {
+          "title": "The Quiet Accounting",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/the-quiet-accounting",
+          "date": "2025-11-22",
+          "image": "https://f4.bcbits.com/img/a3215192878_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Rock",
+            "chamber folk",
+            "contemporary classical",
+            "dark folk",
+            "experimental",
+            "neoclassical",
+            "spoken word",
+            "sprechgesang",
+            "Tampa"
+          ],
+          "about": "The Quiet Accounting is a sonic triptych that reframes grief as a bureaucratic process—a quiet foreclosure on the self. Drawing from the framework of Learned Helplessness, the project renders loss as a clinical amputation, where silence acts as administrator and memory functions as an uncompromising debt collector. The trilogy defines the aesthetic of the Brutalist Lullaby, merging the intimate softness of acoustic folk with the cold precision of neoclassical structures, creating a soundscape that is at once devastating, meticulous, and hauntingly beautiful.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Quiet Accounting",
+              "seconds": 291,
+              "url": "https://raquielonara988.bandcamp.com/track/the-quiet-accounting"
+            },
+            {
+              "position": 2,
+              "title": "The Black Inventory",
+              "seconds": 318,
+              "url": "https://raquielonara988.bandcamp.com/track/the-black-inventory"
+            },
+            {
+              "position": 3,
+              "title": "The Final Architecture",
+              "seconds": 278,
+              "url": "https://raquielonara988.bandcamp.com/track/the-final-architecture"
+            }
+          ]
+        },
+        {
+          "title": "Plastic Sky Collapse",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/plastic-sky-collapse",
+          "date": "2025-09-11",
+          "image": "https://f4.bcbits.com/img/a1305805640_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Darkwave",
+            "Esoteric Metal",
+            "Industrial Metal",
+            "Progressive Metal",
+            "Rock",
+            "Symphonic Black Metal",
+            "Tampa"
+          ],
+          "about": "Plastic Sky Collapse is a Gnostic concept album tracing a soul’s violent journey from digital enslavement to divine selfhood. Its sound shifts from hazy lo-fi prisons to industrial noir grit and erupts into symphonic black metal, carrying a multi-vocal trinity: the guttural Decree of forbidden lore, the soaring Lament of resilience, and the epic Choir witnessing the cosmic drama. The narrative follows the shattering of a “plastic sky,” revealing that true liberation lies not in manufactured utopias, but in the brutal alchemy of forging authentic identity from illusion and ash. It is a sonic ritual of disillusionment, awakening, and sovereign reclamation.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Builders’ Prophecy",
+              "seconds": 345,
+              "url": "https://raquielonara988.bandcamp.com/track/the-builders-prophecy"
+            },
+            {
+              "position": 2,
+              "title": "Echoes of the Prime Mover",
+              "seconds": 234,
+              "url": "https://raquielonara988.bandcamp.com/track/echoes-of-the-prime-mover"
+            },
+            {
+              "position": 3,
+              "title": "Ghost in the Machine",
+              "seconds": 263,
+              "url": "https://raquielonara988.bandcamp.com/track/ghost-in-the-machine"
+            },
+            {
+              "position": 4,
+              "title": "Echoes of the Watchers",
+              "seconds": 332,
+              "url": "https://raquielonara988.bandcamp.com/track/echoes-of-the-watchers"
+            },
+            {
+              "position": 5,
+              "title": "Pixelated Gnosis",
+              "seconds": 322,
+              "url": "https://raquielonara988.bandcamp.com/track/pixelated-gnosis"
+            },
+            {
+              "position": 6,
+              "title": "Thoth’s Fire",
+              "seconds": 424,
+              "url": "https://raquielonara988.bandcamp.com/track/thoth-s-fire"
+            },
+            {
+              "position": 7,
+              "title": "Plastic Sky Collapse",
+              "seconds": 359,
+              "url": "https://raquielonara988.bandcamp.com/track/plastic-sky-collapse"
+            },
+            {
+              "position": 8,
+              "title": "The Phil Schneider Mystery",
+              "seconds": 460,
+              "url": "https://raquielonara988.bandcamp.com/track/the-phil-schneider-mystery"
+            },
+            {
+              "position": 9,
+              "title": "The Liberator",
+              "seconds": 411,
+              "url": "https://raquielonara988.bandcamp.com/track/the-liberator"
+            },
+            {
+              "position": 10,
+              "title": "Nigredo Ascendant",
+              "seconds": 285,
+              "url": "https://raquielonara988.bandcamp.com/track/nigredo-ascendant"
+            },
+            {
+              "position": 11,
+              "title": "Chronos Break",
+              "seconds": 436,
+              "url": "https://raquielonara988.bandcamp.com/track/chronos-break"
+            },
+            {
+              "position": 12,
+              "title": "Catalyst Current",
+              "seconds": 398,
+              "url": "https://raquielonara988.bandcamp.com/track/catalyst-current"
+            },
+            {
+              "position": 13,
+              "title": "Neon Crown Ascension",
+              "seconds": 299,
+              "url": "https://raquielonara988.bandcamp.com/track/neon-crown-ascension"
+            },
+            {
+              "position": 14,
+              "title": "Gnosis Ascendant",
+              "seconds": 364,
+              "url": "https://raquielonara988.bandcamp.com/track/gnosis-ascendant"
+            }
+          ]
+        },
+        {
+          "title": "The Sunken Frequency",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/the-sunken-frequency",
+          "date": "2025-09-11",
+          "image": "https://f4.bcbits.com/img/a1557987379_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Cinematic Trap",
+            "Dark Ambient",
+            "Esoteric Hip-Hop",
+            "Industrial Rock",
+            "Neoclassical Darkwave",
+            "Rock",
+            "Space Rock",
+            "Tampa"
+          ],
+          "about": "The Sunken Frequency is a two-part mythic narrative tracing the quest for a lost signal of truth buried beneath layers of systemic control and simulated reality. Act one follows a modern-day war for the soul, moving from ambient whispers of a forgotten past into the industrial-rock defiance of rebellion. Act two chronicles the aftermath, as the rediscovered Codex becomes an absolute monarch, unleashing apocalyptic judgment that escalates into a cosmic war, reframing the struggle as an eternal esoteric battle. Sonically, the album evolves from cinematic trap and esoteric hip-hop into neoclassical darkwave and expansive space rock, completing a full cycle of descent, apotheosis, and the realization that freedom is a fight waged within the heart and across the stars.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Atlantis Echoes",
+              "seconds": 167,
+              "url": "https://raquielonara988.bandcamp.com/track/atlantis-echoes"
+            },
+            {
+              "position": 2,
+              "title": "The Great Deception",
+              "seconds": 271,
+              "url": "https://raquielonara988.bandcamp.com/track/the-great-deception"
+            },
+            {
+              "position": 3,
+              "title": "The Shadow Syndicate",
+              "seconds": 229,
+              "url": "https://raquielonara988.bandcamp.com/track/the-shadow-syndicate"
+            },
+            {
+              "position": 4,
+              "title": "The Final Veil",
+              "seconds": 250,
+              "url": "https://raquielonara988.bandcamp.com/track/the-final-veil"
+            },
+            {
+              "position": 5,
+              "title": "The Invocation",
+              "seconds": 237,
+              "url": "https://raquielonara988.bandcamp.com/track/the-invocation"
+            },
+            {
+              "position": 6,
+              "title": "The Human Front",
+              "seconds": 209,
+              "url": "https://raquielonara988.bandcamp.com/track/the-human-front"
+            },
+            {
+              "position": 7,
+              "title": "The Storyteller's Flame",
+              "seconds": 240,
+              "url": "https://raquielonara988.bandcamp.com/track/the-storytellers-flame"
+            },
+            {
+              "position": 8,
+              "title": "Empire of Echoes",
+              "seconds": 271,
+              "url": "https://raquielonara988.bandcamp.com/track/empire-of-echoes"
+            },
+            {
+              "position": 9,
+              "title": "Storm of Dominion",
+              "seconds": 239,
+              "url": "https://raquielonara988.bandcamp.com/track/storm-of-dominion"
+            },
+            {
+              "position": 10,
+              "title": "Thrones of Ash",
+              "seconds": 232,
+              "url": "https://raquielonara988.bandcamp.com/track/thrones-of-ash"
+            },
+            {
+              "position": 11,
+              "title": "Serpent Crown",
+              "seconds": 222,
+              "url": "https://raquielonara988.bandcamp.com/track/serpent-crown"
+            },
+            {
+              "position": 12,
+              "title": "Crown the Codex",
+              "seconds": 270,
+              "url": "https://raquielonara988.bandcamp.com/track/crown-the-codex"
+            },
+            {
+              "position": 13,
+              "title": "Seven Seals",
+              "seconds": 261,
+              "url": "https://raquielonara988.bandcamp.com/track/seven-seals"
+            },
+            {
+              "position": 14,
+              "title": "The Cosmic Game",
+              "seconds": 246,
+              "url": "https://raquielonara988.bandcamp.com/track/the-cosmic-game"
+            }
+          ]
+        },
+        {
+          "title": "The True Name of the Codex",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/the-true-name-of-the-codex",
+          "date": "2025-09-11",
+          "image": "https://f4.bcbits.com/img/a2161733272_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Cinematic",
+            "Cyberpunk",
+            "Darkwave",
+            "Electronic Rock",
+            "Industrial",
+            "Rock",
+            "Spoken Word",
+            "Tampa"
+          ],
+          "about": "The True Name of the Codex is a 14-track Gnostic Cyber-Punk opera, blending cold industrial machinery, cinematic synths, and glitching, rebellious anthems. It traces a soul’s harrowing evolution from discovery of a hidden prison to personal reckoning, multi-front rebellion, and ultimate apotheosis, delivering a sovereign gospel forged from the ashes of illusion. Across conspiratorial whispers, digital strongholds, and spiritual battlegrounds, the album becomes a Grimoire, a weaponized document of awakening: the sound of a soul hijacking the system, breaking the script, and manifesting a hacked divinity through the Glitching Serpent Sigil.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Brotherhood",
+              "seconds": 269,
+              "url": "https://raquielonara988.bandcamp.com/track/the-brotherhood"
+            },
+            {
+              "position": 2,
+              "title": "Gospel of the Architects",
+              "seconds": 336,
+              "url": "https://raquielonara988.bandcamp.com/track/gospel-of-the-architects"
+            },
+            {
+              "position": 3,
+              "title": "The Gilded Cage of Light",
+              "seconds": 277,
+              "url": "https://raquielonara988.bandcamp.com/track/the-gilded-cage-of-light"
+            },
+            {
+              "position": 4,
+              "title": "Script of the Fallen Star",
+              "seconds": 308,
+              "url": "https://raquielonara988.bandcamp.com/track/script-of-the-fallen-star"
+            },
+            {
+              "position": 5,
+              "title": "Signal from the Ministry",
+              "seconds": 298,
+              "url": "https://raquielonara988.bandcamp.com/track/signal-from-the-ministry"
+            },
+            {
+              "position": 6,
+              "title": "Underground Mirrorcode",
+              "seconds": 308,
+              "url": "https://raquielonara988.bandcamp.com/track/underground-mirrorcode"
+            },
+            {
+              "position": 7,
+              "title": "Sanctum of the Final Smile",
+              "seconds": 269,
+              "url": "https://raquielonara988.bandcamp.com/track/sanctum-of-the-final-smile"
+            },
+            {
+              "position": 8,
+              "title": "The Pyramid of the False Light",
+              "seconds": 312,
+              "url": "https://raquielonara988.bandcamp.com/track/the-pyramid-of-the-false-light"
+            },
+            {
+              "position": 9,
+              "title": "Pixelated Gnosis",
+              "seconds": 424,
+              "url": "https://raquielonara988.bandcamp.com/track/pixelated-gnosis-3"
+            },
+            {
+              "position": 10,
+              "title": "Sacred Code, Sovereign Storm",
+              "seconds": 249,
+              "url": "https://raquielonara988.bandcamp.com/track/sacred-code-sovereign-storm"
+            },
+            {
+              "position": 11,
+              "title": "Chamber of Mirrors",
+              "seconds": 291,
+              "url": "https://raquielonara988.bandcamp.com/track/chamber-of-mirrors"
+            },
+            {
+              "position": 12,
+              "title": "Ashes of the Neon Reverie",
+              "seconds": 210,
+              "url": "https://raquielonara988.bandcamp.com/track/ashes-of-the-neon-reverie"
+            },
+            {
+              "position": 13,
+              "title": "The Sigil's Dream",
+              "seconds": 390,
+              "url": "https://raquielonara988.bandcamp.com/track/the-sigils-dream"
+            },
+            {
+              "position": 14,
+              "title": "The Sovereign's Gospel",
+              "seconds": 292,
+              "url": "https://raquielonara988.bandcamp.com/track/the-sovereigns-gospel"
+            }
+          ]
+        },
+        {
+          "title": "Resonance of the Architects",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/resonance-of-the-architects",
+          "date": "2025-09-05",
+          "image": "https://f4.bcbits.com/img/a2323777131_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Rock",
+            "dark trap",
+            "industrial metal",
+            "trap metal",
+            "Tampa"
+          ],
+          "about": "Welcome to a world where the soil hums with forgotten energy and the air vibrates with broken code. This album lives between ancient and futuristic, a sonic ritual set in a desolate realm of glowing green fire and spectral ruins. Each track becomes an abstract passage into hidden power and quiet apocalypse—an awakening shaped by cosmic forces and the last embers of a dying world. It is the echo of a forest burning with mystical light, the cry of a skeletal figure rising from digital debris, and the reminder that even when everything else fades, the inner flame remains.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Sever the Wires",
+              "seconds": 202,
+              "url": "https://raquielonara988.bandcamp.com/track/sever-the-wires"
+            },
+            {
+              "position": 2,
+              "title": "Unchain the Soul",
+              "seconds": 290,
+              "url": "https://raquielonara988.bandcamp.com/track/unchain-the-soul"
+            },
+            {
+              "position": 3,
+              "title": "Break the Chains",
+              "seconds": 234,
+              "url": "https://raquielonara988.bandcamp.com/track/break-the-chains"
+            },
+            {
+              "position": 4,
+              "title": "The Wires That Bind Us",
+              "seconds": 219,
+              "url": "https://raquielonara988.bandcamp.com/track/the-wires-that-bind-us"
+            },
+            {
+              "position": 5,
+              "title": "Emerald Flame",
+              "seconds": 215,
+              "url": "https://raquielonara988.bandcamp.com/track/emerald-flame"
+            },
+            {
+              "position": 6,
+              "title": "Unseen Acre",
+              "seconds": 255,
+              "url": "https://raquielonara988.bandcamp.com/track/unseen-acre"
+            },
+            {
+              "position": 7,
+              "title": "Flesh Remains",
+              "seconds": 249,
+              "url": "https://raquielonara988.bandcamp.com/track/flesh-remains"
+            },
+            {
+              "position": 8,
+              "title": "Endless Night",
+              "seconds": 262,
+              "url": "https://raquielonara988.bandcamp.com/track/endless-night"
+            },
+            {
+              "position": 9,
+              "title": "Reclaim the Signal",
+              "seconds": 228,
+              "url": "https://raquielonara988.bandcamp.com/track/reclaim-the-signal"
+            },
+            {
+              "position": 10,
+              "title": "Veilfire",
+              "seconds": 204,
+              "url": "https://raquielonara988.bandcamp.com/track/veilfire"
+            },
+            {
+              "position": 11,
+              "title": "Solar Ascent",
+              "seconds": 223,
+              "url": "https://raquielonara988.bandcamp.com/track/solar-ascent"
+            },
+            {
+              "position": 12,
+              "title": "Echoes of the Demiurge",
+              "seconds": 242,
+              "url": "https://raquielonara988.bandcamp.com/track/echoes-of-the-demiurge-2"
+            },
+            {
+              "position": 13,
+              "title": "Fractal Hearts",
+              "seconds": 231,
+              "url": "https://raquielonara988.bandcamp.com/track/fractal-hearts"
+            },
+            {
+              "position": 14,
+              "title": "Neural Spire Collapse",
+              "seconds": 861,
+              "url": "https://raquielonara988.bandcamp.com/track/neural-spire-collapse"
+            }
+          ]
+        },
+        {
+          "title": "Unveiling the Sovereign Flame",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/unveiling-the-sovereign-flame",
+          "date": "2025-08-30",
+          "image": "https://f4.bcbits.com/img/a2283614267_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "80s Synthwave",
+            "Dreamwave",
+            "Retrowave",
+            "Rock",
+            "Tampa"
+          ],
+          "about": "Unveiling the Sovereign Flame blends 80s Synthwave, Retrowave, and Dreamwave into a retro-futuristic sound of neon arpeggios, analog basslines, VHS-soaked pads, and ethereal female vocals. It follows the rise of the inner flame—awakening from shadow, illusion, and static—becoming a story of resilience, revelation, and spiritual alchemy. Each track moves through surreal neon vistas and fractured dreamscapes toward clarity and ascension. More than a record, it is an initiation into sovereignty: an invitation to claim the fire that cannot be extinguished.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Falling Slowly",
+              "seconds": 456,
+              "url": "https://raquielonara988.bandcamp.com/track/falling-slowly-2"
+            },
+            {
+              "position": 2,
+              "title": "Neon Veins",
+              "seconds": 320,
+              "url": "https://raquielonara988.bandcamp.com/track/neon-veins"
+            },
+            {
+              "position": 3,
+              "title": "Electric Heart",
+              "seconds": 307,
+              "url": "https://raquielonara988.bandcamp.com/track/electric-heart"
+            },
+            {
+              "position": 4,
+              "title": "Lucid Horizon",
+              "seconds": 347,
+              "url": "https://raquielonara988.bandcamp.com/track/lucid-horizon"
+            },
+            {
+              "position": 5,
+              "title": "Glass Skies",
+              "seconds": 233,
+              "url": "https://raquielonara988.bandcamp.com/track/glass-skies"
+            },
+            {
+              "position": 6,
+              "title": "Midnight Signals",
+              "seconds": 290,
+              "url": "https://raquielonara988.bandcamp.com/track/midnight-signals"
+            },
+            {
+              "position": 7,
+              "title": "Eternal Static",
+              "seconds": 251,
+              "url": "https://raquielonara988.bandcamp.com/track/eternal-static"
+            },
+            {
+              "position": 8,
+              "title": "Sovereign Flame",
+              "seconds": 284,
+              "url": "https://raquielonara988.bandcamp.com/track/sovereign-flame"
+            },
+            {
+              "position": 9,
+              "title": "Shadow Alchemy",
+              "seconds": 239,
+              "url": "https://raquielonara988.bandcamp.com/track/shadow-alchemy"
+            },
+            {
+              "position": 10,
+              "title": "Blood in the Hills",
+              "seconds": 364,
+              "url": "https://raquielonara988.bandcamp.com/track/blood-in-the-hills"
+            },
+            {
+              "position": 11,
+              "title": "True Will",
+              "seconds": 323,
+              "url": "https://raquielonara988.bandcamp.com/track/true-will"
+            },
+            {
+              "position": 12,
+              "title": "Spiral Path",
+              "seconds": 262,
+              "url": "https://raquielonara988.bandcamp.com/track/spiral-path"
+            },
+            {
+              "position": 13,
+              "title": "Threefold War",
+              "seconds": 338,
+              "url": "https://raquielonara988.bandcamp.com/track/threefold-war"
+            },
+            {
+              "position": 14,
+              "title": "The Jewel Unveiled",
+              "seconds": 273,
+              "url": "https://raquielonara988.bandcamp.com/track/the-jewel-unveiled"
+            }
+          ]
+        },
+        {
+          "title": "Ashes of Silence",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/ashes-of-silence",
+          "date": "2025-08-23",
+          "image": "https://f4.bcbits.com/img/a1361464725_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Alternative Metal",
+            "Post-Grunge",
+            "Rock",
+            "Tampa"
+          ],
+          "about": "Ashes of Silence is a narrative journey through the quiet rooms of a broken heart, tracing the collapse and transformation of a single psyche. It begins in the ruins of a life and the discovery of a truth that burns the past, then follows a shadow hero waging a cold war against his own pain, forging walls so high they blot out the sun. In fleeting moments of grace, he learns to carry his broken parts, yet the underlying agony endures, culminating in a final, devastating surrender. The album is the sound of quiet despair, introspective defiance, and the haunting peace of feeling nothing at all—a sunbeam on the floor of a tomb.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Ashes in the Margin",
+              "seconds": 254,
+              "url": "https://raquielonara988.bandcamp.com/track/ashes-in-the-margin"
+            },
+            {
+              "position": 2,
+              "title": " The Vow",
+              "seconds": 267,
+              "url": "https://raquielonara988.bandcamp.com/track/the-vow"
+            },
+            {
+              "position": 3,
+              "title": "The Cold Victory",
+              "seconds": 267,
+              "url": "https://raquielonara988.bandcamp.com/track/the-cold-victory"
+            },
+            {
+              "position": 4,
+              "title": " The Stranger in the Glass",
+              "seconds": 242,
+              "url": "https://raquielonara988.bandcamp.com/track/the-stranger-in-the-glass"
+            },
+            {
+              "position": 5,
+              "title": "The Shadow’s Mission",
+              "seconds": 280,
+              "url": "https://raquielonara988.bandcamp.com/track/the-shadow-s-mission"
+            },
+            {
+              "position": 6,
+              "title": " The Angel Within",
+              "seconds": 244,
+              "url": "https://raquielonara988.bandcamp.com/track/the-angel-within"
+            },
+            {
+              "position": 7,
+              "title": "The Perfect End",
+              "seconds": 284,
+              "url": "https://raquielonara988.bandcamp.com/track/the-perfect-end"
+            }
+          ]
+        },
+        {
+          "title": "Fractured Crown",
+          "type": "album",
+          "url": "https://raquielonara988.bandcamp.com/album/fractured-crown",
+          "date": "2025-08-21",
+          "image": "https://f4.bcbits.com/img/a3441930776_10.jpg",
+          "price": 0,
+          "currency": "USD",
+          "nameYourPrice": true,
+          "tags": [
+            "Alt Rock",
+            "Gothic Metal",
+            "Rock",
+            "Symphonic Metal",
+            "Tampa"
+          ],
+          "about": "Fractured Crown fuses Gothic and Symphonic Metal with industrial grit and lo-fi ambience, building a cinematic wall of distorted guitars, ritual percussion, and ethereal–to–feral vocals. It follows a consciousness breaking through illusion and remembering its origin—a story of inner rebellion, metamorphosis, and the reclamation of power. Layered with symbolic and mystical themes, the album moves through fragmentation into integration and transcendence. More than a record, it’s a rite of transformation—an invitation to rise from the ruins and rebuild the throne within.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Architects Below",
+              "seconds": 319,
+              "url": "https://raquielonara988.bandcamp.com/track/the-architects-below"
+            },
+            {
+              "position": 2,
+              "title": "The Cloned Elite",
+              "seconds": 309,
+              "url": "https://raquielonara988.bandcamp.com/track/the-cloned-elite"
+            },
+            {
+              "position": 3,
+              "title": "Lies Undone",
+              "seconds": 273,
+              "url": "https://raquielonara988.bandcamp.com/track/lies-undone"
+            },
+            {
+              "position": 4,
+              "title": "Cinder & Chains",
+              "seconds": 283,
+              "url": "https://raquielonara988.bandcamp.com/track/cinder-chains"
+            },
+            {
+              "position": 5,
+              "title": "The Grey Whisper",
+              "seconds": 312,
+              "url": "https://raquielonara988.bandcamp.com/track/the-grey-whisper"
+            },
+            {
+              "position": 6,
+              "title": "Shattered Alters",
+              "seconds": 212,
+              "url": "https://raquielonara988.bandcamp.com/track/shattered-alters"
+            },
+            {
+              "position": 7,
+              "title": "Persephone’s Call",
+              "seconds": 239,
+              "url": "https://raquielonara988.bandcamp.com/track/persephone-s-call"
+            },
+            {
+              "position": 8,
+              "title": "The Cold Chain",
+              "seconds": 233,
+              "url": "https://raquielonara988.bandcamp.com/track/the-cold-chain"
+            },
+            {
+              "position": 9,
+              "title": "The Stones Still Hum",
+              "seconds": 231,
+              "url": "https://raquielonara988.bandcamp.com/track/the-stones-still-hum-2"
+            },
+            {
+              "position": 10,
+              "title": "The Stars Veiled in Chrome",
+              "seconds": 320,
+              "url": "https://raquielonara988.bandcamp.com/track/the-stars-veiled-in-chrome"
+            },
+            {
+              "position": 11,
+              "title": "The Veil’s Echo",
+              "seconds": 387,
+              "url": "https://raquielonara988.bandcamp.com/track/the-veil-s-echo"
+            },
+            {
+              "position": 12,
+              "title": "Fractured Aeon",
+              "seconds": 291,
+              "url": "https://raquielonara988.bandcamp.com/track/fractured-aeon"
+            },
+            {
+              "position": 13,
+              "title": "The Lesson of the Crown",
+              "seconds": 389,
+              "url": "https://raquielonara988.bandcamp.com/track/the-lesson-of-the-crown"
+            },
+            {
+              "position": 14,
+              "title": "Cosmic Pain",
+              "seconds": 298,
+              "url": "https://raquielonara988.bandcamp.com/track/cosmic-pain"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "gfed0909",
       "name": "gfed0909",
       "bandcampUrl": "https://gfed0909.bandcamp.com/",
-      "placeholder": true,
-      "tagline": "PLACEHOLDER – one-line description of gfed0909",
+      "placeholder": false,
+      "tagline": "",
       "bio": "PLACEHOLDER – short bio. Run `npm run fetch` with bandcamp.com allowed, or paste the real bio here.",
       "location": "",
       "genres": [],
       "tags": [],
       "image": "",
       "links": [
-        { "label": "Bandcamp", "url": "https://gfed0909.bandcamp.com/" }
+        {
+          "label": "Bandcamp",
+          "url": "https://gfed0909.bandcamp.com/"
+        }
       ],
       "contact": "",
       "releases": []
