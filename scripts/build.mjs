@@ -8,6 +8,7 @@
 import { mkdir, readFile, writeFile, rm } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { auditData } from './audit.mjs';
+import { ownerOf, ownReleases } from './lib/bandcamp.mjs';
 
 const root = new URL('../', import.meta.url);
 const INLINE = process.argv.includes('--inline');
@@ -65,26 +66,44 @@ function placeholderNotice(projects) {
 }
 
 export function renderHome(data, css) {
-  const all = data.projects.flatMap((p) => (p.releases || []).map((r) => ({ ...r, project: p })))
-    .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  // A label page lists its artists' releases too; show each release once,
+  // under the project whose Bandcamp domain hosts it.
+  const byUrl = new Map();
+  for (const p of data.projects) {
+    for (const r of p.releases || []) {
+      if (!byUrl.has(r.url)) byUrl.set(r.url, { ...r, project: ownerOf(r, data.projects, p), listedBy: new Set() });
+      byUrl.get(r.url).listedBy.add(p.id);
+    }
+  }
+  const all = [...byUrl.values()].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
-  const roster = data.projects.map((p) => `
+  const roster = data.projects.map((p) => {
+    const own = ownReleases(p, data.projects).length;
+    const listed = (p.releases || []).length - own;
+    const counts = [
+      listed && !own ? 'Label' : '',
+      own ? `${own} release${own === 1 ? '' : 's'}` : '',
+      listed ? `${listed} from roster` : '',
+      !own && !listed ? 'No releases yet' : '',
+    ].filter(Boolean);
+    return `
   <article class="card">
     ${art(p.image, p.name)}
     <div class="body">
       <h3>${esc(p.name)}</h3>
       ${!isPlaceholder(p.tagline) ? `<p class="muted">${esc(p.tagline)}</p>` : ''}
-      <p class="muted">${[p.location, `${(p.releases || []).length} release${(p.releases || []).length === 1 ? '' : 's'}`].filter(Boolean).map(esc).join(' · ')}</p>
+      <p class="muted">${[p.location, ...counts].filter(Boolean).map(esc).join(' · ')}</p>
       <div class="actions"><a class="btn primary" href="${esc(p.id)}/index.html">Press kit</a><a class="btn" href="${esc(p.bandcampUrl)}">Bandcamp</a></div>
     </div>
-  </article>`).join('');
+  </article>`;
+  }).join('');
 
   const chips = [`<button class="chip" aria-pressed="true" data-filter="all">All</button>`,
     ...data.projects.map((p) => `<button class="chip" aria-pressed="false" data-filter="${esc(p.id)}">${esc(p.name)}</button>`)].join('');
 
   const releases = all.length
     ? `<div class="grid" id="discography">${all.map((r) => `
-      <article class="card" data-project="${esc(r.project.id)}">
+      <article class="card" data-projects="${esc([...new Set([r.project.id, ...r.listedBy])].join(' '))}">
         <a href="${esc(r.url)}">${art(r.image, r.title || r.project.name)}</a>
         <div class="body">
           <h3><a href="${esc(r.url)}">${esc(r.title)}</a></h3>
@@ -110,8 +129,8 @@ document.querySelectorAll('.chip').forEach(function (chip) {
   chip.addEventListener('click', function () {
     var f = chip.dataset.filter;
     document.querySelectorAll('.chip').forEach(function (c) { c.setAttribute('aria-pressed', String(c === chip)); });
-    document.querySelectorAll('#discography [data-project]').forEach(function (el) {
-      el.hidden = f !== 'all' && el.dataset.project !== f;
+    document.querySelectorAll('#discography [data-projects]').forEach(function (el) {
+      el.hidden = f !== 'all' && el.dataset.projects.split(' ').indexOf(f) === -1;
     });
   });
 });
@@ -155,6 +174,7 @@ ${releases.length ? releases.map((r) => `
   <a href="${esc(r.url)}">${art(r.image, r.title || p.name)}</a>
   <div>
     <h3><a href="${esc(r.url)}">${esc(r.title)}</a></h3>
+    ${ownerOf(r, data.projects, p) !== p ? `<p class="muted">by ${esc(ownerOf(r, data.projects, p).name)}</p>` : ''}
     <p class="muted">${[r.type === 'track' ? 'Single' : 'Album/EP', r.date, priceLabel(r), (r.formats || []).filter((f) => !/Digital/i.test(f)).join(', ')].filter(Boolean).map(esc).join(' · ')}</p>
     ${r.about ? `<p class="bio">${esc(r.about.length > 400 ? r.about.slice(0, 400) + '…' : r.about)}</p>` : ''}
     ${(r.tags || []).length ? `<p>${r.tags.map((t) => `<span class="tag">${esc(t)}</span>`).join('')}</p>` : ''}

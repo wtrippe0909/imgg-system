@@ -17,11 +17,13 @@ export function decodeEntities(str = '') {
 export function stripTags(html = '') {
   return decodeEntities(
     html
-      .replace(/<br\s*\/?>/gi, '\n')
+      .replace(/\s+/g, ' ')
+      .replace(/\s*<br\s*\/?>\s*/gi, '\n')
       .replace(/<\/p>\s*<p[^>]*>/gi, '\n\n')
       .replace(/<[^>]+>/g, '')
   )
     .replace(/[ \t]+\n/g, '\n')
+    .replace(/\n[ \t]+/g, '\n')
     .replace(/\n{3,}/g, '\n\n')
     .trim();
 }
@@ -103,7 +105,8 @@ export function parseArtistPage(html, baseUrl) {
 
   const bio = html.match(/<p[^>]+id=["']bio-text["'][^>]*>([\s\S]*?)<\/p>/i);
   if (bio) {
-    result.bio = stripTags(bio[1].replace(/<span[^>]*peekaboo-link[\s\S]*?<\/span>/gi, ''));
+    result.bio = stripTags(bio[1].replace(/<(span|a)[^>]*peekaboo-(link|ellipsis)[^>]*>[\s\S]*?<\/\1>/gi, ''))
+      .replace(/\s*\b(more|less)$/i, '');
   }
 
   const photo = html.match(/<img[^>]*class=["'][^"']*band-photo[^"']*["'][^>]*>/i);
@@ -243,13 +246,18 @@ export function parsePublisherFromRelease(html) {
  * where present.
  */
 export function mergeProject(existing, scraped) {
-  const merged = { ...existing };
   const isPlaceholder = (v) => typeof v === 'string' && v.startsWith('PLACEHOLDER');
+  const gotSomething = Boolean(scraped.name || scraped.bio || (scraped.releases || []).length);
+  // An empty scrape (page changed, blocked, nothing published) must not wipe known data.
+  if (!gotSomething) return { ...existing };
+  const merged = { ...existing };
 
-  for (const key of ['name', 'location', 'bio', 'image']) {
-    if (scraped[key] && (!existing[key] || isPlaceholder(existing[key]) || key !== 'bio')) {
-      merged[key] = scraped[key];
-    }
+  for (const key of ['name', 'location', 'image']) if (scraped[key]) merged[key] = scraped[key];
+  // A bio edited by hand (differs from what was last scraped) is kept.
+  const bioUntouched = !existing.bio || isPlaceholder(existing.bio) || existing.bio === existing.scrapedBio;
+  if (scraped.bio) {
+    if (bioUntouched) merged.bio = scraped.bio;
+    merged.scrapedBio = scraped.bio;
   }
   if (isPlaceholder(merged.tagline)) merged.tagline = '';
 
@@ -280,4 +288,17 @@ export function newReleases(before, after) {
     for (const r of p.releases || []) if (!seen.has(r.url)) fresh.push({ project: p.name, projectId: p.id, ...r });
   }
   return fresh;
+}
+
+export const hostOf = (url) => { try { return new URL(url).host; } catch { return ''; } };
+
+/** The project a release belongs to: the one whose Bandcamp domain hosts it. */
+export function ownerOf(release, projects, fallback) {
+  const host = hostOf(release.url);
+  return projects.find((p) => hostOf(p.bandcampUrl) === host) || fallback;
+}
+
+/** Releases hosted on this project's own domain (or on no known project's). */
+export function ownReleases(project, projects) {
+  return (project.releases || []).filter((r) => ownerOf(r, projects, project) === project);
 }

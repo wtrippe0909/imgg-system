@@ -7,7 +7,7 @@
       "bandcampUrl": "https://imgg.bandcamp.com/",
       "placeholder": false,
       "tagline": "",
-      "bio": "IMGG is an independent music collective pushing sonic boundaries. Home to the visionary, raw lyricism of Raquiel Onara 988\n                        and the genre-bending production of William Trippe, the label champions bold voices and unfiltered storytelling shaping the next wave of modern sound.\n                         more",
+      "bio": "IMGG is an independent music collective pushing sonic boundaries. Home to the visionary, raw lyricism of Raquiel Onara 988 and the genre-bending production of William Trippe, the label champions bold voices and unfiltered storytelling shaping the next wave of modern sound.",
       "location": "Tampa, Florida",
       "genres": [],
       "tags": [
@@ -953,7 +953,8 @@
             }
           ]
         }
-      ]
+      ],
+      "scrapedBio": "IMGG is an independent music collective pushing sonic boundaries. Home to the visionary, raw lyricism of Raquiel Onara 988 and the genre-bending production of William Trippe, the label champions bold voices and unfiltered storytelling shaping the next wave of modern sound."
     },
     {
       "id": "raquielonara988",
@@ -1907,13 +1908,14 @@
             }
           ]
         }
-      ]
+      ],
+      "scrapedBio": "Raquiel Onara 988 | Watcher of the Veiled Flame | Dark music, signal-driven visuals, occult systems, ritual atmosphere, cinematic rites, hidden transmissions."
     },
     {
       "id": "gfed0909",
       "name": "gfed0909",
       "bandcampUrl": "https://gfed0909.bandcamp.com/",
-      "placeholder": false,
+      "placeholder": true,
       "tagline": "",
       "bio": "PLACEHOLDER – short bio. Run `npm run fetch` with bandcamp.com allowed, or paste the real bio here.",
       "location": "",

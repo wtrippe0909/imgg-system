@@ -1,0 +1,56 @@
+{
+  "updatedAt": null,
+  "projects": [
+    {
+      "id": "imgg",
+      "name": "IMGG",
+      "bandcampUrl": "https://imgg.bandcamp.com/",
+      "placeholder": true,
+      "tagline": "PLACEHOLDER – one-line description of IMGG",
+      "bio": "PLACEHOLDER – short bio. Run `npm run fetch` with bandcamp.com allowed, or paste the real bio here.",
+      "location": "",
+      "genres": [],
+      "tags": [],
+      "image": "",
+      "links": [
+        { "label": "Bandcamp", "url": "https://imgg.bandcamp.com/" }
+      ],
+      "contact": "",
+      "releases": []
+    },
+    {
+      "id": "raquielonara988",
+      "name": "raquielonara988",
+      "bandcampUrl": "https://raquielonara988.bandcamp.com/",
+      "placeholder": true,
+      "tagline": "PLACEHOLDER – one-line description of raquielonara988",
+      "bio": "PLACEHOLDER – short bio. Run `npm run fetch` with bandcamp.com allowed, or paste the real bio here.",
+      "location": "",
+      "genres": [],
+      "tags": [],
+      "image": "",
+      "links": [
+        { "label": "Bandcamp", "url": "https://raquielonara988.bandcamp.com/" }
+      ],
+      "contact": "",
+      "releases": []
+    },
+    {
+      "id": "gfed0909",
+      "name": "gfed0909",
+      "bandcampUrl": "https://gfed0909.bandcamp.com/",
+      "placeholder": true,
+      "tagline": "PLACEHOLDER – one-line description of gfed0909",
+      "bio": "PLACEHOLDER – short bio. Run `npm run fetch` with bandcamp.com allowed, or paste the real bio here.",
+      "location": "",
+      "genres": [],
+      "tags": [],
+      "image": "",
+      "links": [
+        { "label": "Bandcamp", "url": "https://gfed0909.bandcamp.com/" }
+      ],
+      "contact": "",
+      "releases": []
+    }
+  ]
+}

@@ -57,6 +57,12 @@ async function scrapeProject(project) {
     }
     console.log(`  · ${releases.at(-1).title || url}`);
   }
+  if (!releases.length && !artist.name) {
+    const title = (html.match(/<title>([\s\S]*?)<\/title>/i) || [])[1]?.trim();
+    const markers = ['band-name-location', 'music-grid', 'data-tralbum', 'application/ld+json']
+      .map((m) => `${m}:${html.includes(m) ? 'yes' : 'no'}`).join(' ');
+    console.warn(`  ! nothing recognised. landed on ${finalUrl} | title: ${JSON.stringify(title)} | ${html.length} bytes | ${markers}`);
+  }
   return { ...artist, releases };
 }
 

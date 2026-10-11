@@ -67,5 +67,7 @@ A project's first sync does not announce its back catalogue; only releases that 
 
 ## Notes
 
+- **Labels:** IMGG's Bandcamp page lists releases hosted on Raquiel Onara 988's page. Each release is credited to the project whose domain hosts it, so it appears once on the hub and is audited once. The IMGG filter and press kit still include the roster's releases.
+- If a sync finds nothing for a project, it keeps that project's existing data and prints a `nothing recognised` line in the Actions log, showing which page it landed on.
 - The scraper reads Bandcamp's embedded structured data (`ld+json`, `data-tralbum`) rather than page layout. It waits 1.5 s between requests (`BANDCAMP_DELAY_MS`) and retries on 429/5xx errors.
 - Bandcamp has no public API for artist pages. If they change their markup, the parser tests in `test/` show what is expected.
