@@ -4,6 +4,7 @@
 
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
+import { hostOf, ownReleases } from './lib/bandcamp.mjs';
 
 const DAY = 86_400_000;
 const isPlaceholder = (v) => !v || (typeof v === 'string' && v.startsWith('PLACEHOLDER'));
@@ -27,15 +28,20 @@ export function auditProject(p, all, today = new Date()) {
   if (!external.length) add('medium', 'Profile', 'No links beyond Bandcamp.', 'Add links (Instagram, SoundCloud, site, mailing list) under "Links" in profile settings.');
 
   const siblings = all.filter((o) => o.id !== p.id);
-  const crossLinked = siblings.filter((o) => (p.links || []).some((l) => l.url.includes(new URL(o.bandcampUrl).host)));
+  // Linking out, or hosting/listing a sibling's releases (label pages), both count.
+  const crossLinked = siblings.filter((o) => {
+    const host = hostOf(o.bandcampUrl);
+    return (p.links || []).some((l) => hostOf(l.url) === host) || (p.releases || []).some((r) => hostOf(r.url) === host);
+  });
   if (siblings.length && crossLinked.length < siblings.length) {
     const missing = siblings.filter((o) => !crossLinked.includes(o)).map((o) => o.name).join(', ');
     add('low', 'Cross-promotion', `Does not link to: ${missing}.`, 'Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").');
   }
 
-  // Catalogue
-  const releases = p.releases || [];
-  if (!releases.length && !p.placeholder) add('high', 'Catalogue', 'No releases found.', 'Publish at least one release, or check the Bandcamp URL.');
+  // Catalogue. A label page lists releases hosted on another project's
+  // domain; those are audited once, under the project that hosts them.
+  const releases = ownReleases(p, all);
+  if (!(p.releases || []).length && !p.placeholder) add('high', 'Catalogue', 'No releases found.', 'Publish at least one release, or check the Bandcamp URL. If this is expected, re-run Sync Bandcamp and check its log for a "nothing recognised" line.');
 
   const dated = releases.filter((r) => r.date).sort((a, b) => b.date.localeCompare(a.date));
   if (dated.length) {
@@ -61,6 +67,11 @@ export function auditProject(p, all, today = new Date()) {
     if (r.type === 'album' && (r.tracks || []).length >= 4 && r.price != null && r.price > 0 && r.price < 3) add('low', 'Pricing', `${where} is priced at ${r.price} for ${r.tracks.length} tracks.`, 'Bandcamp fans routinely pay over minimum; enable “let fans pay more” and test a higher minimum.');
     const generic = (r.tracks || []).filter((t) => /^(untitled|track\s*\d+|audio\s*\d*)$/i.test(t.title.trim()));
     if (generic.length) add('medium', 'Release', `${where} has ${generic.length} generic track title(s).`, 'Name every track; titles are indexed by search.');
+  }
+
+  const nyp0 = releases.filter((r) => r.nameYourPrice && !r.price);
+  if (releases.length >= 3 && nyp0.length === releases.length) {
+    add('low', 'Pricing', `All ${releases.length} releases are name-your-price with a $0 minimum.`, 'Free is good for reach, but setting a small minimum (e.g. $5–7) on full albums while keeping singles free tends to raise revenue; paying fans also rank higher in Bandcamp’s algorithm.');
   }
 
   const physical = releases.some((r) => (r.formats || []).some((f) => !/Digital/i.test(f)));

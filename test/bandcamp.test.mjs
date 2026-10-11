@@ -83,3 +83,37 @@ test('newReleases reports only unseen urls', () => {
   const after = { projects: [{ id: 'a', name: 'A', releases: [{ url: 'u1' }, { url: 'u2', title: 'New' }] }] };
   assert.deepEqual(newReleases(before, after).map((r) => r.url), ['u2']);
 });
+
+test('bio with source whitespace and an <a> "more" toggle is cleaned', () => {
+  const html = `<p id="band-name-location"><span class="title">L</span></p>
+    <p id="bio-text">IMGG is a collective of Raquiel Onara 988
+                        and others.<a class="peekaboo-link" href="#">more</a></p>`;
+  assert.equal(parseArtistPage(html, 'https://l.bandcamp.com/').bio, 'IMGG is a collective of Raquiel Onara 988 and others.');
+});
+
+test('empty scrape keeps existing data and placeholder flag', () => {
+  const existing = { id: 'g', placeholder: true, bio: 'PLACEHOLDER – b', releases: [{ url: 'u', title: 'Kept' }] };
+  const m = mergeProject(existing, { name: '', bio: '', links: [], releases: [] });
+  assert.equal(m.placeholder, true);
+  assert.deepEqual(m.releases, existing.releases);
+});
+
+test('scraped bio refreshes until edited by hand', () => {
+  const first = mergeProject({ bio: 'PLACEHOLDER – b' }, { bio: 'v1', releases: [] });
+  assert.equal(first.bio, 'v1');
+  const second = mergeProject(first, { bio: 'v2', releases: [] });
+  assert.equal(second.bio, 'v2');
+  const edited = mergeProject({ ...second, bio: 'mine' }, { bio: 'v3', releases: [] });
+  assert.equal(edited.bio, 'mine');
+  assert.equal(edited.scrapedBio, 'v3');
+});
+
+test('ownerOf and ownReleases attribute label listings to the hosting project', async () => {
+  const { ownerOf, ownReleases } = await import('../scripts/lib/bandcamp.mjs');
+  const label = { id: 'label', bandcampUrl: 'https://label.bandcamp.com/', releases: [{ url: 'https://artist.bandcamp.com/album/a' }, { url: 'https://label.bandcamp.com/album/own' }] };
+  const artist = { id: 'artist', bandcampUrl: 'https://artist.bandcamp.com/', releases: [{ url: 'https://artist.bandcamp.com/album/a' }] };
+  const all = [label, artist];
+  assert.equal(ownerOf(label.releases[0], all, label), artist);
+  assert.deepEqual(ownReleases(label, all).map((r) => r.url), ['https://label.bandcamp.com/album/own']);
+  assert.equal(ownReleases(artist, all).length, 1);
+});
