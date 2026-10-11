@@ -41,7 +41,8 @@ export function auditProject(p, all, today = new Date()) {
   // Catalogue. A label page lists releases hosted on another project's
   // domain; those are audited once, under the project that hosts them.
   const releases = ownReleases(p, all);
-  if (!(p.releases || []).length && !p.placeholder) add('high', 'Catalogue', 'No releases found.', 'Publish at least one release, or check the Bandcamp URL. If this is expected, re-run Sync Bandcamp and check its log for a "nothing recognised" line.');
+  const upcoming = p.status === 'upcoming';
+  if (!(p.releases || []).length && !p.placeholder && !upcoming) add('high', 'Catalogue', 'No releases found.', 'Publish at least one release, or check the Bandcamp URL. If this is expected, re-run Sync Bandcamp and check its log for a "nothing recognised" line.');
 
   const dated = releases.filter((r) => r.date).sort((a, b) => b.date.localeCompare(a.date));
   if (dated.length) {
@@ -77,6 +78,9 @@ export function auditProject(p, all, today = new Date()) {
   const physical = releases.some((r) => (r.formats || []).some((f) => !/Digital/i.test(f)));
   if (releases.length && !physical) add('low', 'Merch', 'No physical formats or merch.', 'Even a small cassette/CD/sticker run lifts revenue; merch shows on every release page.');
 
+  if (upcoming && !(p.releases || []).length) {
+    add('low', 'Launch', 'No releases yet (upcoming project).', 'Before the first release: set a bio, photo and location, link it from IMGG and Raquiel Onara 988, and consider a pre-order or a single so followers get notified.');
+  }
   if (!p.contact) add('low', 'Press kit', 'No booking/press contact.', 'Add a contact email to data/projects.json so the press kit is usable.');
 
   return issues;

@@ -84,7 +84,7 @@ export function renderHome(data, css) {
       listed && !own ? 'Label' : '',
       own ? `${own} release${own === 1 ? '' : 's'}` : '',
       listed ? `${listed} from roster` : '',
-      !own && !listed ? 'No releases yet' : '',
+      !own && !listed ? (p.status === 'upcoming' ? 'Coming soon' : 'No releases yet') : '',
     ].filter(Boolean);
     return `
   <article class="card">
@@ -163,8 +163,7 @@ ${p.placeholder ? placeholderNotice([p]) : ''}
   </div>
 </section>
 ${facts.length ? `<ul class="facts">${facts.map(([k, v]) => `<li><b>${esc(k)}</b>${k === 'Contact' && v.includes('@') ? `<a href="mailto:${esc(v)}">${esc(v)}</a>` : esc(v)}</li>`).join('')}</ul>` : ''}
-<h2>Bio</h2>
-<p class="bio">${isPlaceholder(p.bio) ? '<span class="muted">Bio not added yet.</span>' : esc(p.bio)}</p>
+${isPlaceholder(p.bio) && p.status === 'upcoming' ? '' : `<h2>Bio</h2><p class="bio">${isPlaceholder(p.bio) ? '<span class="muted">Bio not added yet.</span>' : esc(p.bio)}</p>`}
 ${tags.length ? `<h2>Sound</h2><p>${tags.map((t) => `<span class="tag">${esc(t)}</span>`).join('')}</p>` : ''}
 <h2>Links</h2>
 <ul>${(p.links || []).map((l) => `<li><a href="${esc(l.url)}">${esc(l.label)}</a></li>`).join('')}</ul>
@@ -180,7 +179,7 @@ ${releases.length ? releases.map((r) => `
     ${(r.tags || []).length ? `<p>${r.tags.map((t) => `<span class="tag">${esc(t)}</span>`).join('')}</p>` : ''}
     ${(r.tracks || []).length > 1 ? `<ol class="tracks">${r.tracks.map((t) => `<li>${esc(t.title)}<span>${fmtTime(t.seconds)}</span></li>`).join('')}</ol>` : ''}
   </div>
-</article>`).join('') : '<div class="empty">No releases loaded yet.</div>'}`;
+</article>`).join('') : `<div class="empty">${p.status === 'upcoming' ? 'First release coming soon.' : 'No releases loaded yet.'}</div>`}`;
   return layout({ title: `${p.name} press kit`, description: `Press kit for ${p.name}.`, body, depth: 1, css, current: p.id, data });
 }
 
