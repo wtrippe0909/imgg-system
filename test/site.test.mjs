@@ -87,3 +87,21 @@ test('label filter chip includes roster releases', () => {
   ] };
   assert.match(renderHome(d, ''), /data-projects="artist label"/);
 });
+
+test('upcoming project: coming soon on site, launch note instead of missing-release error', async () => {
+  const { mergeProject } = await import('../scripts/lib/bandcamp.mjs');
+  const up = { id: 'u', name: 'Upcoming', bandcampUrl: 'https://u.bandcamp.com/', status: 'upcoming', placeholder: false, bio: '', links: [], releases: [] };
+  const d = { projects: [up] };
+  assert.match(renderHome(d, ''), /Coming soon/);
+  const kit = renderKit(up, d, '');
+  assert.match(kit, /First release coming soon/);
+  assert.doesNotMatch(kit, /<h2>Bio<\/h2>/);
+  const [res] = auditData(d);
+  assert.ok(!res.issues.some((i) => i.area === 'Catalogue'));
+  assert.ok(res.issues.some((i) => i.area === 'Launch'));
+  // First release clears the upcoming state.
+  const after = mergeProject(up, { name: 'Upcoming', releases: [{ url: 'https://u.bandcamp.com/track/x', title: 'X' }] });
+  assert.equal(after.status, undefined);
+  // An empty sync keeps it upcoming.
+  assert.equal(mergeProject(up, { releases: [] }).status, 'upcoming');
+});

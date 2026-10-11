@@ -277,6 +277,7 @@ export function mergeProject(existing, scraped) {
   }
   merged.releases.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   merged.placeholder = false;
+  if (merged.status === 'upcoming' && merged.releases.length) delete merged.status;
   return merged;
 }
 
