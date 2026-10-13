@@ -1,16 +1,19 @@
 # Bandcamp audit
 
-Generated 2026-10-12 from data/projects.json (last Bandcamp sync 2026-10-12).
+Generated 2026-10-13 from data/projects.json (last Bandcamp sync 2026-10-13).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
-| [IMGG](https://imgg.bandcamp.com/) | 96 | 0 | 0 | 2 |
+| [IMGG](https://imgg.bandcamp.com/) | 90 | 0 | 0 | 5 |
 | [Raquiel Onara 988](https://raquielonara988.bandcamp.com/) | 86 | 0 | 0 | 7 |
 | [gfed0909](https://gfed0909.bandcamp.com/) | 58 | 1 | 3 | 3 |
 
-## IMGG — 96/100
+## IMGG — 90/100
 
-- 🟡 **Cross-promotion:** Does not link to: gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
+- 🟡 **Cross-promotion:** Does not link to: Raquiel Onara 988, gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
+- 🟡 **Release:** “Drawn to the Broken” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “Drawn to the Broken” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Merch:** No physical formats or merch. Even a small cassette/CD/sticker run lifts revenue; merch shows on every release page.
 - 🟡 **Press kit:** No booking/press contact. Add a contact email to data/projects.json so the press kit is usable.
 
 ## Raquiel Onara 988 — 86/100
