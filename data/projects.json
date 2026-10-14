@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T19:53:07.694Z",
+  "updatedAt": "2026-10-14T18:01:54.659Z",
   "projects": [
     {
       "id": "imgg",
@@ -68,7 +68,9 @@
         "Boom-bap",
         "Hip-Hop/Rap",
         "dark ambient",
-        "trip-hop"
+        "trip-hop",
+        "florida",
+        "poetry"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -87,6 +89,40 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "The Room Leaks",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-room-leaks",
+          "date": "2026-10-14",
+          "image": "https://f4.bcbits.com/img/a0343603234_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Boom-bap",
+            "Hip-Hop/Rap",
+            "dark ambient",
+            "dark trap",
+            "experimental",
+            "florida",
+            "industrial metal",
+            "poetry",
+            "spoken word",
+            "trip-hop",
+            "Tampa"
+          ],
+          "about": "A spoken-word piece about the room that tries to balance your losses like a ledger — and the small, rough, ungifted things that leak through it anyway: a hand under the door, a neighbor's kettle, a song you once wrote wrong but keep humming. They do not argue with the dark. They simply persist.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Room Leaks",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-room-leaks"
+            }
+          ]
+        },
         {
           "title": "Drawn to the Broken",
           "type": "track",
