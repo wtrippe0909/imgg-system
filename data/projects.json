@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T19:20:52.168Z",
+  "updatedAt": "2026-10-20T18:00:00.691Z",
   "projects": [
     {
       "id": "imgg",
@@ -70,7 +70,12 @@
         "dark ambient",
         "trip-hop",
         "florida",
-        "poetry"
+        "poetry",
+        "coldwave",
+        "electronic",
+        "industrial",
+        "instrumental",
+        "trip hop"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -89,6 +94,55 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "Signal Loss",
+          "type": "album",
+          "url": "https://wtrippe0909.bandcamp.com/album/signal-loss",
+          "date": "2026-10-20",
+          "image": "https://f4.bcbits.com/img/a3641704803_10.jpg",
+          "price": 3,
+          "currency": "USD",
+          "nameYourPrice": false,
+          "tags": [
+            "Boom-bap",
+            "Hip-Hop/Rap",
+            "coldwave",
+            "dark ambient",
+            "dark trap",
+            "electronic",
+            "industrial",
+            "industrial metal",
+            "instrumental",
+            "trip hop",
+            "trip-hop",
+            "Tampa"
+          ],
+          "about": "A transmission from a place where the people have already left. What's still there is the equipment — a terminal still running, tapes still turning, a signal still trying to get through. Three recordings of that room: a pulse that won't quit, the hum of screens in the dark, tape wearing thinner every time it plays. No voices. Nothing human left except whoever's listening.",
+          "credits": "William Trippe",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Signal Loss",
+              "seconds": 209,
+              "url": "https://wtrippe0909.bandcamp.com/track/signal-loss"
+            },
+            {
+              "position": 2,
+              "title": "Terminal Drift",
+              "seconds": 191,
+              "url": "https://wtrippe0909.bandcamp.com/track/terminal-drift"
+            },
+            {
+              "position": 3,
+              "title": "Analog Decay",
+              "seconds": 197,
+              "url": "https://wtrippe0909.bandcamp.com/track/analog-decay"
+            }
+          ]
+        },
         {
           "title": "The Room Leaks",
           "type": "track",
