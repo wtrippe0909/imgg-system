@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:00:00.691Z",
+  "updatedAt": "2026-10-21T18:04:20.490Z",
   "projects": [
     {
       "id": "imgg",
@@ -75,7 +75,16 @@
         "electronic",
         "industrial",
         "instrumental",
-        "trip hop"
+        "trip hop",
+        "cinematic",
+        "darkwave",
+        "dystopian",
+        "synthwave",
+        "tampa",
+        "cinematic synthwave",
+        "remote viewing",
+        "retrowave",
+        "sci-fi"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -95,6 +104,70 @@
       "contact": "",
       "releases": [
         {
+          "title": "The Mind is a Battlefield",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield",
+          "date": "2026-10-21",
+          "image": "https://f4.bcbits.com/img/a3030815448_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Hip-Hop/Rap",
+            "cinematic",
+            "darkwave",
+            "dystopian",
+            "electronic",
+            "spoken word",
+            "synthwave",
+            "tampa",
+            "Tampa"
+          ],
+          "about": "A contralto narrator recites a declassified history of mind control—from Cold War experiments to modern neural systems. Told without emotion or judgment, the song reveals a war that never ended, only refined, moving from bodies into signals, circuits, and thought itself.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Mind is a Battlefield",
+              "seconds": 469,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield"
+            }
+          ]
+        },
+        {
+          "title": "The Stargate Protocol",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-stargate-protocol",
+          "date": "2026-10-21",
+          "image": "https://f4.bcbits.com/img/a1926983187_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Hip-Hop/Rap",
+            "cinematic synthwave",
+            "darkwave",
+            "electronic",
+            "remote viewing",
+            "retrowave",
+            "sci-fi",
+            "synthwave",
+            "Tampa"
+          ],
+          "about": "A trained remote viewer is guided into a sterile, controlled session meant to prove nothing. Following coordinates and names, he crosses internal thresholds and begins witnessing vast, non-human structures beyond sanctioned space. The mission ends, the data is buried—but the visions persist, unresolved and real.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Stargate Protocol",
+              "seconds": 339,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-stargate-protocol"
+            }
+          ]
+        },
+        {
           "title": "Signal Loss",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/signal-loss",
@@ -104,17 +177,12 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Boom-bap",
             "Hip-Hop/Rap",
             "coldwave",
-            "dark ambient",
-            "dark trap",
             "electronic",
             "industrial",
-            "industrial metal",
             "instrumental",
             "trip hop",
-            "trip-hop",
             "Tampa"
           ],
           "about": "A transmission from a place where the people have already left. What's still there is the equipment — a terminal still running, tapes still turning, a signal still trying to get through. Three recordings of that room: a pulse that won't quit, the hum of screens in the dark, tape wearing thinner every time it plays. No voices. Nothing human left except whoever's listening.",
@@ -153,16 +221,11 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Boom-bap",
             "Hip-Hop/Rap",
-            "dark ambient",
-            "dark trap",
             "experimental",
             "florida",
-            "industrial metal",
             "poetry",
             "spoken word",
-            "trip-hop",
             "Tampa"
           ],
           "about": "A spoken-word piece about the room that tries to balance your losses like a ledger — and the small, rough, ungifted things that leak through it anyway: a hand under the door, a neighbor's kettle, a song you once wrote wrong but keep humming. They do not argue with the dark. They simply persist.",
@@ -187,22 +250,17 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Boom-bap",
             "Hip-Hop/Rap",
             "alternative rock",
             "atmospheric rock",
             "cinematic rock",
             "dark alternative",
-            "dark ambient",
-            "dark trap",
             "dream pop",
             "emotional",
             "ethereal rock",
             "female vocals",
-            "industrial metal",
             "melancholic",
             "shoegaze",
-            "trip-hop",
             "Tampa"
           ],
           "about": "",
@@ -227,13 +285,9 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Boom-bap",
             "Hip-Hop/Rap",
             "blues rock",
-            "dark ambient",
-            "dark trap",
             "gospel blues",
-            "industrial metal",
             "narrative",
             "outlaw blues",
             "redemption",
@@ -241,7 +295,6 @@
             "soul",
             "southern rock",
             "spoken word",
-            "trip-hop",
             "Tampa"
           ],
           "about": "This album chronicles the true story of Rick Prince, translating his journey from a talented pool hustler in Augusta, Georgia, to a convicted felon, and finally, to a man reborn by faith and dedicated to a new life in the Colorado wilderness. Every track adheres to the raw, soulful sound of Southern Rock & Blues.",
@@ -304,19 +357,14 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Boom-bap",
             "Hip-Hop/Rap",
             "chamber folk",
             "contemporary classical",
-            "dark ambient",
             "dark folk",
-            "dark trap",
             "experimental",
-            "industrial metal",
             "neoclassical",
             "spoken word",
             "sprechgesang",
-            "trip-hop",
             "Tampa"
           ],
           "about": "The Quiet Accounting is a sonic triptych that reframes grief as a bureaucratic process—a quiet foreclosure on the self. Drawing from the framework of Learned Helplessness, the project renders loss as a clinical amputation, where silence acts as administrator and memory functions as an uncompromising debt collector. The trilogy defines the aesthetic of the Brutalist Lullaby, merging the intimate softness of acoustic folk with the cold precision of neoclassical structures, creating a soundscape that is at once devastating, meticulous, and hauntingly beautiful.",
@@ -355,17 +403,12 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Boom-bap",
             "Darkwave",
             "Esoteric Metal",
             "Hip-Hop/Rap",
             "Industrial Metal",
             "Progressive Metal",
             "Symphonic Black Metal",
-            "dark ambient",
-            "dark trap",
-            "industrial metal",
-            "trip-hop",
             "Tampa"
           ],
           "about": "Plastic Sky Collapse is a Gnostic concept album tracing a soul’s violent journey from digital enslavement to divine selfhood. Its sound shifts from hazy lo-fi prisons to industrial noir grit and erupts into symphonic black metal, carrying a multi-vocal trinity: the guttural Decree of forbidden lore, the soaring Lament of resilience, and the epic Choir witnessing the cosmic drama. The narrative follows the shattering of a “plastic sky,” revealing that true liberation lies not in manufactured utopias, but in the brutal alchemy of forging authentic identity from illusion and ash. It is a sonic ritual of disillusionment, awakening, and sovereign reclamation.",
@@ -470,7 +513,6 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Boom-bap",
             "Cinematic Trap",
             "Dark Ambient",
             "Esoteric Hip-Hop",
@@ -478,10 +520,6 @@
             "Industrial Rock",
             "Neoclassical Darkwave",
             "Space Rock",
-            "dark ambient",
-            "dark trap",
-            "industrial metal",
-            "trip-hop",
             "Tampa"
           ],
           "about": "The Sunken Frequency is a two-part mythic narrative tracing the quest for a lost signal of truth buried beneath layers of systemic control and simulated reality. Act one follows a modern-day war for the soul, moving from ambient whispers of a forgotten past into the industrial-rock defiance of rebellion. Act two chronicles the aftermath, as the rediscovered Codex becomes an absolute monarch, unleashing apocalyptic judgment that escalates into a cosmic war, reframing the struggle as an eternal esoteric battle. Sonically, the album evolves from cinematic trap and esoteric hip-hop into neoclassical darkwave and expansive space rock, completing a full cycle of descent, apotheosis, and the realization that freedom is a fight waged within the heart and across the stars.",
@@ -586,7 +624,6 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Boom-bap",
             "Cinematic",
             "Cyberpunk",
             "Darkwave",
@@ -594,10 +631,6 @@
             "Hip-Hop/Rap",
             "Industrial",
             "Spoken Word",
-            "dark ambient",
-            "dark trap",
-            "industrial metal",
-            "trip-hop",
             "Tampa"
           ],
           "about": "The True Name of the Codex is a 14-track Gnostic Cyber-Punk opera, blending cold industrial machinery, cinematic synths, and glitching, rebellious anthems. It traces a soul’s harrowing evolution from discovery of a hidden prison to personal reckoning, multi-front rebellion, and ultimate apotheosis, delivering a sovereign gospel forged from the ashes of illusion. Across conspiratorial whispers, digital strongholds, and spiritual battlegrounds, the album becomes a Grimoire, a weaponized document of awakening: the sound of a soul hijacking the system, breaking the script, and manifesting a hacked divinity through the Glitching Serpent Sigil.",
@@ -702,13 +735,10 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Boom-bap",
             "Hip-Hop/Rap",
-            "dark ambient",
             "dark trap",
             "industrial metal",
             "trap metal",
-            "trip-hop",
             "Tampa"
           ],
           "about": "Welcome to a world where the soil hums with forgotten energy and the air vibrates with broken code. This album lives between ancient and futuristic, a sonic ritual set in a desolate realm of glowing green fire and spectral ruins. Each track becomes an abstract passage into hidden power and quiet apocalypse—an awakening shaped by cosmic forces and the last embers of a dying world. It is the echo of a forest burning with mystical light, the cry of a skeletal figure rising from digital debris, and the reminder that even when everything else fades, the inner flame remains.",
@@ -814,14 +844,9 @@
           "nameYourPrice": false,
           "tags": [
             "80s Synthwave",
-            "Boom-bap",
             "Dreamwave",
             "Hip-Hop/Rap",
             "Retrowave",
-            "dark ambient",
-            "dark trap",
-            "industrial metal",
-            "trip-hop",
             "Tampa"
           ],
           "about": "Unveiling the Sovereign Flame blends 80s Synthwave, Retrowave, and Dreamwave into a retro-futuristic sound of neon arpeggios, analog basslines, VHS-soaked pads, and ethereal female vocals. It follows the rise of the inner flame—awakening from shadow, illusion, and static—becoming a story of resilience, revelation, and spiritual alchemy. Each track moves through surreal neon vistas and fractured dreamscapes toward clarity and ascension. More than a record, it is an initiation into sovereignty: an invitation to claim the fire that cannot be extinguished.",
@@ -927,13 +952,8 @@
           "nameYourPrice": false,
           "tags": [
             "Alternative Metal",
-            "Boom-bap",
             "Hip-Hop/Rap",
             "Post-Grunge",
-            "dark ambient",
-            "dark trap",
-            "industrial metal",
-            "trip-hop",
             "Tampa"
           ],
           "about": "Ashes of Silence is a narrative journey through the quiet rooms of a broken heart, tracing the collapse and transformation of a single psyche. It begins in the ruins of a life and the discovery of a truth that burns the past, then follows a shadow hero waging a cold war against his own pain, forging walls so high they blot out the sun. In fleeting moments of grace, he learns to carry his broken parts, yet the underlying agony endures, culminating in a final, devastating surrender. The album is the sound of quiet despair, introspective defiance, and the haunting peace of feeling nothing at all—a sunbeam on the floor of a tomb.",
@@ -997,14 +1017,9 @@
           "nameYourPrice": false,
           "tags": [
             "Alt Rock",
-            "Boom-bap",
             "Gothic Metal",
             "Hip-Hop/Rap",
             "Symphonic Metal",
-            "dark ambient",
-            "dark trap",
-            "industrial metal",
-            "trip-hop",
             "Tampa"
           ],
           "about": "Fractured Crown fuses Gothic and Symphonic Metal with industrial grit and lo-fi ambience, building a cinematic wall of distorted guitars, ritual percussion, and ethereal–to–feral vocals. It follows a consciousness breaking through illusion and remembering its origin—a story of inner rebellion, metamorphosis, and the reclamation of power. Layered with symbolic and mystical themes, the album moves through fragmentation into integration and transcendence. More than a record, it’s a rite of transformation—an invitation to rise from the ruins and rebuild the throne within.",

@@ -1,19 +1,22 @@
 # Bandcamp audit
 
-Generated 2026-10-20 from data/projects.json (last Bandcamp sync 2026-10-20).
+Generated 2026-10-21 from data/projects.json (last Bandcamp sync 2026-10-21).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
-| [IMGG](https://imgg.bandcamp.com/) | 88 | 0 | 0 | 6 |
+| [IMGG](https://imgg.bandcamp.com/) | 82 | 0 | 0 | 9 |
 | [Raquiel Onara 988](https://raquielonara988.bandcamp.com/) | 86 | 0 | 0 | 7 |
 | [gfed0909](https://gfed0909.bandcamp.com/) | 58 | 1 | 3 | 3 |
 
-## IMGG — 88/100
+## IMGG — 82/100
 
 - 🟡 **Cross-promotion:** Does not link to: Raquiel Onara 988, gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
+- 🟡 **Release:** “The Mind is a Battlefield” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “The Stargate Protocol” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Room Leaks” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Drawn to the Broken” has no description. A short “about” paragraph adds searchable text and context for buyers.
 - 🟡 **Release:** “Drawn to the Broken” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Discovery:** “Ashes of Silence” has 4 tag(s). Add a few more specific tags (subgenre, mood, city).
 - 🟡 **Merch:** No physical formats or merch. Even a small cassette/CD/sticker run lifts revenue; merch shows on every release page.
 - 🟡 **Press kit:** No booking/press contact. Add a contact email to data/projects.json so the press kit is usable.
 
