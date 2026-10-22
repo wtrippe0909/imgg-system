@@ -1,18 +1,23 @@
 # Bandcamp audit
 
-Generated 2026-10-21 from data/projects.json (last Bandcamp sync 2026-10-21).
+Generated 2026-10-22 from data/projects.json (last Bandcamp sync 2026-10-22).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
-| [IMGG](https://imgg.bandcamp.com/) | 82 | 0 | 0 | 9 |
+| [IMGG](https://imgg.bandcamp.com/) | 72 | 0 | 0 | 14 |
 | [Raquiel Onara 988](https://raquielonara988.bandcamp.com/) | 86 | 0 | 0 | 7 |
 | [gfed0909](https://gfed0909.bandcamp.com/) | 58 | 1 | 3 | 3 |
 
-## IMGG — 82/100
+## IMGG — 72/100
 
 - 🟡 **Cross-promotion:** Does not link to: Raquiel Onara 988, gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
+- 🟡 **Release:** “Isochronic Ascension: 396 to 963” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Source Code Bleeds” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “The Flaw in the Design” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Mind is a Battlefield” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “The Recovered Name” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Stargate Protocol” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “The Variable of Freedom” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Room Leaks” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Drawn to the Broken” has no description. A short “about” paragraph adds searchable text and context for buyers.
 - 🟡 **Release:** “Drawn to the Broken” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.

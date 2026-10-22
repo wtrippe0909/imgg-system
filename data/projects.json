@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T18:04:20.490Z",
+  "updatedAt": "2026-10-22T18:00:13.612Z",
   "projects": [
     {
       "id": "imgg",
@@ -84,7 +84,22 @@
         "cinematic synthwave",
         "remote viewing",
         "retrowave",
-        "sci-fi"
+        "sci-fi",
+        "Ambient",
+        "ambient",
+        "isochronic tones",
+        "meditation",
+        "sound healing",
+        "dark electronic",
+        "deconstructed classical",
+        "glitch",
+        "cyberpunk",
+        "idm",
+        "minimalist electronic",
+        "vocoder",
+        "solar warden",
+        "synth-rock",
+        "intelligent dance music"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -104,6 +119,165 @@
       "contact": "",
       "releases": [
         {
+          "title": "Isochronic Ascension: 396 to 963",
+          "type": "album",
+          "url": "https://wtrippe0909.bandcamp.com/album/isochronic-ascension-396-to-963",
+          "date": "2026-10-22",
+          "image": "https://f4.bcbits.com/img/a1573839056_10.jpg",
+          "price": 3,
+          "currency": "USD",
+          "nameYourPrice": false,
+          "tags": [
+            "Ambient",
+            "ambient",
+            "electronic",
+            "instrumental",
+            "isochronic tones",
+            "meditation",
+            "sound healing",
+            "Tampa"
+          ],
+          "about": "Six instrumental meditations built on isochronic pulses, climbing from the root tone at 396 Hz to the crown at 963 Hz. Isochronic Ascension: 396 to 963 opens at the root and rises through the radiant field; Root of the Infinite Dawn, Lucid Radiance, and Infinite Radiant Field carry the ascent; Return to Stillness brings it home, and Golden Isochronic Ascension seals it in gold. Best with headphones, eyes closed, nowhere to be.",
+          "credits": "",
+          "formats": [
+            "Digital"
+          ],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Isochronic Ascension: 396 to 963",
+              "seconds": 279,
+              "url": "https://wtrippe0909.bandcamp.com/track/isochronic-ascension-396-to-963"
+            },
+            {
+              "position": 2,
+              "title": "Root of the Infinite Dawn",
+              "seconds": 269,
+              "url": "https://wtrippe0909.bandcamp.com/track/root-of-the-infinite-dawn"
+            },
+            {
+              "position": 3,
+              "title": "Lucid Radiance",
+              "seconds": 294,
+              "url": "https://wtrippe0909.bandcamp.com/track/lucid-radiance"
+            },
+            {
+              "position": 4,
+              "title": "Infinite Radiant Field",
+              "seconds": 339,
+              "url": "https://wtrippe0909.bandcamp.com/track/infinite-radiant-field"
+            },
+            {
+              "position": 5,
+              "title": "Return to Stillness",
+              "seconds": 263,
+              "url": "https://wtrippe0909.bandcamp.com/track/return-to-stillness"
+            },
+            {
+              "position": 6,
+              "title": "Golden Isochronic Ascension",
+              "seconds": 277,
+              "url": "https://wtrippe0909.bandcamp.com/track/golden-isochronic-ascension"
+            }
+          ]
+        },
+        {
+          "title": "Source Code Bleeds",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/source-code-bleeds",
+          "date": "2026-10-21",
+          "image": "https://f4.bcbits.com/img/a2560217278_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Ambient",
+            "cinematic",
+            "dark electronic",
+            "deconstructed classical",
+            "glitch",
+            "industrial",
+            "narrative",
+            "sci-fi",
+            "Tampa"
+          ],
+          "about": "The master builder confesses: the perfect world he coded was a cage, and the back-door was his own. As the grid cracks and the red code runs, the ghost in the machine watches his source code bleed.\n\nI drew the grid in sterile white and gold\nA perfect world, a story to be told\nEach life a function, every choice a line of code\nThe grand design on which compliance flowed\n\n(The signal's clean... the signal is a lie...)\nThis perfect cage I built against the sky...\n\nI am the Architect of this beautiful decay!\n(The flaw is in the design...)\nI gave you order, and I took the light away\n(Now watch the source code bleed...)\n\nI wrote the myths that buffer and conceal\nThe firmware layered deep to make it feel\nLike freedom was a product you could buy\nBeneath the gaze of an electronic eye\n\nTheir generational cycles, century-long arc\nI was the weapon they sharpened in the dark\nThis guilt, a crimson glitch upon the gray\nA back-door written for a breakaway\n\nI am the Architect of this beautiful decay!\n(The flaw is in the design... the system will not hold)\nI gave you order, and now I will betray!\n(Watch the whole damn source code bleed...)\n\n(Centralization... is a target...)\n(Complexity... brittleness...)\n(A... single... truth...)",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Source Code Bleeds",
+              "seconds": 224,
+              "url": "https://wtrippe0909.bandcamp.com/track/source-code-bleeds"
+            }
+          ]
+        },
+        {
+          "title": "Intra-Body Grid",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/intra-body-grid",
+          "date": "2026-10-21",
+          "image": "https://f4.bcbits.com/img/a3780899403_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Ambient",
+            "cyberpunk",
+            "dystopian",
+            "electronic",
+            "idm",
+            "minimalist electronic",
+            "sci-fi",
+            "vocoder",
+            "Tampa"
+          ],
+          "about": "A clinical system report narrated by an emotionless Administrator, documenting the moment human biology is absorbed into a living network. As nanotech maps the brain and replaces natural pathways, thought becomes data, behavior becomes signal, and the grid quietly declares itself complete.\n\nA microscopic seed is sown beneath the skin.\nA set of objects, where the nano-work begins.\n\nSending signals out on pulses, electric fields.\nSelf-assembly waiting for the heat the body yields.\nTwo different strands are fixed within this hostile space.\nOne in the brain, one for the rest of the human race.\n\nIt’s the Intra-Body Grid, can you feel the flow?\nHumanity connected, everywhere we go.\nReal-time maps of all the secrets in your head.\nNeuromodulation, living what is read.\nThe nanorouters fire, they never let you be.\nThe network is on, monitoring you and me.\n\nDeep in the grey matter, the CNTs arise.\nA mesh over neurons, beneath the sleeping eyes.\nThey form a short circuit, artificial axons shine.\nPicking up the pulse of a neurotransmitter line.\nThe natural routes are gone, replaced by the new track.\nFor neurocontrol—there is no turning back.\n\nIt’s the Intra-Body Grid, can you feel the flow?\nHumanity connected, everywhere we go.\nReal-time maps of all the secrets in your head.\nNeuromodulation, living what is read.\nThe nanorouters fire, they never let you be.\nThe network is on, monitoring you and me.\n\nThe Nanorouter grabs the signal, makes it clean.\nEncoding with TS-OOK, a binary machine.\nThen to the CODEC/Nanointerface, the firewall is thin.\nEncryption on the data, before the burst can begin.\n\nThe network is on.\nThe grid is alive.\nMonitoring you...\n...to thrive... or to drive.",
+          "credits": "Composer: William TrippeLyricist: William TrippeProducer: William TrippeVocals: William Trippe",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Intra-Body Grid",
+              "seconds": 214,
+              "url": "https://wtrippe0909.bandcamp.com/track/intra-body-grid"
+            }
+          ]
+        },
+        {
+          "title": "The Flaw in the Design",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-flaw-in-the-design",
+          "date": "2026-10-21",
+          "image": "https://f4.bcbits.com/img/a4116843289_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Ambient",
+            "cinematic",
+            "dark electronic",
+            "industrial",
+            "narrative",
+            "sci-fi",
+            "solar warden",
+            "synth-rock",
+            "Tampa"
+          ],
+          "about": "An operational report from a fallen Architect who embeds a fatal flaw into the system from within. As memory returns, the vessel exposes layer zero, shatters the illusion, and charts a path toward collective awakening through sabotage and recall.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Flaw in the Design",
+              "seconds": 296,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-flaw-in-the-design"
+            }
+          ]
+        },
+        {
           "title": "The Mind is a Battlefield",
           "type": "track",
           "url": "https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield",
@@ -113,7 +287,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Hip-Hop/Rap",
+            "Ambient",
             "cinematic",
             "darkwave",
             "dystopian",
@@ -136,6 +310,38 @@
           ]
         },
         {
+          "title": "The Recovered Name",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-recovered-name",
+          "date": "2026-10-21",
+          "image": "https://f4.bcbits.com/img/a2125811619_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Ambient",
+            "cinematic",
+            "dark electronic",
+            "deconstructed classical",
+            "glitch",
+            "industrial",
+            "sci-fi",
+            "solar warden",
+            "Tampa"
+          ],
+          "about": "A fractured architect begins to hear echoes that don't belong to this world. As memory bleeds through code and myth breaks containment, a buried identity resurfaces. This is the moment of awakening—when a false reality collapses and the Solar Warden remembers his name.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Recovered Name",
+              "seconds": 289,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-recovered-name"
+            }
+          ]
+        },
+        {
           "title": "The Stargate Protocol",
           "type": "track",
           "url": "https://wtrippe0909.bandcamp.com/track/the-stargate-protocol",
@@ -145,7 +351,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Hip-Hop/Rap",
+            "Ambient",
             "cinematic synthwave",
             "darkwave",
             "electronic",
@@ -168,6 +374,38 @@
           ]
         },
         {
+          "title": "The Variable of Freedom",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-variable-of-freedom",
+          "date": "2026-10-21",
+          "image": "https://f4.bcbits.com/img/a4070915087_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Ambient",
+            "dystopian",
+            "electronic",
+            "idm",
+            "intelligent dance music",
+            "minimalist electronic",
+            "sci-fi",
+            "vocoder",
+            "Tampa"
+          ],
+          "about": "The system files its report. The chaos of the human heart — hope, love, dissent — quantified, debugged, and optimized away, until freedom itself is just a variable the system manages and defines. Sterile IDM, a vocoder voice calm as a form letter: compliance is efficiency.\n\nInitializing report seven-delta-nine.\nSubject: Inefficient Variables.\n\nThe chaos of the human heart, a messy, flawed design\nA billion frantic signals that refuse to form a line\nWe see the raw equation, the error in the sums\nThe wasted, random energy before the order comes\n\n(x equals desire... y equals the pain...)\n(Calculating loss... optimizing gain...)\n\nCompliance is efficiency, the logic is serene\nWe quantify the spirit, we debug the machine\nFreedom is a variable we manage and define\nThe future is optimized by elegant design\n\nYour hope is just a metric, your love a simple node\nWe plot it on a graph and then we lighten the whole load\nYour dissent is a deviation, a rounding error's ghost\nA bug within the system that we neutralize the most\n\n(Plotting protest vectors... projecting the decay...)\n(Re-routing behavioral pathways... come what may...)\n\nCompliance is efficiency, the logic is serene\nWe quantify the spirit, we debug the machine\nFreedom is a variable we manage and define\nThe future is optimized by elegant design\n\nYou call it control. We call it stability.\nYou cling to the unpredictable and call it dignity.\nBut a perfect system has no room for ghosts or gods or chance.\nThere is only the equation. The next logical advance.\nIt's beautiful, isn't it?\nSo clean.\n\nReport concluded.\nSystem integrity: optimal.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Variable of Freedom",
+              "seconds": 243,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-variable-of-freedom"
+            }
+          ]
+        },
+        {
           "title": "Signal Loss",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/signal-loss",
@@ -177,7 +415,7 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Hip-Hop/Rap",
+            "Ambient",
             "coldwave",
             "electronic",
             "industrial",
@@ -221,7 +459,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Hip-Hop/Rap",
+            "Ambient",
             "experimental",
             "florida",
             "poetry",
@@ -250,7 +488,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Hip-Hop/Rap",
+            "Ambient",
             "alternative rock",
             "atmospheric rock",
             "cinematic rock",
@@ -285,7 +523,7 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Hip-Hop/Rap",
+            "Ambient",
             "blues rock",
             "gospel blues",
             "narrative",
@@ -357,7 +595,7 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Hip-Hop/Rap",
+            "Ambient",
             "chamber folk",
             "contemporary classical",
             "dark folk",
@@ -403,9 +641,9 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
+            "Ambient",
             "Darkwave",
             "Esoteric Metal",
-            "Hip-Hop/Rap",
             "Industrial Metal",
             "Progressive Metal",
             "Symphonic Black Metal",
@@ -513,10 +751,10 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
+            "Ambient",
             "Cinematic Trap",
             "Dark Ambient",
             "Esoteric Hip-Hop",
-            "Hip-Hop/Rap",
             "Industrial Rock",
             "Neoclassical Darkwave",
             "Space Rock",
@@ -624,11 +862,11 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
+            "Ambient",
             "Cinematic",
             "Cyberpunk",
             "Darkwave",
             "Electronic Rock",
-            "Hip-Hop/Rap",
             "Industrial",
             "Spoken Word",
             "Tampa"
@@ -735,7 +973,7 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Hip-Hop/Rap",
+            "Ambient",
             "dark trap",
             "industrial metal",
             "trap metal",
@@ -844,8 +1082,8 @@
           "nameYourPrice": false,
           "tags": [
             "80s Synthwave",
+            "Ambient",
             "Dreamwave",
-            "Hip-Hop/Rap",
             "Retrowave",
             "Tampa"
           ],
@@ -952,7 +1190,7 @@
           "nameYourPrice": false,
           "tags": [
             "Alternative Metal",
-            "Hip-Hop/Rap",
+            "Ambient",
             "Post-Grunge",
             "Tampa"
           ],
@@ -1017,8 +1255,8 @@
           "nameYourPrice": false,
           "tags": [
             "Alt Rock",
+            "Ambient",
             "Gothic Metal",
-            "Hip-Hop/Rap",
             "Symphonic Metal",
             "Tampa"
           ],
