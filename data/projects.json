@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T16:36:22.670Z",
+  "updatedAt": "2026-10-25T17:04:53.389Z",
   "projects": [
     {
       "id": "imgg",
@@ -99,7 +99,17 @@
         "vocoder",
         "solar warden",
         "synth-rock",
-        "intelligent dance music"
+        "intelligent dance music",
+        "Experimental",
+        "boom bap",
+        "esoteric",
+        "hip-hop",
+        "conscious hip-hop",
+        "jazz rap",
+        "trap",
+        "cinematic industrial",
+        "transhumanism",
+        "art rock"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -119,16 +129,196 @@
       "contact": "",
       "releases": [
         {
+          "title": "The Black Cube (Saturn Return)",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-black-cube-saturn-return",
+          "date": "2026-10-25",
+          "image": "https://f4.bcbits.com/img/a3756293221_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "cinematic",
+            "dystopian",
+            "esoteric",
+            "hip-hop",
+            "Tampa"
+          ],
+          "about": "Saturn is not a planet — it's a broadcaster. A dark cinematic boom-bap transmission about the cube at the center of the control grid: the signal coming down, the harvest it feeds, and the escape for anyone who learns to tune it out.\n\nMenacing orchestral string stabs and a heavy, dusty kick under an aggressive, raspy flow — Chronos, the Moon amplifier, and the frequency fence, all on the record.",
+          "credits": "William Trippe",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Black Cube (Saturn Return)",
+              "seconds": 219,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-black-cube-saturn-return"
+            }
+          ]
+        },
+        {
+          "title": "The Strawman (Cestui Que Vie)",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie",
+          "date": "2026-10-25",
+          "image": "https://f4.bcbits.com/img/a2536684281_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "conscious hip-hop",
+            "dystopian",
+            "esoteric",
+            "jazz rap",
+            "Tampa"
+          ],
+          "about": "Rome didn't fall — it reorganized. A conscious hip-hop excavation of the legal fiction at the center of modern citizenship: the strawman, the Cestui Que Vie trust, the name written in all caps on the paperwork.\n\nDusty boom bap drums, upright bass and noir jazz piano under a measured, prosecutorial flow — two thousand years of hidden empire, delivered like evidence.",
+          "credits": "William Trippe",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Strawman (Cestui Que Vie)",
+              "seconds": 237,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie"
+            }
+          ]
+        },
+        {
+          "title": "ARCHON FIELD REPORT",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/archon-field-report",
+          "date": "2026-10-24",
+          "image": "https://f4.bcbits.com/img/a1082217479_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "dark trap",
+            "dystopian",
+            "esoteric",
+            "hip-hop",
+            "trap",
+            "Tampa"
+          ],
+          "about": "A coded transmission from inside a hidden prison reality. Parasitic forces feed on human emotion through trauma and illusion — the harvest, the soul recycling grid, the loosh. Dark trap at 140 BPM: hard 808s, rapid hi-hats, and a melodic hook carrying a dense lyrical narrative. The call at the end is simple: stop feeding the system and break the loop.\n\nProduced by William Trippe",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "ARCHON FIELD REPORT",
+              "seconds": 169,
+              "url": "https://wtrippe0909.bandcamp.com/track/archon-field-report"
+            }
+          ]
+        },
+        {
+          "title": "Synthetic Eternity",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/synthetic-eternity",
+          "date": "2026-10-24",
+          "image": "https://f4.bcbits.com/img/a1529028406_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "cinematic industrial",
+            "dystopian",
+            "electronic",
+            "shoegaze",
+            "transhumanism",
+            "Tampa"
+          ],
+          "about": "Cinematic industrial shoegaze for the end of the human story — cloned elites in silent chrome towers weave the narrative and control the collective dream, while Raquiel Onara sees the deeper scheme. Detuned piano, sub-bass chant, industrial drums and a commanding female voice over rain and glitching static. \"A silent whisper for eternity.\"",
+          "credits": "Produced by William Trippe",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Synthetic Eternity",
+              "seconds": 280,
+              "url": "https://wtrippe0909.bandcamp.com/track/synthetic-eternity"
+            }
+          ]
+        },
+        {
+          "title": "The Black Inventory",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-black-inventory-2",
+          "date": "2026-10-24",
+          "image": "https://f4.bcbits.com/img/a1469206081_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "ambient",
+            "cinematic",
+            "dark folk",
+            "dystopian",
+            "neoclassical",
+            "Tampa"
+          ],
+          "about": "A ledger of a life, kept in the dark. Every breath itemized, every fear filed by a clerk who never loved the fire but kept the spark — until the case is called in the courtroom of the shade, the debts are counted that never can be paid, and the mirror stops answering to your face. It replies with a ledger.\n\nProduced by William Trippe",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Black Inventory",
+              "seconds": 318,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-black-inventory-2"
+            }
+          ]
+        },
+        {
+          "title": "The Recycling Grid",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-recycling-grid",
+          "date": "2026-10-24",
+          "image": "https://f4.bcbits.com/img/a4229197529_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "alternative rock",
+            "art rock",
+            "dark folk",
+            "dystopian",
+            "esoteric",
+            "Tampa"
+          ],
+          "about": "A song from inside the soul-recycling machine. The Demiurge's prison runs on a wheel — fade out, get purged of the light, get fed back into the grid — while the Archons harvest the loosh from the fear. Painted doors, locked exits, and a moon that whispers \"be helpless.\" Fade out again… or wake up inside the loop.\n\nProduced by William Trippe",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Recycling Grid",
+              "seconds": 234,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-recycling-grid"
+            }
+          ]
+        },
+        {
           "title": "Isochronic Ascension: 396 to 963",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/isochronic-ascension-396-to-963",
           "date": "2026-10-22",
           "image": "https://f4.bcbits.com/img/a1573839056_10.jpg",
-          "price": 3,
+          "price": 6,
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "ambient",
             "electronic",
             "instrumental",
@@ -191,7 +381,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "cinematic",
             "dark electronic",
             "deconstructed classical",
@@ -223,7 +413,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "cyberpunk",
             "dystopian",
             "electronic",
@@ -255,7 +445,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "cinematic",
             "dark electronic",
             "industrial",
@@ -287,7 +477,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "cinematic",
             "darkwave",
             "dystopian",
@@ -319,7 +509,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "cinematic",
             "dark electronic",
             "deconstructed classical",
@@ -351,7 +541,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "cinematic synthwave",
             "darkwave",
             "electronic",
@@ -383,7 +573,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "dystopian",
             "electronic",
             "idm",
@@ -415,7 +605,7 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "coldwave",
             "electronic",
             "industrial",
@@ -459,7 +649,7 @@
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "experimental",
             "florida",
             "poetry",
@@ -484,11 +674,11 @@
           "url": "https://wtrippe0909.bandcamp.com/track/drawn-to-the-broken",
           "date": "2026-08-08",
           "image": "https://f4.bcbits.com/img/a2068346706_10.jpg",
-          "price": 5,
+          "price": 2,
           "currency": null,
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "alternative rock",
             "atmospheric rock",
             "cinematic rock",
@@ -519,11 +709,11 @@
           "url": "https://wtrippe0909.bandcamp.com/album/the-trail-of-the-white-wolf",
           "date": "2025-11-23",
           "image": "https://f4.bcbits.com/img/a0958368810_10.jpg",
-          "price": 5,
+          "price": 7,
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "blues rock",
             "gospel blues",
             "narrative",
@@ -595,7 +785,7 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "chamber folk",
             "contemporary classical",
             "dark folk",
@@ -637,13 +827,13 @@
           "url": "https://wtrippe0909.bandcamp.com/album/plastic-sky-collapse",
           "date": "2025-09-11",
           "image": "https://f4.bcbits.com/img/a1305805640_10.jpg",
-          "price": 7,
+          "price": 14,
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
             "Darkwave",
             "Esoteric Metal",
+            "Experimental",
             "Industrial Metal",
             "Progressive Metal",
             "Symphonic Black Metal",
@@ -747,14 +937,14 @@
           "url": "https://wtrippe0909.bandcamp.com/album/the-sunken-frequency",
           "date": "2025-09-11",
           "image": "https://f4.bcbits.com/img/a1557987379_10.jpg",
-          "price": 7,
+          "price": 14,
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
             "Cinematic Trap",
             "Dark Ambient",
             "Esoteric Hip-Hop",
+            "Experimental",
             "Industrial Rock",
             "Neoclassical Darkwave",
             "Space Rock",
@@ -862,11 +1052,11 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
             "Cinematic",
             "Cyberpunk",
             "Darkwave",
             "Electronic Rock",
+            "Experimental",
             "Industrial",
             "Spoken Word",
             "Tampa"
@@ -973,7 +1163,7 @@
           "currency": "USD",
           "nameYourPrice": false,
           "tags": [
-            "Ambient",
+            "Experimental",
             "dark trap",
             "industrial metal",
             "trap metal",
@@ -1082,8 +1272,8 @@
           "nameYourPrice": false,
           "tags": [
             "80s Synthwave",
-            "Ambient",
             "Dreamwave",
+            "Experimental",
             "Retrowave",
             "Tampa"
           ],
@@ -1190,7 +1380,7 @@
           "nameYourPrice": false,
           "tags": [
             "Alternative Metal",
-            "Ambient",
+            "Experimental",
             "Post-Grunge",
             "Tampa"
           ],
@@ -1255,7 +1445,7 @@
           "nameYourPrice": false,
           "tags": [
             "Alt Rock",
-            "Ambient",
+            "Experimental",
             "Gothic Metal",
             "Symphonic Metal",
             "Tampa"

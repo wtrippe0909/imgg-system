@@ -1,16 +1,19 @@
 # Bandcamp audit
 
-Generated 2026-10-24 from data/projects.json (last Bandcamp sync 2026-10-24).
+Generated 2026-10-25 from data/projects.json (last Bandcamp sync 2026-10-25).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
-| [IMGG](https://imgg.bandcamp.com/) | 72 | 0 | 0 | 14 |
+| [IMGG](https://imgg.bandcamp.com/) | 66 | 0 | 0 | 17 |
 | [Raquiel Onara 988](https://raquielonara988.bandcamp.com/) | 86 | 0 | 0 | 7 |
 | [gfed0909](https://gfed0909.bandcamp.com/) | 58 | 1 | 3 | 3 |
 
-## IMGG — 72/100
+## IMGG — 66/100
 
 - 🟡 **Cross-promotion:** Does not link to: Raquiel Onara 988, gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
+- 🟡 **Release:** “ARCHON FIELD REPORT” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “The Black Inventory” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “The Recycling Grid” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Isochronic Ascension: 396 to 963” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Source Code Bleeds” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Flaw in the Design” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
