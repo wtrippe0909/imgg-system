@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:04:53.389Z",
+  "updatedAt": "2026-10-26T19:21:44.364Z",
   "projects": [
     {
       "id": "imgg",
@@ -109,7 +109,10 @@
         "trap",
         "cinematic industrial",
         "transhumanism",
-        "art rock"
+        "art rock",
+        "alternative",
+        "atmospheric pop",
+        "dark pop"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -128,6 +131,36 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "No Encore",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/no-encore",
+          "date": "2026-10-25",
+          "image": "https://f4.bcbits.com/img/a1083530575_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "alternative",
+            "atmospheric pop",
+            "dark pop",
+            "dystopian",
+            "electronic",
+            "Tampa"
+          ],
+          "about": "A dark alternative ballad about choosing silence over continuation. Low-register vocals over warm analog pads, deep sub-bass, and a distorted guitar motif fading like a signal — stepping off the stage before the room asks for more. No second call. No final scene.\n\n\"I step off the stage tonight,\nLet it end without a sign.\"",
+          "credits": "Written and performed by William Trippe.",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "No Encore",
+              "seconds": 177,
+              "url": "https://wtrippe0909.bandcamp.com/track/no-encore"
+            }
+          ]
+        },
         {
           "title": "The Black Cube (Saturn Return)",
           "type": "track",
@@ -185,6 +218,36 @@
               "title": "The Strawman (Cestui Que Vie)",
               "seconds": 237,
               "url": "https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie"
+            }
+          ]
+        },
+        {
+          "title": "Solar Warden",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/solar-warden",
+          "date": "2026-10-25",
+          "image": "https://f4.bcbits.com/img/a1427549960_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "atmospheric pop",
+            "dark pop",
+            "dystopian",
+            "electronic",
+            "esoteric",
+            "Tampa"
+          ],
+          "about": "A restrained dark pop signal about reclaiming identity from a manufactured world. Low-register vocals, quiet pressure, and memory breaking through the noise. Deep sub-bass, a muted kick, and sparse percussion circle shadowed analog pads and a clean guitar motif, while a low, intimate voice wakes up inside the glass world and remembers its own name. This is not escape — it's remembrance.",
+          "credits": "William Trippe",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Solar Warden",
+              "seconds": 289,
+              "url": "https://wtrippe0909.bandcamp.com/track/solar-warden"
             }
           ]
         },
