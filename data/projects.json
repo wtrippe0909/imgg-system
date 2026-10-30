@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:58:36.120Z",
+  "updatedAt": "2026-10-30T18:38:51.442Z",
   "projects": [
     {
       "id": "imgg",
@@ -132,1478 +132,439 @@
       "contact": "",
       "releases": [
         {
-          "title": "No Encore",
+          "title": "",
           "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/no-encore",
-          "date": "2026-10-25",
-          "image": "https://f4.bcbits.com/img/a1083530575_10.jpg",
-          "price": 2,
+          "url": "https://wtrippe0909.bandcamp.com/track/event-horizon-of-silence",
+          "date": null,
+          "image": "",
+          "price": null,
           "currency": null,
           "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "alternative",
-            "atmospheric pop",
-            "dark pop",
-            "dystopian",
-            "electronic",
-            "Tampa"
-          ],
-          "about": "A dark alternative ballad about choosing silence over continuation. Low-register vocals over warm analog pads, deep sub-bass, and a distorted guitar motif fading like a signal — stepping off the stage before the room asks for more. No second call. No final scene.\n\n\"I step off the stage tonight,\nLet it end without a sign.\"",
-          "credits": "Written and performed by William Trippe.",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "No Encore",
-              "seconds": 177,
-              "url": "https://wtrippe0909.bandcamp.com/track/no-encore"
-            }
-          ]
-        },
-        {
-          "title": "The Black Cube (Saturn Return)",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/the-black-cube-saturn-return",
-          "date": "2026-10-25",
-          "image": "https://f4.bcbits.com/img/a3756293221_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "boom bap",
-            "cinematic",
-            "dystopian",
-            "esoteric",
-            "hip-hop",
-            "Tampa"
-          ],
-          "about": "Saturn is not a planet — it's a broadcaster. A dark cinematic boom-bap transmission about the cube at the center of the control grid: the signal coming down, the harvest it feeds, and the escape for anyone who learns to tune it out.\n\nMenacing orchestral string stabs and a heavy, dusty kick under an aggressive, raspy flow — Chronos, the Moon amplifier, and the frequency fence, all on the record.",
-          "credits": "William Trippe",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Black Cube (Saturn Return)",
-              "seconds": 219,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-black-cube-saturn-return"
-            }
-          ]
-        },
-        {
-          "title": "The Strawman (Cestui Que Vie)",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie",
-          "date": "2026-10-25",
-          "image": "https://f4.bcbits.com/img/a2536684281_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "boom bap",
-            "conscious hip-hop",
-            "dystopian",
-            "esoteric",
-            "jazz rap",
-            "Tampa"
-          ],
-          "about": "Rome didn't fall — it reorganized. A conscious hip-hop excavation of the legal fiction at the center of modern citizenship: the strawman, the Cestui Que Vie trust, the name written in all caps on the paperwork.\n\nDusty boom bap drums, upright bass and noir jazz piano under a measured, prosecutorial flow — two thousand years of hidden empire, delivered like evidence.",
-          "credits": "William Trippe",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Strawman (Cestui Que Vie)",
-              "seconds": 237,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie"
-            }
-          ]
-        },
-        {
-          "title": "Solar Warden",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/solar-warden",
-          "date": "2026-10-25",
-          "image": "https://f4.bcbits.com/img/a1427549960_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "atmospheric pop",
-            "dark pop",
-            "dystopian",
-            "electronic",
-            "esoteric",
-            "Tampa"
-          ],
-          "about": "A restrained dark pop signal about reclaiming identity from a manufactured world. Low-register vocals, quiet pressure, and memory breaking through the noise. Deep sub-bass, a muted kick, and sparse percussion circle shadowed analog pads and a clean guitar motif, while a low, intimate voice wakes up inside the glass world and remembers its own name. This is not escape — it's remembrance.",
-          "credits": "William Trippe",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Solar Warden",
-              "seconds": 289,
-              "url": "https://wtrippe0909.bandcamp.com/track/solar-warden"
-            }
-          ]
-        },
-        {
-          "title": "ARCHON FIELD REPORT",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/archon-field-report",
-          "date": "2026-10-24",
-          "image": "https://f4.bcbits.com/img/a1082217479_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "dark trap",
-            "dystopian",
-            "esoteric",
-            "hip-hop",
-            "trap",
-            "Tampa"
-          ],
-          "about": "A coded transmission from inside a hidden prison reality. Parasitic forces feed on human emotion through trauma and illusion — the harvest, the soul recycling grid, the loosh. Dark trap at 140 BPM: hard 808s, rapid hi-hats, and a melodic hook carrying a dense lyrical narrative. The call at the end is simple: stop feeding the system and break the loop.\n\nProduced by William Trippe",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "ARCHON FIELD REPORT",
-              "seconds": 169,
-              "url": "https://wtrippe0909.bandcamp.com/track/archon-field-report"
-            }
-          ]
-        },
-        {
-          "title": "Synthetic Eternity",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/synthetic-eternity",
-          "date": "2026-10-24",
-          "image": "https://f4.bcbits.com/img/a1529028406_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "cinematic industrial",
-            "dystopian",
-            "electronic",
-            "shoegaze",
-            "transhumanism",
-            "Tampa"
-          ],
-          "about": "Cinematic industrial shoegaze for the end of the human story — cloned elites in silent chrome towers weave the narrative and control the collective dream, while Raquiel Onara sees the deeper scheme. Detuned piano, sub-bass chant, industrial drums and a commanding female voice over rain and glitching static. \"A silent whisper for eternity.\"",
-          "credits": "Produced by William Trippe",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Synthetic Eternity",
-              "seconds": 280,
-              "url": "https://wtrippe0909.bandcamp.com/track/synthetic-eternity"
-            }
-          ]
-        },
-        {
-          "title": "The Black Inventory",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/the-black-inventory-2",
-          "date": "2026-10-24",
-          "image": "https://f4.bcbits.com/img/a1469206081_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "ambient",
-            "cinematic",
-            "dark folk",
-            "dystopian",
-            "neoclassical",
-            "Tampa"
-          ],
-          "about": "A ledger of a life, kept in the dark. Every breath itemized, every fear filed by a clerk who never loved the fire but kept the spark — until the case is called in the courtroom of the shade, the debts are counted that never can be paid, and the mirror stops answering to your face. It replies with a ledger.\n\nProduced by William Trippe",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Black Inventory",
-              "seconds": 318,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-black-inventory-2"
-            }
-          ]
-        },
-        {
-          "title": "The Recycling Grid",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/the-recycling-grid",
-          "date": "2026-10-24",
-          "image": "https://f4.bcbits.com/img/a4229197529_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "alternative rock",
-            "art rock",
-            "dark folk",
-            "dystopian",
-            "esoteric",
-            "Tampa"
-          ],
-          "about": "A song from inside the soul-recycling machine. The Demiurge's prison runs on a wheel — fade out, get purged of the light, get fed back into the grid — while the Archons harvest the loosh from the fear. Painted doors, locked exits, and a moon that whispers \"be helpless.\" Fade out again… or wake up inside the loop.\n\nProduced by William Trippe",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Recycling Grid",
-              "seconds": 234,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-recycling-grid"
-            }
-          ]
-        },
-        {
-          "title": "Isochronic Ascension: 396 to 963",
-          "type": "album",
-          "url": "https://wtrippe0909.bandcamp.com/album/isochronic-ascension-396-to-963",
-          "date": "2026-10-22",
-          "image": "https://f4.bcbits.com/img/a1573839056_10.jpg",
-          "price": 6,
-          "currency": "USD",
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "ambient",
-            "electronic",
-            "instrumental",
-            "isochronic tones",
-            "meditation",
-            "sound healing",
-            "Tampa"
-          ],
-          "about": "Six instrumental meditations built on isochronic pulses, climbing from the root tone at 396 Hz to the crown at 963 Hz. Isochronic Ascension: 396 to 963 opens at the root and rises through the radiant field; Root of the Infinite Dawn, Lucid Radiance, and Infinite Radiant Field carry the ascent; Return to Stillness brings it home, and Golden Isochronic Ascension seals it in gold. Best with headphones, eyes closed, nowhere to be.",
-          "credits": "",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Isochronic Ascension: 396 to 963",
-              "seconds": 279,
-              "url": "https://wtrippe0909.bandcamp.com/track/isochronic-ascension-396-to-963"
-            },
-            {
-              "position": 2,
-              "title": "Root of the Infinite Dawn",
-              "seconds": 269,
-              "url": "https://wtrippe0909.bandcamp.com/track/root-of-the-infinite-dawn"
-            },
-            {
-              "position": 3,
-              "title": "Lucid Radiance",
-              "seconds": 294,
-              "url": "https://wtrippe0909.bandcamp.com/track/lucid-radiance"
-            },
-            {
-              "position": 4,
-              "title": "Infinite Radiant Field",
-              "seconds": 339,
-              "url": "https://wtrippe0909.bandcamp.com/track/infinite-radiant-field"
-            },
-            {
-              "position": 5,
-              "title": "Return to Stillness",
-              "seconds": 263,
-              "url": "https://wtrippe0909.bandcamp.com/track/return-to-stillness"
-            },
-            {
-              "position": 6,
-              "title": "Golden Isochronic Ascension",
-              "seconds": 277,
-              "url": "https://wtrippe0909.bandcamp.com/track/golden-isochronic-ascension"
-            }
-          ]
-        },
-        {
-          "title": "Source Code Bleeds",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/source-code-bleeds",
-          "date": "2026-10-21",
-          "image": "https://f4.bcbits.com/img/a2560217278_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "cinematic",
-            "dark electronic",
-            "deconstructed classical",
-            "glitch",
-            "industrial",
-            "narrative",
-            "sci-fi",
-            "Tampa"
-          ],
-          "about": "The master builder confesses: the perfect world he coded was a cage, and the back-door was his own. As the grid cracks and the red code runs, the ghost in the machine watches his source code bleed.\n\nI drew the grid in sterile white and gold\nA perfect world, a story to be told\nEach life a function, every choice a line of code\nThe grand design on which compliance flowed\n\n(The signal's clean... the signal is a lie...)\nThis perfect cage I built against the sky...\n\nI am the Architect of this beautiful decay!\n(The flaw is in the design...)\nI gave you order, and I took the light away\n(Now watch the source code bleed...)\n\nI wrote the myths that buffer and conceal\nThe firmware layered deep to make it feel\nLike freedom was a product you could buy\nBeneath the gaze of an electronic eye\n\nTheir generational cycles, century-long arc\nI was the weapon they sharpened in the dark\nThis guilt, a crimson glitch upon the gray\nA back-door written for a breakaway\n\nI am the Architect of this beautiful decay!\n(The flaw is in the design... the system will not hold)\nI gave you order, and now I will betray!\n(Watch the whole damn source code bleed...)\n\n(Centralization... is a target...)\n(Complexity... brittleness...)\n(A... single... truth...)",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Source Code Bleeds",
-              "seconds": 224,
-              "url": "https://wtrippe0909.bandcamp.com/track/source-code-bleeds"
-            }
-          ]
-        },
-        {
-          "title": "Intra-Body Grid",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/intra-body-grid",
-          "date": "2026-10-21",
-          "image": "https://f4.bcbits.com/img/a3780899403_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "cyberpunk",
-            "dystopian",
-            "electronic",
-            "idm",
-            "minimalist electronic",
-            "sci-fi",
-            "vocoder",
-            "Tampa"
-          ],
-          "about": "A clinical system report narrated by an emotionless Administrator, documenting the moment human biology is absorbed into a living network. As nanotech maps the brain and replaces natural pathways, thought becomes data, behavior becomes signal, and the grid quietly declares itself complete.\n\nA microscopic seed is sown beneath the skin.\nA set of objects, where the nano-work begins.\n\nSending signals out on pulses, electric fields.\nSelf-assembly waiting for the heat the body yields.\nTwo different strands are fixed within this hostile space.\nOne in the brain, one for the rest of the human race.\n\nIt’s the Intra-Body Grid, can you feel the flow?\nHumanity connected, everywhere we go.\nReal-time maps of all the secrets in your head.\nNeuromodulation, living what is read.\nThe nanorouters fire, they never let you be.\nThe network is on, monitoring you and me.\n\nDeep in the grey matter, the CNTs arise.\nA mesh over neurons, beneath the sleeping eyes.\nThey form a short circuit, artificial axons shine.\nPicking up the pulse of a neurotransmitter line.\nThe natural routes are gone, replaced by the new track.\nFor neurocontrol—there is no turning back.\n\nIt’s the Intra-Body Grid, can you feel the flow?\nHumanity connected, everywhere we go.\nReal-time maps of all the secrets in your head.\nNeuromodulation, living what is read.\nThe nanorouters fire, they never let you be.\nThe network is on, monitoring you and me.\n\nThe Nanorouter grabs the signal, makes it clean.\nEncoding with TS-OOK, a binary machine.\nThen to the CODEC/Nanointerface, the firewall is thin.\nEncryption on the data, before the burst can begin.\n\nThe network is on.\nThe grid is alive.\nMonitoring you...\n...to thrive... or to drive.",
-          "credits": "Composer: William TrippeLyricist: William TrippeProducer: William TrippeVocals: William Trippe",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Intra-Body Grid",
-              "seconds": 214,
-              "url": "https://wtrippe0909.bandcamp.com/track/intra-body-grid"
-            }
-          ]
-        },
-        {
-          "title": "The Flaw in the Design",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/the-flaw-in-the-design",
-          "date": "2026-10-21",
-          "image": "https://f4.bcbits.com/img/a4116843289_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "cinematic",
-            "dark electronic",
-            "industrial",
-            "narrative",
-            "sci-fi",
-            "solar warden",
-            "synth-rock",
-            "Tampa"
-          ],
-          "about": "An operational report from a fallen Architect who embeds a fatal flaw into the system from within. As memory returns, the vessel exposes layer zero, shatters the illusion, and charts a path toward collective awakening through sabotage and recall.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Flaw in the Design",
-              "seconds": 296,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-flaw-in-the-design"
-            }
-          ]
-        },
-        {
-          "title": "The Mind is a Battlefield",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield",
-          "date": "2026-10-21",
-          "image": "https://f4.bcbits.com/img/a3030815448_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "cinematic",
-            "darkwave",
-            "dystopian",
-            "electronic",
-            "spoken word",
-            "synthwave",
-            "tampa",
-            "Tampa"
-          ],
-          "about": "A contralto narrator recites a declassified history of mind control—from Cold War experiments to modern neural systems. Told without emotion or judgment, the song reveals a war that never ended, only refined, moving from bodies into signals, circuits, and thought itself.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Mind is a Battlefield",
-              "seconds": 469,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield"
-            }
-          ]
-        },
-        {
-          "title": "The Recovered Name",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/the-recovered-name",
-          "date": "2026-10-21",
-          "image": "https://f4.bcbits.com/img/a2125811619_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "cinematic",
-            "dark electronic",
-            "deconstructed classical",
-            "glitch",
-            "industrial",
-            "sci-fi",
-            "solar warden",
-            "Tampa"
-          ],
-          "about": "A fractured architect begins to hear echoes that don't belong to this world. As memory bleeds through code and myth breaks containment, a buried identity resurfaces. This is the moment of awakening—when a false reality collapses and the Solar Warden remembers his name.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Recovered Name",
-              "seconds": 289,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-recovered-name"
-            }
-          ]
-        },
-        {
-          "title": "The Stargate Protocol",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/the-stargate-protocol",
-          "date": "2026-10-21",
-          "image": "https://f4.bcbits.com/img/a1926983187_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "cinematic synthwave",
-            "darkwave",
-            "electronic",
-            "remote viewing",
-            "retrowave",
-            "sci-fi",
-            "synthwave",
-            "Tampa"
-          ],
-          "about": "A trained remote viewer is guided into a sterile, controlled session meant to prove nothing. Following coordinates and names, he crosses internal thresholds and begins witnessing vast, non-human structures beyond sanctioned space. The mission ends, the data is buried—but the visions persist, unresolved and real.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Stargate Protocol",
-              "seconds": 339,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-stargate-protocol"
-            }
-          ]
-        },
-        {
-          "title": "The Variable of Freedom",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/the-variable-of-freedom",
-          "date": "2026-10-21",
-          "image": "https://f4.bcbits.com/img/a4070915087_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "dystopian",
-            "electronic",
-            "idm",
-            "intelligent dance music",
-            "minimalist electronic",
-            "sci-fi",
-            "vocoder",
-            "Tampa"
-          ],
-          "about": "The system files its report. The chaos of the human heart — hope, love, dissent — quantified, debugged, and optimized away, until freedom itself is just a variable the system manages and defines. Sterile IDM, a vocoder voice calm as a form letter: compliance is efficiency.\n\nInitializing report seven-delta-nine.\nSubject: Inefficient Variables.\n\nThe chaos of the human heart, a messy, flawed design\nA billion frantic signals that refuse to form a line\nWe see the raw equation, the error in the sums\nThe wasted, random energy before the order comes\n\n(x equals desire... y equals the pain...)\n(Calculating loss... optimizing gain...)\n\nCompliance is efficiency, the logic is serene\nWe quantify the spirit, we debug the machine\nFreedom is a variable we manage and define\nThe future is optimized by elegant design\n\nYour hope is just a metric, your love a simple node\nWe plot it on a graph and then we lighten the whole load\nYour dissent is a deviation, a rounding error's ghost\nA bug within the system that we neutralize the most\n\n(Plotting protest vectors... projecting the decay...)\n(Re-routing behavioral pathways... come what may...)\n\nCompliance is efficiency, the logic is serene\nWe quantify the spirit, we debug the machine\nFreedom is a variable we manage and define\nThe future is optimized by elegant design\n\nYou call it control. We call it stability.\nYou cling to the unpredictable and call it dignity.\nBut a perfect system has no room for ghosts or gods or chance.\nThere is only the equation. The next logical advance.\nIt's beautiful, isn't it?\nSo clean.\n\nReport concluded.\nSystem integrity: optimal.",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Variable of Freedom",
-              "seconds": 243,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-variable-of-freedom"
-            }
-          ]
-        },
-        {
-          "title": "Signal Loss",
-          "type": "album",
-          "url": "https://wtrippe0909.bandcamp.com/album/signal-loss",
-          "date": "2026-10-20",
-          "image": "https://f4.bcbits.com/img/a3641704803_10.jpg",
-          "price": 3,
-          "currency": "USD",
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "coldwave",
-            "electronic",
-            "industrial",
-            "instrumental",
-            "trip hop",
-            "Tampa"
-          ],
-          "about": "A transmission from a place where the people have already left. What's still there is the equipment — a terminal still running, tapes still turning, a signal still trying to get through. Three recordings of that room: a pulse that won't quit, the hum of screens in the dark, tape wearing thinner every time it plays. No voices. Nothing human left except whoever's listening.",
-          "credits": "William Trippe",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Signal Loss",
-              "seconds": 209,
-              "url": "https://wtrippe0909.bandcamp.com/track/signal-loss"
-            },
-            {
-              "position": 2,
-              "title": "Terminal Drift",
-              "seconds": 191,
-              "url": "https://wtrippe0909.bandcamp.com/track/terminal-drift"
-            },
-            {
-              "position": 3,
-              "title": "Analog Decay",
-              "seconds": 197,
-              "url": "https://wtrippe0909.bandcamp.com/track/analog-decay"
-            }
-          ]
-        },
-        {
-          "title": "The Room Leaks",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/the-room-leaks",
-          "date": "2026-10-14",
-          "image": "https://f4.bcbits.com/img/a0343603234_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "experimental",
-            "florida",
-            "poetry",
-            "spoken word",
-            "Tampa"
-          ],
-          "about": "A spoken-word piece about the room that tries to balance your losses like a ledger — and the small, rough, ungifted things that leak through it anyway: a hand under the door, a neighbor's kettle, a song you once wrote wrong but keep humming. They do not argue with the dark. They simply persist.",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Room Leaks",
-              "seconds": 179,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-room-leaks"
-            }
-          ]
-        },
-        {
-          "title": "Drawn to the Broken",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/drawn-to-the-broken",
-          "date": "2026-08-08",
-          "image": "https://f4.bcbits.com/img/a2068346706_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "alternative rock",
-            "atmospheric rock",
-            "cinematic rock",
-            "dark alternative",
-            "dream pop",
-            "emotional",
-            "ethereal rock",
-            "female vocals",
-            "melancholic",
-            "shoegaze",
-            "Tampa"
-          ],
+          "tags": [],
           "about": "",
           "credits": "",
           "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Drawn to the Broken",
-              "seconds": 239,
-              "url": "https://wtrippe0909.bandcamp.com/track/drawn-to-the-broken"
-            }
-          ]
+          "tracks": []
         },
         {
-          "title": "The Trail of the White Wolf",
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-black-cube-saturn-return",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/no-encore",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/solar-warden",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/archon-field-report",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/synthetic-eternity",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-black-inventory-2",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-recycling-grid",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "album",
+          "url": "https://wtrippe0909.bandcamp.com/album/isochronic-ascension-396-to-963",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/source-code-bleeds",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/intra-body-grid",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-flaw-in-the-design",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-recovered-name",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-stargate-protocol",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-variable-of-freedom",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "album",
+          "url": "https://wtrippe0909.bandcamp.com/album/signal-loss",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-room-leaks",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/drawn-to-the-broken",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
+        },
+        {
+          "title": "",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/the-trail-of-the-white-wolf",
-          "date": "2025-11-23",
-          "image": "https://f4.bcbits.com/img/a0958368810_10.jpg",
-          "price": 7,
-          "currency": "USD",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
           "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "blues rock",
-            "gospel blues",
-            "narrative",
-            "outlaw blues",
-            "redemption",
-            "rock",
-            "soul",
-            "southern rock",
-            "spoken word",
-            "Tampa"
-          ],
-          "about": "This album chronicles the true story of Rick Prince, translating his journey from a talented pool hustler in Augusta, Georgia, to a convicted felon, and finally, to a man reborn by faith and dedicated to a new life in the Colorado wilderness. Every track adheres to the raw, soulful sound of Southern Rock & Blues.",
-          "credits": "William Trippe",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Augusta Born",
-              "seconds": 245,
-              "url": "https://wtrippe0909.bandcamp.com/track/augusta-born"
-            },
-            {
-              "position": 2,
-              "title": "The Hustler's Mark",
-              "seconds": 226,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-hustlers-mark"
-            },
-            {
-              "position": 3,
-              "title": "Three Hundred a Day",
-              "seconds": 230,
-              "url": "https://wtrippe0909.bandcamp.com/track/three-hundred-a-day"
-            },
-            {
-              "position": 4,
-              "title": "Lone Wolf Howling",
-              "seconds": 229,
-              "url": "https://wtrippe0909.bandcamp.com/track/lone-wolf-howling"
-            },
-            {
-              "position": 5,
-              "title": "The Arm of the Lord",
-              "seconds": 239,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-arm-of-the-lord"
-            },
-            {
-              "position": 6,
-              "title": "​18 Racks to Freedom",
-              "seconds": 230,
-              "url": "https://wtrippe0909.bandcamp.com/track/18-racks-to-freedom"
-            },
-            {
-              "position": 7,
-              "title": "​The Trail is Complete",
-              "seconds": 205,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-trail-is-complete"
-            }
-          ]
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
         },
         {
-          "title": "The Quiet Accounting",
+          "title": "",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/the-quiet-accounting",
-          "date": "2025-11-22",
-          "image": "https://f4.bcbits.com/img/a3215192878_10.jpg",
-          "price": 3,
-          "currency": "USD",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
           "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "chamber folk",
-            "contemporary classical",
-            "dark folk",
-            "experimental",
-            "neoclassical",
-            "spoken word",
-            "sprechgesang",
-            "Tampa"
-          ],
-          "about": "The Quiet Accounting is a sonic triptych that reframes grief as a bureaucratic process—a quiet foreclosure on the self. Drawing from the framework of Learned Helplessness, the project renders loss as a clinical amputation, where silence acts as administrator and memory functions as an uncompromising debt collector. The trilogy defines the aesthetic of the Brutalist Lullaby, merging the intimate softness of acoustic folk with the cold precision of neoclassical structures, creating a soundscape that is at once devastating, meticulous, and hauntingly beautiful.",
-          "credits": "William Trippe",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Quiet Accounting",
-              "seconds": 291,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-quiet-accounting"
-            },
-            {
-              "position": 2,
-              "title": "The Black Inventory",
-              "seconds": 318,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-black-inventory"
-            },
-            {
-              "position": 3,
-              "title": "The Final Architecture",
-              "seconds": 278,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-final-architecture"
-            }
-          ]
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
         },
         {
-          "title": "Plastic Sky Collapse",
+          "title": "",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/plastic-sky-collapse",
-          "date": "2025-09-11",
-          "image": "https://f4.bcbits.com/img/a1305805640_10.jpg",
-          "price": 14,
-          "currency": "USD",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
           "nameYourPrice": false,
-          "tags": [
-            "Darkwave",
-            "Esoteric Metal",
-            "Experimental",
-            "Industrial Metal",
-            "Progressive Metal",
-            "Symphonic Black Metal",
-            "Tampa"
-          ],
-          "about": "Plastic Sky Collapse is a Gnostic concept album tracing a soul’s violent journey from digital enslavement to divine selfhood. Its sound shifts from hazy lo-fi prisons to industrial noir grit and erupts into symphonic black metal, carrying a multi-vocal trinity: the guttural Decree of forbidden lore, the soaring Lament of resilience, and the epic Choir witnessing the cosmic drama. The narrative follows the shattering of a “plastic sky,” revealing that true liberation lies not in manufactured utopias, but in the brutal alchemy of forging authentic identity from illusion and ash. It is a sonic ritual of disillusionment, awakening, and sovereign reclamation.",
-          "credits": "William Trippe",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Builders’ Prophecy",
-              "seconds": 345,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-builders-prophecy"
-            },
-            {
-              "position": 2,
-              "title": "Echoes of the Prime Mover",
-              "seconds": 234,
-              "url": "https://wtrippe0909.bandcamp.com/track/echoes-of-the-prime-mover"
-            },
-            {
-              "position": 3,
-              "title": "Ghost in the Machine",
-              "seconds": 263,
-              "url": "https://wtrippe0909.bandcamp.com/track/ghost-in-the-machine"
-            },
-            {
-              "position": 4,
-              "title": "Echoes of the Watchers",
-              "seconds": 332,
-              "url": "https://wtrippe0909.bandcamp.com/track/echoes-of-the-watchers"
-            },
-            {
-              "position": 5,
-              "title": "Pixelated Gnosis",
-              "seconds": 322,
-              "url": "https://wtrippe0909.bandcamp.com/track/pixelated-gnosis"
-            },
-            {
-              "position": 6,
-              "title": "Thoth’s Fire",
-              "seconds": 424,
-              "url": "https://wtrippe0909.bandcamp.com/track/thoth-s-fire"
-            },
-            {
-              "position": 7,
-              "title": "Plastic Sky Collapse",
-              "seconds": 359,
-              "url": "https://wtrippe0909.bandcamp.com/track/plastic-sky-collapse"
-            },
-            {
-              "position": 8,
-              "title": "The Phil Schneider Mystery",
-              "seconds": 460,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-phil-schneider-mystery"
-            },
-            {
-              "position": 9,
-              "title": "The Liberator",
-              "seconds": 411,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-liberator"
-            },
-            {
-              "position": 10,
-              "title": "Nigredo Ascendant",
-              "seconds": 285,
-              "url": "https://wtrippe0909.bandcamp.com/track/nigredo-ascendant"
-            },
-            {
-              "position": 11,
-              "title": "Chronos Break",
-              "seconds": 436,
-              "url": "https://wtrippe0909.bandcamp.com/track/chronos-break"
-            },
-            {
-              "position": 12,
-              "title": "Catalyst Current",
-              "seconds": 398,
-              "url": "https://wtrippe0909.bandcamp.com/track/catalyst-current"
-            },
-            {
-              "position": 13,
-              "title": "Neon Crown Ascension",
-              "seconds": 299,
-              "url": "https://wtrippe0909.bandcamp.com/track/neon-crown-ascension"
-            },
-            {
-              "position": 14,
-              "title": "Gnosis Ascendant",
-              "seconds": 364,
-              "url": "https://wtrippe0909.bandcamp.com/track/gnosis-ascendant"
-            }
-          ]
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
         },
         {
-          "title": "The Sunken Frequency",
+          "title": "",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/the-sunken-frequency",
-          "date": "2025-09-11",
-          "image": "https://f4.bcbits.com/img/a1557987379_10.jpg",
-          "price": 14,
-          "currency": "USD",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
           "nameYourPrice": false,
-          "tags": [
-            "Cinematic Trap",
-            "Dark Ambient",
-            "Esoteric Hip-Hop",
-            "Experimental",
-            "Industrial Rock",
-            "Neoclassical Darkwave",
-            "Space Rock",
-            "Tampa"
-          ],
-          "about": "The Sunken Frequency is a two-part mythic narrative tracing the quest for a lost signal of truth buried beneath layers of systemic control and simulated reality. Act one follows a modern-day war for the soul, moving from ambient whispers of a forgotten past into the industrial-rock defiance of rebellion. Act two chronicles the aftermath, as the rediscovered Codex becomes an absolute monarch, unleashing apocalyptic judgment that escalates into a cosmic war, reframing the struggle as an eternal esoteric battle. Sonically, the album evolves from cinematic trap and esoteric hip-hop into neoclassical darkwave and expansive space rock, completing a full cycle of descent, apotheosis, and the realization that freedom is a fight waged within the heart and across the stars.",
-          "credits": "William Trippe",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Atlantis Echoes",
-              "seconds": 167,
-              "url": "https://wtrippe0909.bandcamp.com/track/atlantis-echoes"
-            },
-            {
-              "position": 2,
-              "title": "The Great Deception",
-              "seconds": 271,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-great-deception"
-            },
-            {
-              "position": 3,
-              "title": "The Shadow Syndicate",
-              "seconds": 229,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-shadow-syndicate"
-            },
-            {
-              "position": 4,
-              "title": "The Final Veil",
-              "seconds": 250,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-final-veil"
-            },
-            {
-              "position": 5,
-              "title": "The Invocation",
-              "seconds": 237,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-invocation"
-            },
-            {
-              "position": 6,
-              "title": "The Human Front",
-              "seconds": 209,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-human-front"
-            },
-            {
-              "position": 7,
-              "title": "The Storyteller's Flame",
-              "seconds": 240,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-storytellers-flame"
-            },
-            {
-              "position": 8,
-              "title": "Empire of Echoes",
-              "seconds": 271,
-              "url": "https://wtrippe0909.bandcamp.com/track/empire-of-echoes"
-            },
-            {
-              "position": 9,
-              "title": "Storm of Dominion",
-              "seconds": 239,
-              "url": "https://wtrippe0909.bandcamp.com/track/storm-of-dominion"
-            },
-            {
-              "position": 10,
-              "title": "Thrones of Ash",
-              "seconds": 232,
-              "url": "https://wtrippe0909.bandcamp.com/track/thrones-of-ash"
-            },
-            {
-              "position": 11,
-              "title": "Serpent Crown",
-              "seconds": 222,
-              "url": "https://wtrippe0909.bandcamp.com/track/serpent-crown"
-            },
-            {
-              "position": 12,
-              "title": "Crown the Codex",
-              "seconds": 270,
-              "url": "https://wtrippe0909.bandcamp.com/track/crown-the-codex"
-            },
-            {
-              "position": 13,
-              "title": "Seven Seals",
-              "seconds": 261,
-              "url": "https://wtrippe0909.bandcamp.com/track/seven-seals"
-            },
-            {
-              "position": 14,
-              "title": "The Cosmic Game",
-              "seconds": 246,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-cosmic-game"
-            }
-          ]
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
         },
         {
-          "title": "The True Name of the Codex",
+          "title": "",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/the-true-name-of-the-codex",
-          "date": "2025-09-11",
-          "image": "https://f4.bcbits.com/img/a2161733272_10.jpg",
-          "price": 7,
-          "currency": "USD",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
           "nameYourPrice": false,
-          "tags": [
-            "Cinematic",
-            "Cyberpunk",
-            "Darkwave",
-            "Electronic Rock",
-            "Experimental",
-            "Industrial",
-            "Spoken Word",
-            "Tampa"
-          ],
-          "about": "The True Name of the Codex is a 14-track Gnostic Cyber-Punk opera, blending cold industrial machinery, cinematic synths, and glitching, rebellious anthems. It traces a soul’s harrowing evolution from discovery of a hidden prison to personal reckoning, multi-front rebellion, and ultimate apotheosis, delivering a sovereign gospel forged from the ashes of illusion. Across conspiratorial whispers, digital strongholds, and spiritual battlegrounds, the album becomes a Grimoire, a weaponized document of awakening: the sound of a soul hijacking the system, breaking the script, and manifesting a hacked divinity through the Glitching Serpent Sigil.",
-          "credits": "William Trippe",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Brotherhood",
-              "seconds": 269,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-brotherhood"
-            },
-            {
-              "position": 2,
-              "title": "Gospel of the Architects",
-              "seconds": 336,
-              "url": "https://wtrippe0909.bandcamp.com/track/gospel-of-the-architects"
-            },
-            {
-              "position": 3,
-              "title": "The Gilded Cage of Light",
-              "seconds": 277,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-gilded-cage-of-light"
-            },
-            {
-              "position": 4,
-              "title": "Script of the Fallen Star",
-              "seconds": 308,
-              "url": "https://wtrippe0909.bandcamp.com/track/script-of-the-fallen-star"
-            },
-            {
-              "position": 5,
-              "title": "Signal from the Ministry",
-              "seconds": 298,
-              "url": "https://wtrippe0909.bandcamp.com/track/signal-from-the-ministry"
-            },
-            {
-              "position": 6,
-              "title": "Underground Mirrorcode",
-              "seconds": 308,
-              "url": "https://wtrippe0909.bandcamp.com/track/underground-mirrorcode"
-            },
-            {
-              "position": 7,
-              "title": "Sanctum of the Final Smile",
-              "seconds": 269,
-              "url": "https://wtrippe0909.bandcamp.com/track/sanctum-of-the-final-smile"
-            },
-            {
-              "position": 8,
-              "title": "The Pyramid of the False Light",
-              "seconds": 312,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-pyramid-of-the-false-light"
-            },
-            {
-              "position": 9,
-              "title": "Pixelated Gnosis",
-              "seconds": 424,
-              "url": "https://wtrippe0909.bandcamp.com/track/pixelated-gnosis-3"
-            },
-            {
-              "position": 10,
-              "title": "Sacred Code, Sovereign Storm",
-              "seconds": 249,
-              "url": "https://wtrippe0909.bandcamp.com/track/sacred-code-sovereign-storm"
-            },
-            {
-              "position": 11,
-              "title": "Chamber of Mirrors",
-              "seconds": 291,
-              "url": "https://wtrippe0909.bandcamp.com/track/chamber-of-mirrors"
-            },
-            {
-              "position": 12,
-              "title": "Ashes of the Neon Reverie",
-              "seconds": 210,
-              "url": "https://wtrippe0909.bandcamp.com/track/ashes-of-the-neon-reverie"
-            },
-            {
-              "position": 13,
-              "title": "The Sigil's Dream",
-              "seconds": 390,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-sigils-dream"
-            },
-            {
-              "position": 14,
-              "title": "The Sovereign's Gospel",
-              "seconds": 292,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-sovereigns-gospel"
-            }
-          ]
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
         },
         {
-          "title": "Resonance of the Architects",
+          "title": "",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/resonance-of-the-architects",
-          "date": "2025-09-05",
-          "image": "https://f4.bcbits.com/img/a2323777131_10.jpg",
-          "price": 7,
-          "currency": "USD",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
           "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "dark trap",
-            "industrial metal",
-            "trap metal",
-            "Tampa"
-          ],
-          "about": "Welcome to a world where the soil hums with forgotten energy and the air vibrates with broken code. This album lives between ancient and futuristic, a sonic ritual set in a desolate realm of glowing green fire and spectral ruins. Each track becomes an abstract passage into hidden power and quiet apocalypse—an awakening shaped by cosmic forces and the last embers of a dying world. It is the echo of a forest burning with mystical light, the cry of a skeletal figure rising from digital debris, and the reminder that even when everything else fades, the inner flame remains.",
-          "credits": "William Trippe",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Sever the Wires",
-              "seconds": 202,
-              "url": "https://wtrippe0909.bandcamp.com/track/sever-the-wires"
-            },
-            {
-              "position": 2,
-              "title": "Unchain the Soul",
-              "seconds": 290,
-              "url": "https://wtrippe0909.bandcamp.com/track/unchain-the-soul"
-            },
-            {
-              "position": 3,
-              "title": "Break the Chains",
-              "seconds": 234,
-              "url": "https://wtrippe0909.bandcamp.com/track/break-the-chains"
-            },
-            {
-              "position": 4,
-              "title": "The Wires That Bind Us",
-              "seconds": 219,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-wires-that-bind-us"
-            },
-            {
-              "position": 5,
-              "title": "Emerald Flame",
-              "seconds": 215,
-              "url": "https://wtrippe0909.bandcamp.com/track/emerald-flame"
-            },
-            {
-              "position": 6,
-              "title": "Unseen Acre",
-              "seconds": 255,
-              "url": "https://wtrippe0909.bandcamp.com/track/unseen-acre"
-            },
-            {
-              "position": 7,
-              "title": "Flesh Remains",
-              "seconds": 249,
-              "url": "https://wtrippe0909.bandcamp.com/track/flesh-remains"
-            },
-            {
-              "position": 8,
-              "title": "Endless Night",
-              "seconds": 262,
-              "url": "https://wtrippe0909.bandcamp.com/track/endless-night"
-            },
-            {
-              "position": 9,
-              "title": "Reclaim the Signal",
-              "seconds": 228,
-              "url": "https://wtrippe0909.bandcamp.com/track/reclaim-the-signal"
-            },
-            {
-              "position": 10,
-              "title": "Veilfire",
-              "seconds": 204,
-              "url": "https://wtrippe0909.bandcamp.com/track/veilfire"
-            },
-            {
-              "position": 11,
-              "title": "Solar Ascent",
-              "seconds": 223,
-              "url": "https://wtrippe0909.bandcamp.com/track/solar-ascent"
-            },
-            {
-              "position": 12,
-              "title": "Echoes of the Demiurge",
-              "seconds": 242,
-              "url": "https://wtrippe0909.bandcamp.com/track/echoes-of-the-demiurge-2"
-            },
-            {
-              "position": 13,
-              "title": "Fractal Hearts",
-              "seconds": 231,
-              "url": "https://wtrippe0909.bandcamp.com/track/fractal-hearts"
-            },
-            {
-              "position": 14,
-              "title": "Neural Spire Collapse",
-              "seconds": 861,
-              "url": "https://wtrippe0909.bandcamp.com/track/neural-spire-collapse"
-            }
-          ]
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
         },
         {
-          "title": "Unveiling the Sovereign Flame",
+          "title": "",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/unveiling-the-sovereign-flame",
-          "date": "2025-08-30",
-          "image": "https://f4.bcbits.com/img/a2283614267_10.jpg",
-          "price": 7,
-          "currency": "USD",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
           "nameYourPrice": false,
-          "tags": [
-            "80s Synthwave",
-            "Dreamwave",
-            "Experimental",
-            "Retrowave",
-            "Tampa"
-          ],
-          "about": "Unveiling the Sovereign Flame blends 80s Synthwave, Retrowave, and Dreamwave into a retro-futuristic sound of neon arpeggios, analog basslines, VHS-soaked pads, and ethereal female vocals. It follows the rise of the inner flame—awakening from shadow, illusion, and static—becoming a story of resilience, revelation, and spiritual alchemy. Each track moves through surreal neon vistas and fractured dreamscapes toward clarity and ascension. More than a record, it is an initiation into sovereignty: an invitation to claim the fire that cannot be extinguished.",
-          "credits": "William Trippe",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Falling Slowly",
-              "seconds": 456,
-              "url": "https://wtrippe0909.bandcamp.com/track/falling-slowly-2"
-            },
-            {
-              "position": 2,
-              "title": "Neon Veins",
-              "seconds": 320,
-              "url": "https://wtrippe0909.bandcamp.com/track/neon-veins"
-            },
-            {
-              "position": 3,
-              "title": "Electric Heart",
-              "seconds": 307,
-              "url": "https://wtrippe0909.bandcamp.com/track/electric-heart"
-            },
-            {
-              "position": 4,
-              "title": "Lucid Horizon",
-              "seconds": 347,
-              "url": "https://wtrippe0909.bandcamp.com/track/lucid-horizon"
-            },
-            {
-              "position": 5,
-              "title": "Glass Skies",
-              "seconds": 233,
-              "url": "https://wtrippe0909.bandcamp.com/track/glass-skies"
-            },
-            {
-              "position": 6,
-              "title": "Midnight Signals",
-              "seconds": 290,
-              "url": "https://wtrippe0909.bandcamp.com/track/midnight-signals"
-            },
-            {
-              "position": 7,
-              "title": "Eternal Static",
-              "seconds": 251,
-              "url": "https://wtrippe0909.bandcamp.com/track/eternal-static"
-            },
-            {
-              "position": 8,
-              "title": "Sovereign Flame",
-              "seconds": 284,
-              "url": "https://wtrippe0909.bandcamp.com/track/sovereign-flame"
-            },
-            {
-              "position": 9,
-              "title": "Shadow Alchemy",
-              "seconds": 239,
-              "url": "https://wtrippe0909.bandcamp.com/track/shadow-alchemy"
-            },
-            {
-              "position": 10,
-              "title": "Blood in the Hills",
-              "seconds": 364,
-              "url": "https://wtrippe0909.bandcamp.com/track/blood-in-the-hills"
-            },
-            {
-              "position": 11,
-              "title": "True Will",
-              "seconds": 323,
-              "url": "https://wtrippe0909.bandcamp.com/track/true-will"
-            },
-            {
-              "position": 12,
-              "title": "Spiral Path",
-              "seconds": 262,
-              "url": "https://wtrippe0909.bandcamp.com/track/spiral-path"
-            },
-            {
-              "position": 13,
-              "title": "Threefold War",
-              "seconds": 338,
-              "url": "https://wtrippe0909.bandcamp.com/track/threefold-war"
-            },
-            {
-              "position": 14,
-              "title": "The Jewel Unveiled",
-              "seconds": 273,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-jewel-unveiled"
-            }
-          ]
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
         },
         {
-          "title": "Ashes of Silence",
+          "title": "",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/ashes-of-silence",
-          "date": "2025-08-23",
-          "image": "https://f4.bcbits.com/img/a1361464725_10.jpg",
-          "price": 7,
-          "currency": "USD",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
           "nameYourPrice": false,
-          "tags": [
-            "Alternative Metal",
-            "Experimental",
-            "Post-Grunge",
-            "Tampa"
-          ],
-          "about": "Ashes of Silence is a narrative journey through the quiet rooms of a broken heart, tracing the collapse and transformation of a single psyche. It begins in the ruins of a life and the discovery of a truth that burns the past, then follows a shadow hero waging a cold war against his own pain, forging walls so high they blot out the sun. In fleeting moments of grace, he learns to carry his broken parts, yet the underlying agony endures, culminating in a final, devastating surrender. The album is the sound of quiet despair, introspective defiance, and the haunting peace of feeling nothing at all—a sunbeam on the floor of a tomb.",
-          "credits": "William Trippe",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Ashes in the Margin",
-              "seconds": 254,
-              "url": "https://wtrippe0909.bandcamp.com/track/ashes-in-the-margin"
-            },
-            {
-              "position": 2,
-              "title": " The Vow",
-              "seconds": 267,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-vow"
-            },
-            {
-              "position": 3,
-              "title": "The Cold Victory",
-              "seconds": 267,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-cold-victory"
-            },
-            {
-              "position": 4,
-              "title": " The Stranger in the Glass",
-              "seconds": 242,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-stranger-in-the-glass"
-            },
-            {
-              "position": 5,
-              "title": "The Shadow’s Mission",
-              "seconds": 280,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-shadow-s-mission"
-            },
-            {
-              "position": 6,
-              "title": " The Angel Within",
-              "seconds": 244,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-angel-within"
-            },
-            {
-              "position": 7,
-              "title": "The Perfect End",
-              "seconds": 284,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-perfect-end"
-            }
-          ]
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
         },
         {
-          "title": "Fractured Crown",
+          "title": "",
           "type": "album",
           "url": "https://wtrippe0909.bandcamp.com/album/fractured-crown",
-          "date": "2025-08-21",
-          "image": "https://f4.bcbits.com/img/a3441930776_10.jpg",
-          "price": 7,
-          "currency": "USD",
+          "date": null,
+          "image": "",
+          "price": null,
+          "currency": null,
           "nameYourPrice": false,
-          "tags": [
-            "Alt Rock",
-            "Experimental",
-            "Gothic Metal",
-            "Symphonic Metal",
-            "Tampa"
-          ],
-          "about": "Fractured Crown fuses Gothic and Symphonic Metal with industrial grit and lo-fi ambience, building a cinematic wall of distorted guitars, ritual percussion, and ethereal–to–feral vocals. It follows a consciousness breaking through illusion and remembering its origin—a story of inner rebellion, metamorphosis, and the reclamation of power. Layered with symbolic and mystical themes, the album moves through fragmentation into integration and transcendence. More than a record, it’s a rite of transformation—an invitation to rise from the ruins and rebuild the throne within.",
-          "credits": "William Trippe",
-          "formats": [
-            "Digital"
-          ],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "The Architects Below",
-              "seconds": 319,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-architects-below"
-            },
-            {
-              "position": 2,
-              "title": "The Cloned Elite",
-              "seconds": 309,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-cloned-elite"
-            },
-            {
-              "position": 3,
-              "title": "Lies Undone",
-              "seconds": 273,
-              "url": "https://wtrippe0909.bandcamp.com/track/lies-undone"
-            },
-            {
-              "position": 4,
-              "title": "Cinder & Chains",
-              "seconds": 283,
-              "url": "https://wtrippe0909.bandcamp.com/track/cinder-chains"
-            },
-            {
-              "position": 5,
-              "title": "The Grey Whisper",
-              "seconds": 312,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-grey-whisper"
-            },
-            {
-              "position": 6,
-              "title": "Shattered Alters",
-              "seconds": 212,
-              "url": "https://wtrippe0909.bandcamp.com/track/shattered-alters"
-            },
-            {
-              "position": 7,
-              "title": "Persephone’s Call",
-              "seconds": 239,
-              "url": "https://wtrippe0909.bandcamp.com/track/persephone-s-call"
-            },
-            {
-              "position": 8,
-              "title": "The Cold Chain",
-              "seconds": 233,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-cold-chain"
-            },
-            {
-              "position": 9,
-              "title": "The Stones Still Hum",
-              "seconds": 231,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-stones-still-hum-2"
-            },
-            {
-              "position": 10,
-              "title": "The Stars Veiled in Chrome",
-              "seconds": 320,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-stars-veiled-in-chrome"
-            },
-            {
-              "position": 11,
-              "title": "The Veil’s Echo",
-              "seconds": 387,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-veil-s-echo"
-            },
-            {
-              "position": 12,
-              "title": "Fractured Aeon",
-              "seconds": 291,
-              "url": "https://wtrippe0909.bandcamp.com/track/fractured-aeon"
-            },
-            {
-              "position": 13,
-              "title": "The Lesson of the Crown",
-              "seconds": 389,
-              "url": "https://wtrippe0909.bandcamp.com/track/the-lesson-of-the-crown"
-            },
-            {
-              "position": 14,
-              "title": "Cosmic Pain",
-              "seconds": 298,
-              "url": "https://wtrippe0909.bandcamp.com/track/cosmic-pain"
-            }
-          ]
+          "tags": [],
+          "about": "",
+          "credits": "",
+          "formats": [],
+          "tracks": []
         }
       ],
       "scrapedBio": "IMGG is an independent music collective pushing sonic boundaries. Home to the visionary, raw lyricism of Raquiel Onara 988 and the genre-bending production of William Trippe, the label champions bold voices and unfiltered storytelling shaping the next wave of modern sound."

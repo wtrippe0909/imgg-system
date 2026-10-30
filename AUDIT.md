@@ -1,30 +1,162 @@
 # Bandcamp audit
 
-Generated 2026-10-29 from data/projects.json (last Bandcamp sync 2026-10-29).
+Generated 2026-10-30 from data/projects.json (last Bandcamp sync 2026-10-30).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
-| [IMGG](https://imgg.bandcamp.com/) | 66 | 0 | 0 | 17 |
+| [IMGG](https://imgg.bandcamp.com/) | 0 | 58 | 1 | 90 |
 | [Raquiel Onara 988](https://raquielonara988.bandcamp.com/) | 86 | 0 | 0 | 7 |
 | [gfed0909](https://gfed0909.bandcamp.com/) | 58 | 1 | 3 | 3 |
 
-## IMGG — 66/100
+## IMGG — 0/100
 
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/event-horizon-of-silence” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/event-horizon-of-silence” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/the-black-cube-saturn-return” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/the-black-cube-saturn-return” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/no-encore” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/no-encore” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/solar-warden” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/solar-warden” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/archon-field-report” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/archon-field-report” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/synthetic-eternity” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/synthetic-eternity” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/the-black-inventory-2” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/the-black-inventory-2” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/the-recycling-grid” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/the-recycling-grid” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/isochronic-ascension-396-to-963” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/isochronic-ascension-396-to-963” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/source-code-bleeds” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/source-code-bleeds” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/intra-body-grid” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/intra-body-grid” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/the-flaw-in-the-design” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/the-flaw-in-the-design” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/the-recovered-name” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/the-recovered-name” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/the-stargate-protocol” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/the-stargate-protocol” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/the-variable-of-freedom” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/the-variable-of-freedom” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/signal-loss” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/signal-loss” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/the-room-leaks” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/the-room-leaks” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/track/drawn-to-the-broken” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/track/drawn-to-the-broken” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/the-trail-of-the-white-wolf” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/the-trail-of-the-white-wolf” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/the-quiet-accounting” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/the-quiet-accounting” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/plastic-sky-collapse” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/plastic-sky-collapse” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/the-sunken-frequency” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/the-sunken-frequency” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/the-true-name-of-the-codex” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/the-true-name-of-the-codex” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/resonance-of-the-architects” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/resonance-of-the-architects” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/unveiling-the-sovereign-flame” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/unveiling-the-sovereign-flame” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/ashes-of-silence” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/ashes-of-silence” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🔴 **Release:** “https://wtrippe0909.bandcamp.com/album/fractured-crown” has no artwork. Upload at least 1400×1400 artwork; releases without art rarely surface in discovery.
+- 🔴 **Discovery:** “https://wtrippe0909.bandcamp.com/album/fractured-crown” has no tags. Tags are how Bandcamp’s genre and location pages find you.
+- 🟠 **Discovery:** Only 0 distinct tag(s) across releases. Use 5–10 tags per release: 1–2 broad genres, 2–4 subgenres/moods, and your city.
 - 🟡 **Cross-promotion:** Does not link to: Raquiel Onara 988, gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
-- 🟡 **Release:** “ARCHON FIELD REPORT” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “The Black Inventory” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “The Recycling Grid” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “Isochronic Ascension: 396 to 963” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “Source Code Bleeds” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “The Flaw in the Design” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “The Mind is a Battlefield” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “The Recovered Name” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “The Stargate Protocol” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “The Variable of Freedom” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “The Room Leaks” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “Drawn to the Broken” has no description. A short “about” paragraph adds searchable text and context for buyers.
-- 🟡 **Release:** “Drawn to the Broken” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Discovery:** “Ashes of Silence” has 4 tag(s). Add a few more specific tags (subgenre, mood, city).
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/event-horizon-of-silence” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/event-horizon-of-silence” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/event-horizon-of-silence” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-black-cube-saturn-return” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-black-cube-saturn-return” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-black-cube-saturn-return” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-strawman-cestui-que-vie” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/no-encore” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/no-encore” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/no-encore” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/solar-warden” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/solar-warden” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/solar-warden” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/archon-field-report” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/archon-field-report” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/archon-field-report” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/synthetic-eternity” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/synthetic-eternity” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/synthetic-eternity” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-black-inventory-2” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-black-inventory-2” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-black-inventory-2” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-recycling-grid” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-recycling-grid” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-recycling-grid” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/isochronic-ascension-396-to-963” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/isochronic-ascension-396-to-963” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/isochronic-ascension-396-to-963” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/source-code-bleeds” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/source-code-bleeds” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/source-code-bleeds” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/intra-body-grid” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/intra-body-grid” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/intra-body-grid” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-flaw-in-the-design” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-flaw-in-the-design” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-flaw-in-the-design” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-mind-is-a-battlefield” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-recovered-name” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-recovered-name” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-recovered-name” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-stargate-protocol” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-stargate-protocol” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-stargate-protocol” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-variable-of-freedom” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-variable-of-freedom” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-variable-of-freedom” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/signal-loss” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/signal-loss” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/signal-loss” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-room-leaks” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-room-leaks” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/the-room-leaks” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/drawn-to-the-broken” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/drawn-to-the-broken” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/track/drawn-to-the-broken” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-trail-of-the-white-wolf” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-trail-of-the-white-wolf” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-trail-of-the-white-wolf” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-quiet-accounting” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-quiet-accounting” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-quiet-accounting” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/plastic-sky-collapse” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/plastic-sky-collapse” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/plastic-sky-collapse” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-sunken-frequency” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-sunken-frequency” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-sunken-frequency” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-true-name-of-the-codex” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-true-name-of-the-codex” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/the-true-name-of-the-codex” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/resonance-of-the-architects” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/resonance-of-the-architects” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/resonance-of-the-architects” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/unveiling-the-sovereign-flame” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/unveiling-the-sovereign-flame” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/unveiling-the-sovereign-flame” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/ashes-of-silence” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/ashes-of-silence” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/ashes-of-silence” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/fractured-crown” has no release date. Set the release date so it sorts correctly.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/fractured-crown” has no description. A short “about” paragraph adds searchable text and context for buyers.
+- 🟡 **Release:** “https://wtrippe0909.bandcamp.com/album/fractured-crown” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Merch:** No physical formats or merch. Even a small cassette/CD/sticker run lifts revenue; merch shows on every release page.
 - 🟡 **Press kit:** No booking/press contact. Add a contact email to data/projects.json so the press kit is usable.
 
