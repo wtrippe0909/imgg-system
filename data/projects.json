@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:08:10.137Z",
+  "updatedAt": "2026-11-04T20:27:04.336Z",
   "projects": [
     {
       "id": "imgg",
@@ -114,7 +114,20 @@
         "atmospheric pop",
         "dark pop",
         "cinematic metal",
-        "space metal"
+        "space metal",
+        "apocalyptic",
+        "dark",
+        "deathstep",
+        "dubstep",
+        "tearout",
+        "conspiracy",
+        "mkultra",
+        "noir",
+        "rap",
+        "surveillance",
+        "underground hip-hop",
+        "atmospheric",
+        "ethereal"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -133,6 +146,74 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "The Keys Are You",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-keys-are-you",
+          "date": "2026-11-04",
+          "image": "https://f4.bcbits.com/img/a3039613150_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "apocalyptic",
+            "cinematic",
+            "dark",
+            "deathstep",
+            "dubstep",
+            "electronic",
+            "female vocals",
+            "tearout",
+            "Tampa"
+          ],
+          "about": "A man in a gray room, a screen that tells him how to bleed — and a key made of light. The Keys Are You: tearout deathstep, whispered verses into screamed drops. \"The keys are you.\"",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Keys Are You",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-keys-are-you"
+            }
+          ]
+        },
+        {
+          "title": "Midnight Climax",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/midnight-climax",
+          "date": "2026-11-03",
+          "image": "https://f4.bcbits.com/img/a0282869988_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "conspiracy",
+            "experimental",
+            "hip-hop",
+            "mkultra",
+            "noir",
+            "rap",
+            "surveillance",
+            "tampa",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "A room, a drink, a midnight rap. Midnight Climax rebuilds the CIA's Telegraph Hill safehouse as a boom-bap noir: two-way glass, ledger names, a bottle's worth of midnight claims — and the tape always running. Gravel-register rap over a detuned upright piano in C minor, sharp vinyl snare and a deep sub-bass pulse, wrapped in tape hiss and flutter. Underground boom-bap, 86 BPM, no radio in sight.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Midnight Climax",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/midnight-climax"
+            }
+          ]
+        },
         {
           "title": "Event Horizon of Silence",
           "type": "track",
@@ -772,18 +853,16 @@
           "tags": [
             "Experimental",
             "alternative rock",
-            "atmospheric rock",
-            "cinematic rock",
-            "dark alternative",
+            "atmospheric",
+            "cinematic",
             "dream pop",
-            "emotional",
-            "ethereal rock",
+            "ethereal",
             "female vocals",
-            "melancholic",
-            "shoegaze",
+            "redemption",
+            "tampa",
             "Tampa"
           ],
-          "about": "",
+          "about": "Some hearts don't break loudly - they disappear into the static. \"Drawn to the Broken\" is about hearing the unheard and finding purpose among those the world overlooks. From isolation to connection, shimmering guitars and a dreamlike atmosphere carry a quiet thread of redemption. A Raquiel Onara 988 song, performed by William Trippe.",
           "credits": "",
           "formats": [],
           "tracks": [

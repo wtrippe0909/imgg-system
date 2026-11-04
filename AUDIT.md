@@ -1,16 +1,18 @@
 # Bandcamp audit
 
-Generated 2026-11-03 from data/projects.json (last Bandcamp sync 2026-11-03).
+Generated 2026-11-04 from data/projects.json (last Bandcamp sync 2026-11-04).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
-| [IMGG](https://imgg.bandcamp.com/) | 62 | 0 | 0 | 19 |
+| [IMGG](https://imgg.bandcamp.com/) | 60 | 0 | 0 | 20 |
 | [Raquiel Onara 988](https://raquielonara988.bandcamp.com/) | 86 | 0 | 0 | 7 |
 | [gfed0909](https://gfed0909.bandcamp.com/) | 58 | 1 | 3 | 3 |
 
-## IMGG — 62/100
+## IMGG — 60/100
 
 - 🟡 **Cross-promotion:** Does not link to: Raquiel Onara 988, gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
+- 🟡 **Release:** “The Keys Are You” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Midnight Climax” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Discovery:** “Event Horizon of Silence” has 4 tag(s). Add a few more specific tags (subgenre, mood, city).
 - 🟡 **Release:** “Event Horizon of Silence” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “ARCHON FIELD REPORT” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
@@ -24,7 +26,6 @@ Generated 2026-11-03 from data/projects.json (last Bandcamp sync 2026-11-03).
 - 🟡 **Release:** “The Stargate Protocol” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Variable of Freedom” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Room Leaks” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
-- 🟡 **Release:** “Drawn to the Broken” has no description. A short “about” paragraph adds searchable text and context for buyers.
 - 🟡 **Release:** “Drawn to the Broken” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Discovery:** “Ashes of Silence” has 4 tag(s). Add a few more specific tags (subgenre, mood, city).
 - 🟡 **Merch:** No physical formats or merch. Even a small cassette/CD/sticker run lifts revenue; merch shows on every release page.
