@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:58:28.602Z",
+  "updatedAt": "2026-11-07T18:04:00.647Z",
   "projects": [
     {
       "id": "imgg",
@@ -127,7 +127,13 @@
         "surveillance",
         "underground hip-hop",
         "atmospheric",
-        "ethereal"
+        "ethereal",
+        "boom-bap",
+        "dark hip-hop",
+        "esoteric hip-hop",
+        "industrial hip-hop",
+        "occult rap",
+        "protest rap"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -146,6 +152,40 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "NET ASSESSMENT",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/net-assessment",
+          "date": "2026-11-06",
+          "image": "https://f4.bcbits.com/img/a1061506558_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom-bap",
+            "dark hip-hop",
+            "esoteric hip-hop",
+            "hip-hop",
+            "industrial hip-hop",
+            "occult rap",
+            "protest rap",
+            "rap",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "A forensic audit set to industrial boom-bap. NET ASSESSMENT walks the paper trail — Cameron's Sleep Room, PRISM in the backbone, the Tuskegee ledger, Edgewood fog — and finds the same wire running through every room: power ain't a face, it's the wire running through it. Deadpan verses behind the snare, a distorted chant for the chorus, tape hiss over everything. Net assessment complete.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "NET ASSESSMENT",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/net-assessment"
+            }
+          ]
+        },
         {
           "title": "The Keys Are You",
           "type": "track",
