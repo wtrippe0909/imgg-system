@@ -1,16 +1,19 @@
 # Bandcamp audit
 
-Generated 2026-11-07 from data/projects.json (last Bandcamp sync 2026-11-07).
+Generated 2026-11-08 from data/projects.json (last Bandcamp sync 2026-11-08).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
-| [IMGG](https://imgg.bandcamp.com/) | 58 | 0 | 0 | 21 |
+| [IMGG](https://imgg.bandcamp.com/) | 52 | 0 | 0 | 24 |
 | [Raquiel Onara 988](https://raquielonara988.bandcamp.com/) | 86 | 0 | 0 | 7 |
 | [gfed0909](https://gfed0909.bandcamp.com/) | 58 | 1 | 3 | 3 |
 
-## IMGG — 58/100
+## IMGG — 52/100
 
 - 🟡 **Cross-promotion:** Does not link to: Raquiel Onara 988, gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
+- 🟡 **Release:** “Born Into It” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Four Stakes in the Dirt” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Prison by Design” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “NET ASSESSMENT” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Keys Are You” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Midnight Climax” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.

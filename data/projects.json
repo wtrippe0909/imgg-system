@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T18:04:00.647Z",
+  "updatedAt": "2026-11-08T18:23:06.327Z",
   "projects": [
     {
       "id": "imgg",
@@ -133,7 +133,8 @@
         "esoteric hip-hop",
         "industrial hip-hop",
         "occult rap",
-        "protest rap"
+        "protest rap",
+        "lo-fi"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -152,6 +153,108 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "Born Into It",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/born-into-it",
+          "date": "2026-11-08",
+          "image": "https://f4.bcbits.com/img/a0792255148_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom-bap",
+            "conscious hip-hop",
+            "dark hip-hop",
+            "esoteric hip-hop",
+            "hip-hop",
+            "lo-fi",
+            "rap",
+            "spoken word",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "Born Into It — lo-fi boom-bap from the late-night concrete tapes. Low, dry spoken verses over muted drums, heavy sub-bass and sparse low piano: red lines drawn by address, mercy priced by the plan, paperwork heavier than chains. \"I didn't wake up angry, I grew into it.\"",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Born Into It",
+              "seconds": 203,
+              "url": "https://wtrippe0909.bandcamp.com/track/born-into-it"
+            }
+          ]
+        },
+        {
+          "title": "Four Stakes in the Dirt",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/four-stakes-in-the-dirt",
+          "date": "2026-11-08",
+          "image": "https://f4.bcbits.com/img/a2660183122_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom-bap",
+            "dark hip-hop",
+            "esoteric hip-hop",
+            "hip-hop",
+            "industrial hip-hop",
+            "occult rap",
+            "rap",
+            "spoken word",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "Four Stakes in the Dirt — boom-bap at 86 BPM. A Marduk hymn rebuilt as a perimeter report: before the grid was mapped, raw force moved blind — until somebody split the salt expanse, hung the ribcage over chaos, and pinned the twelve stations so the sun stayed in its corridor. Dry close-mic verses over cracked snare, low cello drone, and a 40Hz sub that doesn't let up.\n\n\"This ain't an early warning, this is the design\"",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Four Stakes in the Dirt",
+              "seconds": 211,
+              "url": "https://wtrippe0909.bandcamp.com/track/four-stakes-in-the-dirt"
+            }
+          ]
+        },
+        {
+          "title": "Prison by Design",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/prison-by-design",
+          "date": "2026-11-08",
+          "image": "https://f4.bcbits.com/img/a0000233341_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom-bap",
+            "dark hip-hop",
+            "esoteric hip-hop",
+            "hip-hop",
+            "industrial hip-hop",
+            "protest rap",
+            "rap",
+            "spoken word",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "Prison by Design — the city re-zoned into a cage. Industrial boom-bap at 86 BPM in D minor: low spoken verses over distorted sub-bass, raw drums and metallic grit, stacked harmonies on the hook. Zoning codes, algorithmic curfews, sterile directives in soundproof rooms — a quarantine blueprint engineered without a word, and one man awake past the terminal scan, counting every key.\n\n\"It's a prison by design—and I'm counting every key.\"",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Prison by Design",
+              "seconds": 268,
+              "url": "https://wtrippe0909.bandcamp.com/track/prison-by-design"
+            }
+          ]
+        },
         {
           "title": "NET ASSESSMENT",
           "type": "track",
