@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T18:23:06.327Z",
+  "updatedAt": "2026-11-09T23:00:44.606Z",
   "projects": [
     {
       "id": "imgg",
@@ -134,7 +134,10 @@
         "industrial hip-hop",
         "occult rap",
         "protest rap",
-        "lo-fi"
+        "lo-fi",
+        "dj scratching",
+        "phonk",
+        "storytelling rap"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -153,6 +156,142 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "Stoop Ledger",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/stoop-ledger",
+          "date": "2026-11-09",
+          "image": "https://f4.bcbits.com/img/a2848893278_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "dark trap",
+            "dj scratching",
+            "hip-hop",
+            "phonk",
+            "rap",
+            "spoken word",
+            "storytelling rap",
+            "trap",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "Dirty dark trap at 140 BPM. Raw strained rap over gritty piano, DJ scratches, vinyl spin-downs, sliding 808s and massive sub drops with dub wubs.\n\nThe stoop watched the Big Wheels turn into dice games, and kept the record on every kid who sat there.\n\n\"Stoop seen the Big Wheel, stoop seen the dice\"",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Stoop Ledger",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/stoop-ledger"
+            }
+          ]
+        },
+        {
+          "title": "Brutality Baptized",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/brutality-baptized",
+          "date": "2026-11-09",
+          "image": "https://f4.bcbits.com/img/a0951789670_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom-bap",
+            "dark hip-hop",
+            "esoteric hip-hop",
+            "hip-hop",
+            "industrial hip-hop",
+            "protest rap",
+            "rap",
+            "spoken word",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "State violence processed as paperwork — five verses on raids that start before dawn, records that declare no harm done, and files that disappear into procedure. Dark cinematic boom-bap, clinical delivery.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Brutality Baptized",
+              "seconds": 236,
+              "url": "https://wtrippe0909.bandcamp.com/track/brutality-baptized"
+            }
+          ]
+        },
+        {
+          "title": "Whispered Power",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/whispered-power",
+          "date": "2026-11-09",
+          "image": "https://f4.bcbits.com/img/a1501189954_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom-bap",
+            "dark hip-hop",
+            "esoteric hip-hop",
+            "hip-hop",
+            "industrial hip-hop",
+            "protest rap",
+            "rap",
+            "spoken word",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "Eight verses on the power that never raises its voice — bloodlines, secret halls, and screens that train the mind — and the moment the whisper stops working. Dark boom-bap spoken word from William Trippe.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Whispered Power",
+              "seconds": 268,
+              "url": "https://wtrippe0909.bandcamp.com/track/whispered-power"
+            }
+          ]
+        },
+        {
+          "title": "Echo Chamber Ghosts",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/echo-chamber-ghosts",
+          "date": "2026-11-08",
+          "image": "https://f4.bcbits.com/img/a0700008454_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom-bap",
+            "dark hip-hop",
+            "esoteric hip-hop",
+            "hip-hop",
+            "industrial hip-hop",
+            "protest rap",
+            "rap",
+            "spoken word",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "Industrial boom-bap at 86 BPM. Low full-voice rap over heavy sub-bass, gritty vinyl crackle and a low synth-pad drone: filter-feed mazes, narratives swapped on schedule, every silence logged as consent.\n\n\"Echo Chamber Ghosts—scream the names you're told to hate.\"",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Echo Chamber Ghosts",
+              "seconds": 239,
+              "url": "https://wtrippe0909.bandcamp.com/track/echo-chamber-ghosts"
+            }
+          ]
+        },
         {
           "title": "Born Into It",
           "type": "track",

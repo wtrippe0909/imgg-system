@@ -1,16 +1,20 @@
 # Bandcamp audit
 
-Generated 2026-11-08 from data/projects.json (last Bandcamp sync 2026-11-08).
+Generated 2026-11-09 from data/projects.json (last Bandcamp sync 2026-11-09).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
-| [IMGG](https://imgg.bandcamp.com/) | 52 | 0 | 0 | 24 |
+| [IMGG](https://imgg.bandcamp.com/) | 44 | 0 | 0 | 28 |
 | [Raquiel Onara 988](https://raquielonara988.bandcamp.com/) | 86 | 0 | 0 | 7 |
 | [gfed0909](https://gfed0909.bandcamp.com/) | 58 | 1 | 3 | 3 |
 
-## IMGG — 52/100
+## IMGG — 44/100
 
 - 🟡 **Cross-promotion:** Does not link to: Raquiel Onara 988, gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
+- 🟡 **Release:** “Stoop Ledger” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Brutality Baptized” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Whispered Power” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Echo Chamber Ghosts” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Born Into It” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Four Stakes in the Dirt” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Prison by Design” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
