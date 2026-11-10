@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T23:00:44.606Z",
+  "updatedAt": "2026-11-10T20:30:04.430Z",
   "projects": [
     {
       "id": "imgg",
@@ -157,74 +157,6 @@
       "contact": "",
       "releases": [
         {
-          "title": "Stoop Ledger",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/stoop-ledger",
-          "date": "2026-11-09",
-          "image": "https://f4.bcbits.com/img/a2848893278_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "dark trap",
-            "dj scratching",
-            "hip-hop",
-            "phonk",
-            "rap",
-            "spoken word",
-            "storytelling rap",
-            "trap",
-            "underground hip-hop",
-            "Tampa"
-          ],
-          "about": "Dirty dark trap at 140 BPM. Raw strained rap over gritty piano, DJ scratches, vinyl spin-downs, sliding 808s and massive sub drops with dub wubs.\n\nThe stoop watched the Big Wheels turn into dice games, and kept the record on every kid who sat there.\n\n\"Stoop seen the Big Wheel, stoop seen the dice\"",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Stoop Ledger",
-              "seconds": 179,
-              "url": "https://wtrippe0909.bandcamp.com/track/stoop-ledger"
-            }
-          ]
-        },
-        {
-          "title": "Brutality Baptized",
-          "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/brutality-baptized",
-          "date": "2026-11-09",
-          "image": "https://f4.bcbits.com/img/a0951789670_10.jpg",
-          "price": 2,
-          "currency": null,
-          "nameYourPrice": false,
-          "tags": [
-            "Experimental",
-            "boom-bap",
-            "dark hip-hop",
-            "esoteric hip-hop",
-            "hip-hop",
-            "industrial hip-hop",
-            "protest rap",
-            "rap",
-            "spoken word",
-            "underground hip-hop",
-            "Tampa"
-          ],
-          "about": "State violence processed as paperwork — five verses on raids that start before dawn, records that declare no harm done, and files that disappear into procedure. Dark cinematic boom-bap, clinical delivery.",
-          "credits": "",
-          "formats": [],
-          "tracks": [
-            {
-              "position": 1,
-              "title": "Brutality Baptized",
-              "seconds": 236,
-              "url": "https://wtrippe0909.bandcamp.com/track/brutality-baptized"
-            }
-          ]
-        },
-        {
           "title": "Whispered Power",
           "type": "track",
           "url": "https://wtrippe0909.bandcamp.com/track/whispered-power",
@@ -259,11 +191,11 @@
           ]
         },
         {
-          "title": "Echo Chamber Ghosts",
+          "title": "Brutality Baptized",
           "type": "track",
-          "url": "https://wtrippe0909.bandcamp.com/track/echo-chamber-ghosts",
-          "date": "2026-11-08",
-          "image": "https://f4.bcbits.com/img/a0700008454_10.jpg",
+          "url": "https://wtrippe0909.bandcamp.com/track/brutality-baptized",
+          "date": "2026-11-09",
+          "image": "https://f4.bcbits.com/img/a3987470448_10.jpg",
           "price": 2,
           "currency": null,
           "nameYourPrice": false,
@@ -280,15 +212,49 @@
             "underground hip-hop",
             "Tampa"
           ],
-          "about": "Industrial boom-bap at 86 BPM. Low full-voice rap over heavy sub-bass, gritty vinyl crackle and a low synth-pad drone: filter-feed mazes, narratives swapped on schedule, every silence logged as consent.\n\n\"Echo Chamber Ghosts—scream the names you're told to hate.\"",
+          "about": "State violence processed as paperwork — five verses on raids that start before dawn, records that declare no harm done, and files that disappear into procedure. Dark cinematic boom-bap, clinical delivery.",
           "credits": "",
           "formats": [],
           "tracks": [
             {
               "position": 1,
-              "title": "Echo Chamber Ghosts",
-              "seconds": 239,
-              "url": "https://wtrippe0909.bandcamp.com/track/echo-chamber-ghosts"
+              "title": "Brutality Baptized",
+              "seconds": 236,
+              "url": "https://wtrippe0909.bandcamp.com/track/brutality-baptized"
+            }
+          ]
+        },
+        {
+          "title": "Stoop Ledger",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/stoop-ledger",
+          "date": "2026-11-09",
+          "image": "https://f4.bcbits.com/img/a0143386135_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "dark trap",
+            "dj scratching",
+            "hip-hop",
+            "phonk",
+            "rap",
+            "spoken word",
+            "storytelling rap",
+            "trap",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "Dirty dark trap at 140 BPM. Raw strained rap over gritty piano, DJ scratches, vinyl spin-downs, sliding 808s and massive sub drops with dub wubs.\n\nThe stoop watched the Big Wheels turn into dice games, and kept the record on every kid who sat there.\n\n\"Stoop seen the Big Wheel, stoop seen the dice\"",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Stoop Ledger",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/stoop-ledger"
             }
           ]
         },
@@ -391,6 +357,40 @@
               "title": "Prison by Design",
               "seconds": 268,
               "url": "https://wtrippe0909.bandcamp.com/track/prison-by-design"
+            }
+          ]
+        },
+        {
+          "title": "Echo Chamber Ghosts",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/echo-chamber-ghosts",
+          "date": "2026-11-08",
+          "image": "https://f4.bcbits.com/img/a1241630716_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom-bap",
+            "dark hip-hop",
+            "esoteric hip-hop",
+            "hip-hop",
+            "industrial hip-hop",
+            "protest rap",
+            "rap",
+            "spoken word",
+            "underground hip-hop",
+            "Tampa"
+          ],
+          "about": "Industrial boom-bap at 86 BPM. Low full-voice rap over heavy sub-bass, gritty vinyl crackle and a low synth-pad drone: filter-feed mazes, narratives swapped on schedule, every silence logged as consent.\n\n\"Echo Chamber Ghosts—scream the names you're told to hate.\"",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Echo Chamber Ghosts",
+              "seconds": 239,
+              "url": "https://wtrippe0909.bandcamp.com/track/echo-chamber-ghosts"
             }
           ]
         },
@@ -618,7 +618,7 @@
           "type": "track",
           "url": "https://wtrippe0909.bandcamp.com/track/solar-warden",
           "date": "2026-10-25",
-          "image": "https://f4.bcbits.com/img/a1427549960_10.jpg",
+          "image": "https://f4.bcbits.com/img/a1557388093_10.jpg",
           "price": 2,
           "currency": null,
           "nameYourPrice": false,
@@ -910,7 +910,7 @@
             "synth-rock",
             "Tampa"
           ],
-          "about": "An operational report from a fallen Architect who embeds a fatal flaw into the system from within. As memory returns, the vessel exposes layer zero, shatters the illusion, and charts a path toward collective awakening through sabotage and recall.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
+          "about": "An operational report from a fallen Architect who embeds a fatal flaw into the system from within. As memory returns, the vessel exposes layer zero, shatters the illusion, and charts a path toward collective awakening through sabotage and recall.",
           "credits": "",
           "formats": [],
           "tracks": [
@@ -942,7 +942,7 @@
             "tampa",
             "Tampa"
           ],
-          "about": "A contralto narrator recites a declassified history of mind control—from Cold War experiments to modern neural systems. Told without emotion or judgment, the song reveals a war that never ended, only refined, moving from bodies into signals, circuits, and thought itself.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
+          "about": "A contralto narrator recites a declassified history of mind control—from Cold War experiments to modern neural systems. Told without emotion or judgment, the song reveals a war that never ended, only refined, moving from bodies into signals, circuits, and thought itself.",
           "credits": "",
           "formats": [],
           "tracks": [
@@ -959,7 +959,7 @@
           "type": "track",
           "url": "https://wtrippe0909.bandcamp.com/track/the-recovered-name",
           "date": "2026-10-21",
-          "image": "https://f4.bcbits.com/img/a2125811619_10.jpg",
+          "image": "https://f4.bcbits.com/img/a1138464053_10.jpg",
           "price": 2,
           "currency": null,
           "nameYourPrice": false,
@@ -974,7 +974,7 @@
             "solar warden",
             "Tampa"
           ],
-          "about": "A fractured architect begins to hear echoes that don't belong to this world. As memory bleeds through code and myth breaks containment, a buried identity resurfaces. This is the moment of awakening—when a false reality collapses and the Solar Warden remembers his name.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
+          "about": "A fractured architect begins to hear echoes that don't belong to this world. As memory bleeds through code and myth breaks containment, a buried identity resurfaces. This is the moment of awakening—when a false reality collapses and the Solar Warden remembers his name.",
           "credits": "",
           "formats": [],
           "tracks": [
@@ -1006,7 +1006,7 @@
             "synthwave",
             "Tampa"
           ],
-          "about": "A trained remote viewer is guided into a sterile, controlled session meant to prove nothing. Following coordinates and names, he crosses internal thresholds and begins witnessing vast, non-human structures beyond sanctioned space. The mission ends, the data is buried—but the visions persist, unresolved and real.\n\nMore music, links, and updates: https://linktr.ee/wtrippe0909",
+          "about": "A trained remote viewer is guided into a sterile, controlled session meant to prove nothing. Following coordinates and names, he crosses internal thresholds and begins witnessing vast, non-human structures beyond sanctioned space. The mission ends, the data is buried—but the visions persist, unresolved and real.",
           "credits": "",
           "formats": [],
           "tracks": [
