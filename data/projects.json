@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T20:13:31.722Z",
+  "updatedAt": "2026-11-12T20:51:18.360Z",
   "projects": [
     {
       "id": "imgg",
@@ -140,7 +140,30 @@
         "storytelling rap",
         "deathcore",
         "industrial deathcore",
-        "metal"
+        "metal",
+        "dark rap",
+        "underground hip hop",
+        "808",
+        "aggressive",
+        "industrial phonk",
+        "cassette",
+        "conscious hip hop",
+        "dark boom bap",
+        "east coast hip hop",
+        "gritty",
+        "hip hop",
+        "political hip hop",
+        "documentary",
+        "mk-ultra",
+        "operation paperclip",
+        "political rap",
+        "dark hip hop",
+        "horrorcore",
+        "new york boom bap",
+        "downtempo",
+        "female vocal",
+        "rain",
+        "90s hip hop"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -167,6 +190,304 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "Stamp. Cut. Silence.",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/stamp-cut-silence",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a0361194011_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "dark ambient",
+            "dark rap",
+            "experimental",
+            "hip-hop",
+            "industrial hip-hop",
+            "rap",
+            "spoken word",
+            "underground hip hop",
+            "Tampa"
+          ],
+          "about": "A filing-room crypt under fluorescent hum — stamps, seals and black redaction bars, where a name is entered and erased in the same breath. Dry close-mic baritone, hard-spit verses and a gang-shout chant hook over 84 BPM cold boom-bap, sub-bass drops and an abrupt hard stop. Industrial hip-hop dossier rap. Stamp. Cut. Silence.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Stamp. Cut. Silence.",
+              "seconds": 177,
+              "url": "https://wtrippe0909.bandcamp.com/track/stamp-cut-silence"
+            }
+          ]
+        },
+        {
+          "title": "Carrier Lock",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/carrier-lock",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a3415856951_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "808",
+            "Experimental",
+            "aggressive",
+            "boom bap",
+            "dark ambient",
+            "dark trap",
+            "electronic",
+            "experimental",
+            "hip-hop",
+            "industrial",
+            "industrial phonk",
+            "phonk",
+            "rap",
+            "spoken word",
+            "trap",
+            "Tampa"
+          ],
+          "about": "Dark trap / industrial phonk at 135 BPM in F minor. Distorted 808 sub, mechanical clangs and tape saturation under spoken system-voice interludes and an aggressive flow — Operative 988 takes orders through an open channel and answers back. 'You gave me a number, I gave you a war.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Carrier Lock",
+              "seconds": 289,
+              "url": "https://wtrippe0909.bandcamp.com/track/carrier-lock"
+            }
+          ]
+        },
+        {
+          "title": "Conditioned Mind",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/conditioned-mind",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a0954588935_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "cassette",
+            "conscious hip hop",
+            "dark ambient",
+            "dark boom bap",
+            "east coast hip hop",
+            "experimental",
+            "gritty",
+            "hip hop",
+            "hip-hop",
+            "lo-fi",
+            "political hip hop",
+            "rap",
+            "underground hip hop",
+            "Tampa"
+          ],
+          "about": "East Coast underground boom bap from the intake wing. A dry, low-register voice files the whole intake process line by line - psych sheets, barcode wristbands, a red slash through the name - over a heavy, loose 83 BPM swing, soul-jazz chops and cassette hiss.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Conditioned Mind",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/conditioned-mind"
+            }
+          ]
+        },
+        {
+          "title": "Crimes Against Humanity",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/crimes-against-humanity",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a4254139511_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "conscious hip hop",
+            "dark ambient",
+            "dark boom bap",
+            "documentary",
+            "experimental",
+            "hip hop",
+            "hip-hop",
+            "mk-ultra",
+            "operation paperclip",
+            "political hip hop",
+            "rap",
+            "spoken word",
+            "underground hip hop",
+            "Tampa"
+          ],
+          "about": "Dark boom bap testimony built from the Paperclip record — sixteen hundred German scientists brought into the US government after the war, including men who had run human experiments in the camps. The CIA knew their backgrounds and recruited them anyway; the MK-Ultra protocols continued the work in cells beneath a Bavarian chalet, after Nuremberg. 'Show me the page, show me the line, where the old design meets the modern paradigm.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Crimes Against Humanity",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/crimes-against-humanity"
+            }
+          ]
+        },
+        {
+          "title": "Cross-Examination",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/cross-examination",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a1393444491_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "dark ambient",
+            "dark rap",
+            "experimental",
+            "hip-hop",
+            "political rap",
+            "rap",
+            "trap",
+            "underground hip hop",
+            "Tampa"
+          ],
+          "about": "An interrogation room at 140 BPM — sub-heavy 808s, a ticking clock and a dry voice demanding your name for the record. Controlled rap verses against dark autotuned hooks: premise before battle, frame before belief. Narrative framed as a cage. Cross-Examination.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Cross-Examination",
+              "seconds": 177,
+              "url": "https://wtrippe0909.bandcamp.com/track/cross-examination"
+            }
+          ]
+        },
+        {
+          "title": "Psychic Driving",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/psychic-driving",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a0833234272_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "cinematic",
+            "conspiracy",
+            "dark ambient",
+            "dark hip hop",
+            "experimental",
+            "gritty",
+            "hip hop",
+            "hip-hop",
+            "horrorcore",
+            "mk-ultra",
+            "new york boom bap",
+            "rap",
+            "underground hip hop",
+            "Tampa"
+          ],
+          "about": "Horrorcore boom bap built on the Cameron record — the MK-Ultra sleep rooms where the same sentence played sixteen hours on repeat until the psyche split. White tile, leather restraints, a tape reel turning under a little red light, and a case number where there ought to be a name. 'Psychic driving — rewiring the dream, tape-loop torture till the psyche splits clean.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Psychic Driving",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/psychic-driving"
+            }
+          ]
+        },
+        {
+          "title": "The Dawn My Hands Could Make",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-dawn-my-hands-could-make",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a1303836495_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "ambient",
+            "atmospheric",
+            "boom bap",
+            "cinematic",
+            "dark ambient",
+            "downtempo",
+            "ethereal",
+            "experimental",
+            "female vocal",
+            "hip-hop",
+            "rain",
+            "rap",
+            "trip hop",
+            "trip-hop",
+            "Tampa"
+          ],
+          "about": "Dark ambient trip-hop, 72 BPM in F# minor. A breathy close-mic vocal over detuned upright piano, pulsing sub-bass and storm rain — a woman on a porch at dusk lets the weather through and mends her own soul. Soaring strings close it.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Dawn My Hands Could Make",
+              "seconds": 267,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-dawn-my-hands-could-make"
+            }
+          ]
+        },
+        {
+          "title": "The Dulce Protocol",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-dulce-protocol",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a0961412964_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "90s hip hop",
+            "Experimental",
+            "boom bap",
+            "conspiracy",
+            "dark ambient",
+            "dark rap",
+            "experimental",
+            "hip-hop",
+            "rap",
+            "tampa",
+            "underground hip hop",
+            "Tampa"
+          ],
+          "about": "Boom bap testimony out the black sites. Phil Schneider, Archuleta Mesa, 1979 - four shafts through basalt, sulfur in the cavern, sixty-six dead in the raid. Black-budget holes where the paperwork ends.",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Dulce Protocol",
+              "seconds": 165,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-dulce-protocol"
+            }
+          ]
+        },
         {
           "title": "Porcelain Masks",
           "type": "track",
