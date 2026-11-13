@@ -1,16 +1,22 @@
 # Bandcamp audit
 
-Generated 2026-11-12 from data/projects.json (last Bandcamp sync 2026-11-12).
+Generated 2026-11-13 from data/projects.json (last Bandcamp sync 2026-11-13).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
-| [IMGG](https://imgg.bandcamp.com/) | 32 | 0 | 0 | 34 |
+| [IMGG](https://imgg.bandcamp.com/) | 18 | 0 | 0 | 41 |
 | [Raquiel Onara 988](https://raquielonara988.bandcamp.com/) | 86 | 0 | 0 | 7 |
 | [gfed0909](https://gfed0909.bandcamp.com/) | 58 | 1 | 3 | 3 |
 
-## IMGG — 32/100
+## IMGG — 18/100
 
 - 🟡 **Cross-promotion:** Does not link to: Raquiel Onara 988, gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
+- 🟡 **Release:** “Dead Man's Switch” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Awaken to the Architecture” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Men Behind the Curtain” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Quiet Director” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “The Quiet Hand That Covers” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Paperclip Sleepers” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Stamp. Cut. Silence.” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Carrier Lock” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Conditioned Mind” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
@@ -19,6 +25,7 @@ Generated 2026-11-12 from data/projects.json (last Bandcamp sync 2026-11-12).
 - 🟡 **Release:** “Psychic Driving” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Dawn My Hands Could Make” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Dulce Protocol” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Who Told the Atom” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Whispered Power” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Brutality Baptized” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Stoop Ledger” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.

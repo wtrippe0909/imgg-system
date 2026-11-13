@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T20:51:18.360Z",
+  "updatedAt": "2026-11-13T20:31:32.581Z",
   "projects": [
     {
       "id": "imgg",
@@ -163,7 +163,19 @@
         "downtempo",
         "female vocal",
         "rain",
-        "90s hip hop"
+        "90s hip hop",
+        "hardcore",
+        "dusty",
+        "militant",
+        "revolutionary",
+        "vinyl",
+        "baritone",
+        "minor key",
+        "thunder",
+        "war drums",
+        "paranoid",
+        "deliberate",
+        "rhodes"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -190,6 +202,240 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "Dead Man's Switch",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/dead-mans-switch",
+          "date": "2026-11-13",
+          "image": "https://f4.bcbits.com/img/a0229173049_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "90s hip hop",
+            "Experimental",
+            "boom bap",
+            "conspiracy",
+            "dark",
+            "dark ambient",
+            "experimental",
+            "gritty",
+            "hardcore",
+            "hip hop",
+            "hip-hop",
+            "horrorcore",
+            "political hip hop",
+            "rap",
+            "underground hip hop",
+            "Tampa"
+          ],
+          "about": "Seventy-five laptops spying in Belize, thirty-one terabytes secreted beyond any raid — then Spain, a cell, and June silence. 'Dead man's switch — thirty-one terabytes. Who gets exposed next?'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Dead Man's Switch",
+              "seconds": 178,
+              "url": "https://wtrippe0909.bandcamp.com/track/dead-mans-switch"
+            }
+          ]
+        },
+        {
+          "title": "Awaken to the Architecture",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/awaken-to-the-architecture",
+          "date": "2026-11-13",
+          "image": "https://f4.bcbits.com/img/a1424019365_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "conscious hip hop",
+            "dark ambient",
+            "dusty",
+            "experimental",
+            "hip hop",
+            "hip-hop",
+            "militant",
+            "political hip hop",
+            "rap",
+            "revolutionary",
+            "spoken word",
+            "underground hip hop",
+            "vinyl",
+            "Tampa"
+          ],
+          "about": "A pre-dawn raid told from the floor — then the paperwork that renames it, the language that disinfects force until the record clears its name. 'Brutality baptized as bureaucracy — different badge, same frame.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Awaken to the Architecture",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/awaken-to-the-architecture"
+            }
+          ]
+        },
+        {
+          "title": "Men Behind the Curtain",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/men-behind-the-curtain",
+          "date": "2026-11-13",
+          "image": "https://f4.bcbits.com/img/a0458031113_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "90s hip hop",
+            "Experimental",
+            "boom bap",
+            "dark",
+            "dark ambient",
+            "east coast hip hop",
+            "experimental",
+            "gritty",
+            "hip hop",
+            "hip-hop",
+            "horrorcore",
+            "political hip hop",
+            "rap",
+            "underground hip hop",
+            "vinyl",
+            "Tampa"
+          ],
+          "about": "1990s East Coast boom-bap horrorcore — swung kick, dry snare, detuned strings and pipe-organ stabs under two low voices. Franklin, Monarch, Mena: follow the money, follow the plane, follow the chain. 'Government behind the government. Men behind the curtain.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Men Behind the Curtain",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/men-behind-the-curtain"
+            }
+          ]
+        },
+        {
+          "title": "Quiet Director",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/quiet-director",
+          "date": "2026-11-13",
+          "image": "https://f4.bcbits.com/img/a1989030126_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "baritone",
+            "boom bap",
+            "dark",
+            "dark ambient",
+            "experimental",
+            "gritty",
+            "hip hop",
+            "hip-hop",
+            "horrorcore",
+            "minor key",
+            "political hip hop",
+            "rap",
+            "spoken word",
+            "underground hip hop",
+            "Tampa"
+          ],
+          "about": "Power with no face and no villain to find: committee rooms late at night, crisis inked in emergency, consent scheduled into the commute. 'It don't roar. It infect. System run by a quiet director.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Quiet Director",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/quiet-director"
+            }
+          ]
+        },
+        {
+          "title": "The Quiet Hand That Covers",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-quiet-hand-that-covers",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a1085319799_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "apocalyptic",
+            "baritone",
+            "boom bap",
+            "cinematic",
+            "dark",
+            "dark ambient",
+            "experimental",
+            "hip hop",
+            "hip-hop",
+            "rap",
+            "spoken word",
+            "thunder",
+            "underground hip hop",
+            "war drums",
+            "Tampa"
+          ],
+          "about": "Apocalyptic cinematic boom bap — earthquake war drums, thunder and rain under a dry close-mic baritone. The Ezekiel pattern: a column marching home under a false RETURN is ordered to turn back, hooks in the jaws, while judgment rolls over the camps. 'You will cover the land till the land covers you.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Quiet Hand That Covers",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-quiet-hand-that-covers"
+            }
+          ]
+        },
+        {
+          "title": "Paperclip Sleepers",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/paperclip-sleepers",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a0525501111_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "90s hip hop",
+            "Experimental",
+            "boom bap",
+            "conscious hip hop",
+            "dark ambient",
+            "east coast hip hop",
+            "experimental",
+            "gritty",
+            "hip hop",
+            "hip-hop",
+            "operation paperclip",
+            "paranoid",
+            "political hip hop",
+            "rap",
+            "underground hip hop",
+            "Tampa"
+          ],
+          "about": "Paranoid underground boom bap — raw 90s East Coast drums, mono sub and eerie vinyl under a militant delivery. The Paperclip ledger, name by name: von Braun, Gehlen, Rudolph, Barbie, Blome — the folders they whitewashed and the sleepers they planted. 'Paperclip sleepers, rise — truth in disguise.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Paperclip Sleepers",
+              "seconds": 180,
+              "url": "https://wtrippe0909.bandcamp.com/track/paperclip-sleepers"
+            }
+          ]
+        },
         {
           "title": "Stamp. Cut. Silence.",
           "type": "track",
@@ -485,6 +731,45 @@
               "title": "The Dulce Protocol",
               "seconds": 165,
               "url": "https://wtrippe0909.bandcamp.com/track/the-dulce-protocol"
+            }
+          ]
+        },
+        {
+          "title": "Who Told the Atom",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/who-told-the-atom",
+          "date": "2026-11-12",
+          "image": "https://f4.bcbits.com/img/a3102006744_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "90s hip hop",
+            "Experimental",
+            "boom bap",
+            "conscious hip hop",
+            "dark ambient",
+            "deliberate",
+            "dusty",
+            "east coast hip hop",
+            "experimental",
+            "hip hop",
+            "hip-hop",
+            "political hip hop",
+            "rap",
+            "rhodes",
+            "underground hip hop",
+            "Tampa"
+          ],
+          "about": "Dry, deliberate boom bap — heavy acoustic kick, crisp snare, dusty Rhodes chops and a loop corroding around the voice. Marble archives, brass rivets, a covenant dividing life and death: 'Who told the atom how to hold its breath? Who signed the covenant dividing life and death?'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Who Told the Atom",
+              "seconds": 173,
+              "url": "https://wtrippe0909.bandcamp.com/track/who-told-the-atom"
             }
           ]
         },
