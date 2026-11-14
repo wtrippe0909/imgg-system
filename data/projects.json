@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T20:31:32.581Z",
+  "updatedAt": "2026-11-14T18:46:32.309Z",
   "projects": [
     {
       "id": "imgg",
@@ -175,7 +175,13 @@
         "war drums",
         "paranoid",
         "deliberate",
-        "rhodes"
+        "rhodes",
+        "dark industrial",
+        "ebm",
+        "electro industrial",
+        "underground",
+        "sludge",
+        "soulwave"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -202,6 +208,122 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "Invisible Coercion",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/invisible-coercion",
+          "date": "2026-11-14",
+          "image": "https://f4.bcbits.com/img/a2726573856_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "conspiracy",
+            "cyberpunk",
+            "dark ambient",
+            "dark industrial",
+            "dystopian",
+            "ebm",
+            "electro industrial",
+            "electronic",
+            "experimental",
+            "hip-hop",
+            "rap",
+            "tampa",
+            "underground",
+            "Tampa"
+          ],
+          "about": "Diplomats fall ill from a weapon nobody can see: millimeter waves, sonic cannons, pulses written straight into the brain — coercion with zero physical trace. 'No smoke, no flash, no trigger pulled—just pressure in the skull.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Invisible Coercion",
+              "seconds": 240,
+              "url": "https://wtrippe0909.bandcamp.com/track/invisible-coercion"
+            }
+          ]
+        },
+        {
+          "title": "Iron Latency",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/iron-latency",
+          "date": "2026-11-14",
+          "image": "https://f4.bcbits.com/img/a3946772617_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "dark",
+            "dark ambient",
+            "electronic",
+            "experimental",
+            "hip hop",
+            "hip-hop",
+            "industrial",
+            "phonk",
+            "rap",
+            "sludge",
+            "tampa",
+            "trap",
+            "underground",
+            "Tampa"
+          ],
+          "about": "A commander seals the grid breaker by breaker — then the voice in the walls answers: she used to work the wiring, and now she is the hum in the transformer hall. 'Copper in my nerves and the current won't clear.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Iron Latency",
+              "seconds": 179,
+              "url": "https://wtrippe0909.bandcamp.com/track/iron-latency"
+            }
+          ]
+        },
+        {
+          "title": "The Silent Architect (Remastered)",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/the-silent-architect-remastered",
+          "date": "2026-11-14",
+          "image": "https://f4.bcbits.com/img/a2245855115_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "ambient",
+            "atmospheric",
+            "boom bap",
+            "dark ambient",
+            "downtempo",
+            "electronic",
+            "ethereal",
+            "experimental",
+            "hip-hop",
+            "rap",
+            "soulwave",
+            "tampa",
+            "underground",
+            "Tampa"
+          ],
+          "about": "A woman lives inside a grid of perfect glass towers where every shadow is a lens, holding a signal no sensor can find. 'I will not shatter the silence with a word, but the frequency unheard.'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "The Silent Architect (Remastered)",
+              "seconds": 214,
+              "url": "https://wtrippe0909.bandcamp.com/track/the-silent-architect-remastered"
+            }
+          ]
+        },
         {
           "title": "Dead Man's Switch",
           "type": "track",
