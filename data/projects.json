@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T18:46:32.309Z",
+  "updatedAt": "2026-11-15T19:24:39.510Z",
   "projects": [
     {
       "id": "imgg",
@@ -181,7 +181,10 @@
         "electro industrial",
         "underground",
         "sludge",
-        "soulwave"
+        "soulwave",
+        "alt r&b",
+        "nocturnal",
+        "gothic"
       ],
       "image": "https://f4.bcbits.com/img/0047899243_21.jpg",
       "links": [
@@ -208,6 +211,121 @@
       ],
       "contact": "",
       "releases": [
+        {
+          "title": "On Repeat",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/on-repeat",
+          "date": "2026-11-15",
+          "image": "https://f4.bcbits.com/img/a1728278022_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "alt r&b",
+            "boom bap",
+            "dark",
+            "dark ambient",
+            "experimental",
+            "hip-hop",
+            "nocturnal",
+            "rap",
+            "rhodes",
+            "tampa",
+            "trip hop",
+            "vinyl",
+            "Tampa"
+          ],
+          "about": "Almost three, still awake, phone light burning in her face — she changes the ending every night and nothing comes out right; even the silence sounds like him. ‘But letting go repeats you too’",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "On Repeat",
+              "seconds": 219,
+              "url": "https://wtrippe0909.bandcamp.com/track/on-repeat"
+            }
+          ]
+        },
+        {
+          "title": "Burn The Docket",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/burn-the-docket",
+          "date": "2026-11-14",
+          "image": "https://f4.bcbits.com/img/a1811234822_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "conspiracy",
+            "dark",
+            "dark ambient",
+            "dystopian",
+            "experimental",
+            "hip hop",
+            "hip-hop",
+            "industrial",
+            "rap",
+            "spoken word",
+            "tampa",
+            "underground",
+            "Tampa"
+          ],
+          "about": "A night-shift auditor finds the master ledger gone and the carbon slips already burning in the shredder tray — the record rewritten before she ever clocks in. 'BURN THE DOCKET — STRIP THE SCROLL'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Burn The Docket",
+              "seconds": 180,
+              "url": "https://wtrippe0909.bandcamp.com/track/burn-the-docket"
+            }
+          ]
+        },
+        {
+          "title": "Signal Collapse",
+          "type": "track",
+          "url": "https://wtrippe0909.bandcamp.com/track/signal-collapse",
+          "date": "2026-11-14",
+          "image": "https://f4.bcbits.com/img/a3593002532_10.jpg",
+          "price": 2,
+          "currency": null,
+          "nameYourPrice": false,
+          "tags": [
+            "Experimental",
+            "boom bap",
+            "conspiracy",
+            "dark ambient",
+            "dark industrial",
+            "darkwave",
+            "dystopian",
+            "ebm",
+            "electro industrial",
+            "electronic",
+            "experimental",
+            "gothic",
+            "hip-hop",
+            "rap",
+            "tampa",
+            "underground",
+            "Tampa"
+          ],
+          "about": "Inside the server hall, a night-shift insider watches records bleached bright and truth redacted, stamped and sold — until she cuts the current herself. 'This isn't signal — this is control'",
+          "credits": "",
+          "formats": [],
+          "tracks": [
+            {
+              "position": 1,
+              "title": "Signal Collapse",
+              "seconds": 201,
+              "url": "https://wtrippe0909.bandcamp.com/track/signal-collapse"
+            }
+          ]
+        },
         {
           "title": "Invisible Coercion",
           "type": "track",

@@ -1,16 +1,19 @@
 # Bandcamp audit
 
-Generated 2026-11-14 from data/projects.json (last Bandcamp sync 2026-11-14).
+Generated 2026-11-15 from data/projects.json (last Bandcamp sync 2026-11-15).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
-| [IMGG](https://imgg.bandcamp.com/) | 12 | 0 | 0 | 44 |
+| [IMGG](https://imgg.bandcamp.com/) | 6 | 0 | 0 | 47 |
 | [Raquiel Onara 988](https://raquielonara988.bandcamp.com/) | 86 | 0 | 0 | 7 |
 | [gfed0909](https://gfed0909.bandcamp.com/) | 58 | 1 | 3 | 3 |
 
-## IMGG — 12/100
+## IMGG — 6/100
 
 - 🟡 **Cross-promotion:** Does not link to: Raquiel Onara 988, gfed0909. Add the other projects to Links, and recommend each other’s releases ("If you like X, you may also like").
+- 🟡 **Release:** “On Repeat” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Burn The Docket” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
+- 🟡 **Release:** “Signal Collapse” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Invisible Coercion” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “Iron Latency” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
 - 🟡 **Release:** “The Silent Architect (Remastered)” has no credits. Credit performers, mixing/mastering and artwork; collaborators share pages that credit them.
