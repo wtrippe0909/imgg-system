@@ -1,6 +1,6 @@
 # Bandcamp audit
 
-Generated 2026-11-16 from data/projects.json (last Bandcamp sync 2026-11-15).
+Generated 2026-11-17 from data/projects.json (last Bandcamp sync 2026-11-15).
 
 | Project | Score | 🔴 | 🟠 | 🟡 |
 |---|---:|---:|---:|---:|
